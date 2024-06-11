@@ -1,0 +1,2276 @@
+12/15/23, 3:53 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+12/15/23, 3:53 PM - You created group "si"
+12/15/23, 3:53 PM - Andres: 5
+12/15/23, 3:54 PM - Andres: Vos 3
+12/16/23, 9:49 AM - Andres: 6
+12/16/23, 10:46 AM - Nicolas Di Giovanni: 4
+12/17/23, 11:33 AM - Andres: 7
+12/17/23, 11:38 AM - Nicolas Di Giovanni: 5
+12/18/23, 7:01 AM - Nicolas Di Giovanni: 6
+12/18/23, 1:17 PM - Nicolas Di Giovanni: 7
+12/18/23, 3:54 PM - Andres: 8
+12/19/23, 10:28 AM - Nicolas Di Giovanni: 8
+12/19/23, 10:33 AM - Andres: 9
+12/19/23, 8:23 PM - Andres: 10
+12/19/23, 8:39 PM - Nicolas Di Giovanni: 9
+12/20/23, 10:17 AM - Andres: 11
+12/20/23, 10:17 AM - Andres: Llegué de pedo
+12/20/23, 10:24 AM - Nicolas Di Giovanni: 10
+12/20/23, 1:32 PM - Nicolas Di Giovanni: 11
+12/21/23, 12:34 PM - Nicolas Di Giovanni: 12
+12/21/23, 1:23 PM - Nicolas Di Giovanni: 13
+12/21/23, 2:57 PM - Andres: Man que comiste
+12/22/23, 7:31 AM - Andres: 12
+12/22/23, 7:31 AM - Andres: Casi 48 horas man estoy preocupado de lo que vaya a salir
+12/22/23, 10:26 AM - Andres: 13
+12/22/23, 10:50 AM - Nicolas Di Giovanni: 14
+12/24/23, 6:28 AM - Nicolas Di Giovanni: 15 (ayer 14:30)
+12/24/23, 8:33 AM - Andres: 14 (ayer)
+12/24/23, 8:33 AM - Andres: 15
+12/24/23, 8:43 AM - Nicolas Di Giovanni: 16
+12/25/23, 1:23 PM - Andres: 16
+12/25/23, 1:35 PM - Nicolas Di Giovanni: 17
+12/26/23, 11:38 AM - Andres: 17
+12/26/23, 7:02 PM - Andres: 18
+12/27/23, 8:30 AM - Andres: 19
+12/27/23, 8:30 AM - Andres: En un boliche en el centro de Río
+12/27/23, 8:51 AM - Nicolas Di Giovanni: 18
+12/28/23, 7:03 AM - Nicolas Di Giovanni: *19*
+12/28/23, 10:18 AM - Andres: You deleted this message
+12/28/23, 10:30 AM - Andres: False alarm fue un pedo
+12/28/23, 4:05 PM - Andres: 20
+12/28/23, 6:01 PM - Andres: 21
+12/29/23, 8:28 AM - Andres: 22
+12/29/23, 8:45 AM - Nicolas Di Giovanni: 20
+12/29/23, 4:35 PM - Andres: 23
+12/30/23, 7:39 AM - Nicolas Di Giovanni: 21
+12/30/23, 10:49 AM - Andres: 24
+12/30/23, 1:02 PM - Nicolas Di Giovanni: 22
+12/31/23, 7:17 AM - Andres: 25
+12/31/23, 7:31 AM - Nicolas Di Giovanni: 23
+1/1/24, 10:15 AM - Andres: 26
+1/2/24, 11:08 AM - Andres: 27
+1/2/24, 1:04 PM - Nicolas Di Giovanni: 24 - 08:15
+1/2/24, 1:04 PM - Nicolas Di Giovanni: 25 - 11:35
+1/2/24, 1:05 PM - Nicolas Di Giovanni: 26 - 14:05
+1/2/24, 9:41 PM - Andres: 28
+1/3/24, 8:58 AM - Nicolas Di Giovanni: 27
+1/3/24, 1:57 PM - Andres: 29
+1/3/24, 7:02 PM - Nicolas Di Giovanni: 28
+1/4/24, 12:09 PM - Andres: 30
+1/4/24, 12:09 PM - Andres: Tiene olor a espárrago (no comí espárrago)
+1/4/24, 12:14 PM - You added Mateo Damico
+1/4/24, 12:15 PM - Mateo Damico: No esperaba menos
+1/4/24, 12:15 PM - You changed the group description
+1/4/24, 12:16 PM - Andres: Con el start date podemos ajustar los gráficos para normalizar
+1/4/24, 12:16 PM - Andres: Pone el tuyo mateo
+1/4/24, 12:17 PM - Mateo Damico: Yo arranco hoy
+1/4/24, 12:17 PM - Mateo Damico: Ya meti uno
+1/4/24, 12:36 PM - Nicolas Di Giovanni: Noman
+1/4/24, 12:36 PM - Nicolas Di Giovanni: Espectacular esto
+1/4/24, 12:37 PM - Andres: Mateo: 1
+1/4/24, 12:37 PM - Andres: Mejor mantener un Excel creo, no?
+1/4/24, 12:37 PM - Nicolas Di Giovanni: Man, puedo hacer un form automático hoy si quieren
+1/4/24, 12:38 PM - Mateo Damico: form me voy a olvidar
+1/4/24, 12:38 PM - Mateo Damico: preriero por aca
+1/4/24, 12:38 PM - Nicolas Di Giovanni: 29
+1/4/24, 12:38 PM - Mateo Damico: ya tengo un form de gastos y me re cuelgo
+1/4/24, 12:39 PM - Andres: Ok pero eventualmente hay que pasarlo a un sheet a menos que haga un bot de whatsapp pero no tengo tiempo
+1/4/24, 12:40 PM - Mateo Damico: flaco ya tenes otro laburo vos
+1/4/24, 12:41 PM - Mateo Damico: para mi tiene que se tiene que mandar en formato mm/dd/yyyy hh:mm:ss tt
+1/4/24, 12:41 PM - Mateo Damico: y listo
+1/4/24, 12:41 PM - Mateo Damico: ejemplo
+1/4/24, 12:42 PM - Nicolas Di Giovanni: Igual banca
+1/4/24, 12:42 PM - Mateo Damico: MATEO 01/04/2024 02:42:35 PM
+1/4/24, 12:42 PM - Nicolas Di Giovanni: Sacas un reporte de wp y sale toda la data
+1/4/24, 12:42 PM - Nicolas Di Giovanni: [1/4, 2:39 PM] Andy USA: Ok pero eventualmente hay que pasarlo a un sheet a menos que haga un bot de whatsapp pero no tengo tiempo
+[1/4, 2:40 PM] Mateo Damico: flaco ya tenes otro laburo vos
+[1/4, 2:41 PM] Mateo Damico: para mi tiene que se tiene que mandar en formato mm/dd/yyyy hh:mm:ss tt
+[1/4, 2:41 PM] Mateo Damico: y listo
+[1/4, 2:41 PM] Mateo Damico: ejemplo
+[1/4, 2:42 PM] Nico Di Giovanni: Igual banca
+1/4/24, 12:42 PM - Nicolas Di Giovanni: De ahi aaco todo con un excel automático
+1/4/24, 12:43 PM - Andres: Ah es verdad eso lo puedo parsear con Python y graficar en un toque
+1/4/24, 12:43 PM - Mateo Damico: entonces hay que definir un mensaje y listo
+1/4/24, 12:43 PM - Andres: Estoy de acuerdo, vamos a usar el standard ISO 8601
+1/4/24, 12:44 PM - Andres: Pero el horario ya sale con el mensaje así que solo un . está bien
+1/4/24, 12:48 PM - Mateo Damico: y despues en python contas solo los mensajes que sean un .
+1/4/24, 12:49 PM - Andres: Hacelo vos para practicar crack
+1/4/24, 12:55 PM - Mateo Damico: te mato
+1/5/24, 7:03 AM - Mateo Damico: .
+1/5/24, 7:04 AM - Nicolas Di Giovanni: 30 hoy 2:20 AM
+1/5/24, 8:28 AM - Nicolas Di Giovanni: 31
+1/5/24, 10:38 AM - Andres: 31
+1/5/24, 10:00 PM - Mateo Damico: 3
+1/6/24, 1:09 PM - Andres: 32
+1/6/24, 6:38 PM - Mateo Damico: 4
+1/7/24, 7:43 AM - Nicolas Di Giovanni: 32
+1/7/24, 9:33 AM - Mateo Damico: 5
+1/7/24, 10:12 AM - Nicolas Di Giovanni: 33
+1/7/24, 11:59 AM - Andres: 33
+1/7/24, 4:31 PM - Andres: 34
+1/7/24, 4:31 PM - Andres: Llegué de pedo
+1/7/24, 4:31 PM - Andres: Ese langostino tenía olor raro
+1/7/24, 4:31 PM - Nicolas Di Giovanni: Man ayer estuve en el cerro y no cague. Viernes asado
+1/7/24, 4:32 PM - Nicolas Di Giovanni: El 32 y 33 fueron violentos
+1/7/24, 4:46 PM - Mateo Damico: Que ordinarios que son
+1/7/24, 5:09 PM - Mateo Damico: 6
+1/8/24, 10:57 AM - Andres: 35
+1/8/24, 11:12 AM - Nicolas Di Giovanni: 34
+1/8/24, 11:58 AM - Mateo Damico: 7
+1/8/24, 1:56 PM - Mateo Damico: 8
+1/8/24, 1:56 PM - Mateo Damico: Mucho mate hoy
+1/8/24, 5:12 PM - Andres: 36
+1/9/24, 11:45 AM - Nicolas Di Giovanni: 35
+1/9/24, 11:46 AM - Mateo Damico: uu me olvide del de la mañana
+1/9/24, 11:46 AM - Mateo Damico: 9
+1/9/24, 1:04 PM - Andres: 37
+1/9/24, 1:16 PM - Andres: Estaba picante la hamburguesa de anoche
+1/9/24, 2:13 PM - Andres: 38
+1/9/24, 6:27 PM - Mateo Damico: 10
+1/10/24, 7:19 AM - Mateo Damico: 11
+1/10/24, 7:19 AM - Mateo Damico: Mañanero, facil, rapido, rendidor
+1/10/24, 11:02 AM - Andres: 39
+1/10/24, 11:53 AM - Andres: 40
+1/10/24, 11:53 AM - Andres: Estoy ganando
+1/10/24, 11:53 AM - Andres: O perdiendo, no sé
+1/10/24, 12:30 PM - Nicolas Di Giovanni: 36
+1/10/24, 12:30 PM - Nicolas Di Giovanni: Man, yo estoy muy irregular
+1/10/24, 12:32 PM - Mateo Damico: Hacete ver flaco
+1/10/24, 7:49 PM - Mateo Damico: 12
+1/10/24, 8:24 PM - Nicolas Di Giovanni: 37
+1/11/24, 7:41 AM - Mateo Damico: 13
+1/11/24, 12:36 PM - Nicolas Di Giovanni: *38*
+1/11/24, 12:36 PM - Nicolas Di Giovanni: Man este cuenta por 3 cagos
+1/11/24, 12:36 PM - Andres: 🪵?
+1/11/24, 12:36 PM - Nicolas Di Giovanni: Lit
+1/11/24, 12:37 PM - Andres: Lamentablemente, la junta acordó que todos los goles valen uno
+1/11/24, 12:39 PM - Mateo Damico: cuando arrancaron a contar
+1/11/24, 12:39 PM - Mateo Damico: estoy en promedio 2 por dia
+1/11/24, 12:40 PM - Mateo Damico: si me lo propongo puedo llegar a 3
+1/11/24, 12:41 PM - Andres: Compro PLA?
+1/11/24, 12:43 PM - Andres: <Media omitted>
+1/11/24, 12:48 PM - Andres: 41
+1/11/24, 12:50 PM - Mateo Damico: no porque vas a cagar mas
+1/11/24, 12:54 PM - Andres: No boludo
+1/11/24, 12:54 PM - Andres: Compro stocks porque vos vas a tomar más
+1/11/24, 12:59 PM - Mateo Damico: Yo tomo yerba organica
+1/11/24, 12:59 PM - Mateo Damico: Re puto
+1/11/24, 12:59 PM - Mateo Damico: Playadito es de bobo
+1/12/24, 8:11 AM - Mateo Damico: 14
+1/12/24, 8:11 AM - Nicolas Di Giovanni: 39
+1/12/24, 8:11 AM - Nicolas Di Giovanni: Cagamos juntos a distancia
+1/12/24, 8:12 AM - Nicolas Di Giovanni: null
+1/12/24, 8:13 AM - Mateo Damico: <Media omitted>
+1/12/24, 11:31 AM - Mateo Damico: <Media omitted>
+1/12/24, 11:36 AM - Andres: 42
+1/12/24, 12:45 PM - Nicolas Di Giovanni: Jajaja
+1/12/24, 12:46 PM - Nicolas Di Giovanni: Aca en chile la gente no toca la puerta del baño. Se presupone que si estas usandolo cerras la llave
+1/12/24, 12:46 PM - Nicolas Di Giovanni: Eso se traduce en que si sos chileno y ves puertas de baños cerradas, agarras la manija y tratas de abrirla con toda
+1/12/24, 12:47 PM - Nicolas Di Giovanni: No saben lo horrible que es cagar asi man
+1/12/24, 12:47 PM - Nicolas Di Giovanni: Tas concentrado y de la nada un enfermo trata de entrar. Llave puesta y todo se te frunce el ano
+1/12/24, 12:49 PM - Andres: Te tenés que concentrar para cagar?
+1/12/24, 12:49 PM - Nicolas Di Giovanni: 40
+1/12/24, 12:49 PM - Nicolas Di Giovanni: Mas o menos
+1/12/24, 12:55 PM - Mateo Damico: No hay nada peor que ser chileno
+1/12/24, 6:55 PM - Andres: 43
+1/13/24, 11:52 AM - Andres: 44
+1/13/24, 11:52 AM - Andres: Están bien?
+1/13/24, 12:26 PM - Nicolas Di Giovanni: 41
+1/14/24, 8:51 AM - Mateo Damico: 15
+1/14/24, 8:51 AM - Mateo Damico: No iba desde el viernes a la mañana
+1/14/24, 9:10 AM - Nicolas Di Giovanni: 42
+1/14/24, 12:20 PM - Andres: 45
+1/15/24, 6:57 AM - Mateo Damico: 16
+1/15/24, 9:26 AM - Nicolas Di Giovanni: 43
+1/15/24, 11:33 AM - Andres: 46
+1/15/24, 11:50 AM - Andres: 47
+1/15/24, 11:50 AM - Andres: Estaba demasiado barata la comida china de anoche yo sabía
+1/15/24, 11:57 AM - Mateo Damico: No broder
+1/15/24, 11:57 AM - Mateo Damico: Desconfío totalmente
+1/15/24, 11:57 AM - Mateo Damico: No me hagan empezar a pedir evidencia
+1/15/24, 11:58 AM - Andres: No jajaja no empecemos con esa
+1/15/24, 11:58 AM - Nicolas Di Giovanni: puede ser eh
+1/15/24, 11:58 AM - Nicolas Di Giovanni: pero nefasto
+1/15/24, 7:12 PM - Andres: 48
+1/15/24, 8:21 PM - Nicolas Di Giovanni: 44
+1/16/24, 6:30 AM - Mateo Damico: 17
+1/16/24, 8:43 AM - Nicolas Di Giovanni: 45
+1/16/24, 10:46 AM - Andres: 49
+1/16/24, 10:46 AM - Andres: Man me tengo que hacer ver
+1/16/24, 10:51 AM - Mateo Damico: Re puto
+1/16/24, 11:58 PM - Andres: 50
+1/17/24, 6:38 AM - Mateo Damico: 18
+1/17/24, 12:06 PM - Andres: 51
+1/18/24, 12:00 AM - Andres: 52
+1/18/24, 12:00 AM - Andres: Salió solido, buena señal
+1/18/24, 5:43 AM - Nicolas Di Giovanni: Man, tas hecho mierda
+1/18/24, 5:43 AM - Nicolas Di Giovanni: Como vas tanto?
+1/18/24, 8:01 AM - Nicolas Di Giovanni: 46
+1/18/24, 8:01 AM - Mateo Damico: Bro
+1/18/24, 8:01 AM - Mateo Damico: 19
+1/18/24, 8:01 AM - Mateo Damico: Estamos cagando al mismo tiempo
+1/18/24, 8:03 AM - Nicolas Di Giovanni: Tremendo
+1/18/24, 8:03 AM - Nicolas Di Giovanni: Ke conexión
+1/18/24, 10:43 AM - Andres: Y empecé a tomar whey ahora, esto solo puede empeorar
+1/18/24, 10:45 AM - Mateo Damico: <Media omitted>
+1/18/24, 10:46 AM - Mateo Damico: Sos racvier ahora o que
+1/18/24, 11:51 AM - Andres: 53
+1/18/24, 11:57 AM - Nicolas Di Giovanni: 47
+1/18/24, 3:24 PM - Andres: 54
+1/19/24, 7:38 AM - Nicolas Di Giovanni: 48
+1/19/24, 11:34 AM - Andres: 55
+1/19/24, 7:04 PM - Andres: 56
+1/19/24, 7:05 PM - Andres: @5491140542602 estás constipado?
+1/19/24, 7:05 PM - Nicolas Di Giovanni: Yo ai
+1/19/24, 7:05 PM - Nicolas Di Giovanni: Si
+1/20/24, 8:30 AM - Mateo Damico: 20
+1/20/24, 10:18 AM - Nicolas Di Giovanni: 49
+1/20/24, 12:26 PM - Andres: 57
+1/20/24, 12:26 PM - Mateo Damico: 21
+1/20/24, 12:26 PM - Mateo Damico: Sync
+1/20/24, 12:27 PM - Andres: <Media omitted>
+1/20/24, 6:37 PM - Andres: 58
+1/21/24, 9:16 AM - Mateo Damico: Anoche fue una noche muy dura
+1/21/24, 9:16 AM - Mateo Damico: 22
+1/21/24, 9:16 AM - Mateo Damico: 23
+1/21/24, 9:16 AM - Mateo Damico: 24
+1/21/24, 9:16 AM - Mateo Damico: 25
+1/21/24, 9:16 AM - Mateo Damico: En realidad de dura no tuvo nada
+1/21/24, 10:07 AM - Nicolas Di Giovanni: AJAJJAAJAJJAA
+1/21/24, 10:07 AM - Nicolas Di Giovanni: 50 anoche
+1/21/24, 10:07 AM - Nicolas Di Giovanni: Pero comi tanto queso ayer en un asado
+1/21/24, 10:07 AM - Nicolas Di Giovanni: Que dudo cagar hasta el miércoles
+1/21/24, 10:25 AM - Andres: Jajajajja buen fernet
+1/21/24, 11:45 AM - Andres: 59
+1/21/24, 5:04 PM - Mateo Damico: 26
+1/21/24, 5:04 PM - Nicolas Di Giovanni: *50*
+1/21/24, 9:20 PM - Mateo Damico: 27
+1/21/24, 9:20 PM - Mateo Damico: Y el 28 llega en breve
+1/21/24, 9:35 PM - Mateo Damico: 28
+1/21/24, 9:35 PM - Mateo Damico: Son horas complicadas
+1/21/24, 9:35 PM - Mateo Damico: Es 100% liquido
+1/21/24, 9:35 PM - Nicolas Di Giovanni: Noman
+1/21/24, 9:35 PM - Nicolas Di Giovanni: Tas en la B
+1/22/24, 7:01 AM - Mateo Damico: 29
+1/22/24, 7:28 AM - Mateo Damico: che estoy hecho garcha
+1/22/24, 7:39 AM - Nicolas Di Giovanni: diria mas bien hecho mierda
+1/22/24, 7:39 AM - Nicolas Di Giovanni: pero si
+1/22/24, 9:09 AM - Mateo Damico: Eu
+1/22/24, 9:10 AM - Mateo Damico: Tengo que ir al medico
+1/22/24, 9:10 AM - Mateo Damico: 30
+1/22/24, 9:17 AM - Nicolas Di Giovanni: 51
+1/22/24, 9:17 AM - Nicolas Di Giovanni: anda al medico man
+1/22/24, 9:17 AM - Nicolas Di Giovanni: posta
+1/22/24, 9:56 AM - Andres: Hacete ver
+1/22/24, 2:34 PM - Andres: En la oficina tienen un bloqueador de señal en el baño son unos forros
+1/22/24, 2:34 PM - Andres: 60
+1/22/24, 2:34 PM - Nicolas Di Giovanni: 52
+1/22/24, 2:35 PM - Nicolas Di Giovanni: tremendo!
+1/22/24, 2:39 PM - Andres: Man quiero ver esto en el gráfico
+1/22/24, 2:39 PM - Andres: Si tenés más granularidad en el horario, mejor
+1/22/24, 2:40 PM - Andres: Pero probablemente no quieras recordar ese momento
+1/22/24, 2:40 PM - Nicolas Di Giovanni: yo ultimamente me vengo atrasando un poco con algunos registros
+1/22/24, 2:40 PM - Nicolas Di Giovanni: pero nada grave
+1/22/24, 2:57 PM - Mateo Damico: Armalo
+1/22/24, 2:57 PM - Mateo Damico: Boludo me sale agua del orto
+1/23/24, 7:45 AM - Mateo Damico: 31
+1/23/24, 7:45 AM - Mateo Damico: Semisolido
+1/23/24, 7:46 AM - Nicolas Di Giovanni: bien man
+1/23/24, 7:46 AM - Nicolas Di Giovanni: de a poco mejorando
+1/23/24, 10:40 AM - Andres: Empecé a desayunar avena así que cagaron
+1/23/24, 10:41 AM - Andres: 61
+1/23/24, 11:27 AM - Nicolas Di Giovanni: 53
+1/23/24, 12:49 PM - Mateo Damico: Nunca se olviden de mear sentados
+1/23/24, 1:00 PM - Andres: Noman
+1/23/24, 1:01 PM - Andres: Te relajaste mucho?
+1/23/24, 1:05 PM - Mateo Damico: <Media omitted>
+1/23/24, 1:09 PM - Andres: De nuevo, yo no sé quién gana esto
+1/23/24, 1:19 PM - Mateo Damico: manda la tabla
+1/23/24, 1:19 PM - Mateo Damico: o el grafico
+1/23/24, 1:21 PM - Andres: Ahí hago un colab para que me ayuden
+1/23/24, 1:22 PM - Andres: Pero ahora estoy laburando en serio
+1/23/24, 1:22 PM - Andres: Bueno no, estoy almorzando
+1/23/24, 1:22 PM - Andres: null
+1/23/24, 1:25 PM - Andres: Ojo que con los porotos y avena 🚀 <This message was edited>
+1/23/24, 1:25 PM - Andres: Me fui mundial
+1/23/24, 1:28 PM - Mateo Damico: Sos un ordinario
+1/23/24, 1:29 PM - Andres: <Media omitted>
+1/23/24, 1:29 PM - Mateo Damico: ponete a codear
+1/23/24, 1:30 PM - Mateo Damico: que tambien me debes avances de la botonera
+1/23/24, 6:01 PM - Nicolas Di Giovanni: Jajajajajaajaj
+1/24/24, 7:21 AM - Mateo Damico: 32
+1/24/24, 7:22 AM - Nicolas Di Giovanni: 54
+1/24/24, 7:22 AM - Nicolas Di Giovanni: cagamos juntos literal
+1/24/24, 8:00 AM - Mateo Damico: re puto
+1/24/24, 8:15 AM - Mateo Damico: Che
+1/24/24, 8:15 AM - Mateo Damico: Los mineros
+1/24/24, 8:15 AM - Mateo Damico: null
+1/24/24, 8:16 AM - Mateo Damico: 33 soretes chilenos traidores
+1/24/24, 10:22 AM - Andres: 62
+1/24/24, 11:49 AM - Mateo Damico: mañana cargadita
+1/24/24, 11:49 AM - Mateo Damico: 34
+1/24/24, 12:56 PM - Andres: <Media omitted>
+1/24/24, 12:57 PM - Andres: Mate está proyectando una remontada
+1/24/24, 12:58 PM - Andres: Igual tengo que revisar que mi regla de regex este contando todos
+1/24/24, 1:08 PM - Andres: Los de Nico en negrita no los cuenta
+1/24/24, 1:18 PM - Mateo Damico: si es a este costo no quiero ninguna remontada
+1/24/24, 1:18 PM - Andres: Man vos estás muy mal
+1/24/24, 1:18 PM - Andres: Dejame normalizar todos a la misma fecha
+1/24/24, 1:19 PM - Mateo Damico: <Media omitted>
+1/24/24, 1:20 PM - Andres: Tuviste un fin de semana jodido man
+1/24/24, 1:20 PM - Andres: Tenemos que computar derivadas
+1/24/24, 1:20 PM - Andres: O mejor tiramos un Fourier
+1/24/24, 1:20 PM - Mateo Damico: meti una ascelerada grosa
+1/24/24, 1:20 PM - Mateo Damico: pero no quiero otra
+1/24/24, 1:20 PM - Mateo Damico: mostra normalizado
+1/24/24, 1:21 PM - Andres: Ok ahí va tengo que laburar
+1/24/24, 1:22 PM - Mateo Damico: hacelo ahora
+1/24/24, 1:23 PM - Andres: Tenés el número del gastroenterólogo preparado?
+1/24/24, 1:26 PM - Mateo Damico: <Media omitted>
+1/24/24, 1:28 PM - Nicolas Di Giovanni: JAJAJAJAJAJAAJ
+1/24/24, 1:28 PM - Nicolas Di Giovanni: man son unos enfermos
+1/24/24, 1:28 PM - Nicolas Di Giovanni: como caganb tanto?
+1/24/24, 1:34 PM - Andres: <Media omitted>
+1/24/24, 1:36 PM - Mateo Damico: <Media omitted>
+1/24/24, 1:37 PM - Andres: Jajajajajajajajajaj
+1/24/24, 1:37 PM - Mateo Damico: copiame bien el grafico
+1/24/24, 1:37 PM - Mateo Damico: lo quiero de imagen de whatsapp
+1/24/24, 1:39 PM - Andres: https://colab.research.google.com/drive/1vRYM9ccQV-UGn29Yu4kihr51SpbXQEhe?usp=sharing
+1/24/24, 1:39 PM - Andres: Ojo que cualquiera con el link lo puede ver jajajaj
+1/24/24, 1:39 PM - Andres: Pero ahí está el código
+1/24/24, 1:40 PM - Mateo Damico: <Media omitted>
+1/24/24, 1:40 PM - Mateo Damico: no me hagas exportar todo
+1/24/24, 1:40 PM - Mateo Damico: pasa la foto
+1/24/24, 1:41 PM - Mateo Damico: ya la vi
+1/24/24, 1:42 PM - Andres: Ah banca que veo eso de subir el chat ahí y que persista
+1/24/24, 1:42 PM - Mateo Damico changed this group's icon
+1/24/24, 1:51 PM - Andres: Ahí lo linkee al archivo en drive
+1/24/24, 1:51 PM - Andres: Mejor hagamos puntos de ahora en adelante, son más fáciles de detectar y no spoilean
+1/24/24, 1:52 PM - Mateo Damico: que?
+1/24/24, 1:53 PM - Andres: Que los cagos sean .
+1/24/24, 1:53 PM - Mateo Damico: no funca
+1/24/24, 1:58 PM - Andres: Mmm Google colab no me deja persistir archivos ahí que bija
+1/24/24, 3:37 PM - Nicolas Di Giovanni: ni puta idea de lo que hablan
+1/24/24, 4:51 PM - Andres: .
+1/24/24, 5:59 PM - Mateo Damico: Quiero numeros
+1/25/24, 6:33 AM - Mateo Damico: 35
+1/25/24, 7:05 AM - Mateo Damico: 36
+1/25/24, 7:05 AM - Mateo Damico: Its back
+1/25/24, 8:43 AM - Mateo Damico: 37
+1/25/24, 8:43 AM - Mateo Damico: <Media omitted>
+1/25/24, 11:43 AM - Andres: You deleted this message
+1/25/24, 11:49 AM - Andres: <Media omitted>
+1/25/24, 11:49 AM - Andres: Update log:
+- Arreglé lo de los mensajes del boludo de Nico con asteriscos
+1/25/24, 11:50 AM - Mateo Damico: <Media omitted>
+1/25/24, 11:50 AM - Andres: Jajajajajaj
+1/25/24, 11:51 AM - Andres: Disclaimer los números están mal porque no estoy contando el chat con Nico antes de hacer el grupo
+1/25/24, 11:52 AM - Andres: Empecé con 5 y Nico con 3
+1/25/24, 11:55 AM - Andres: La puta madre Nico
+1/25/24, 11:55 AM - Andres: Jajajajaja
+1/25/24, 11:55 AM - Andres: Estoy revisando mensajes
+1/25/24, 11:55 AM - Andres: Solo número o .
+1/25/24, 11:56 AM - Mateo Damico: <Media omitted>
+1/25/24, 11:57 AM - Andres: Puta madre
+1/25/24, 11:57 AM - Andres: Jajajajakakaka
+1/25/24, 11:57 AM - Andres: Flaco
+1/25/24, 11:58 AM - Andres: <Media omitted>
+1/25/24, 11:58 AM - Mateo Damico: Sumamelo ee
+1/25/24, 11:58 AM - Andres: Que tremenda paja hacer las reglas para esto jajaja
+1/25/24, 11:59 AM - Mateo Damico: Treinta y ocho
+1/25/24, 11:59 AM - Mateo Damico: Abz
+1/25/24, 11:59 AM - Mateo Damico: No mentira
+1/25/24, 11:59 AM - Andres: Bueno yo también
+1/25/24, 12:00 PM - Andres: Bueno borro este mensaje y puedo asumir número + texto
+1/25/24, 12:00 PM - Andres: **numero** también
+1/25/24, 12:00 PM - Mateo Damico: No
+1/25/24, 12:00 PM - Mateo Damico: No me borres ese mensaje <This message was edited>
+1/25/24, 12:00 PM - Andres: Querés que borre el 33 de arriba?
+1/25/24, 12:01 PM - Mateo Damico: Si
+1/25/24, 12:01 PM - Andres: Ok
+1/25/24, 12:02 PM - Andres: El mensaje tiene que empezar con número y después lo que quieran
+1/25/24, 12:03 PM - Andres: 64
+1/25/24, 12:03 PM - Andres: Hablando de Roma
+1/25/24, 12:06 PM - Andres: <Media omitted>
+1/25/24, 12:07 PM - Andres: Listo
+1/25/24, 12:07 PM - Andres: Escribí el código mientras cagaba
+1/25/24, 12:07 PM - Andres: La ironía
+1/25/24, 12:07 PM - Mateo Damico: Tirate unas proyecciones
+1/25/24, 12:07 PM - Mateo Damico: Un forecast simple
+1/25/24, 2:38 PM - Andres: Jajajajajajajj la puta madre me sigo riendo
+1/25/24, 2:41 PM - Mateo Damico: jjajajaa
+1/25/24, 2:41 PM - Mateo Damico: fue una mañana movida hoy
+1/25/24, 2:42 PM - Mateo Damico: ee
+1/25/24, 2:53 PM - Andres: 65
+1/25/24, 3:19 PM - Mateo Damico: 38
+1/25/24, 3:27 PM - Nicolas Di Giovanni: JAAJAJAJAJAJA
+1/25/24, 3:31 PM - Nicolas Di Giovanni: JAJAJAJAA que pelotudo por dios
+1/25/24, 3:31 PM - Nicolas Di Giovanni: MAN me estoy estallando en una reunion
+1/25/24, 3:31 PM - Nicolas Di Giovanni: cocn cliente
+1/25/24, 3:31 PM - Nicolas Di Giovanni: lpm
+1/25/24, 3:31 PM - Nicolas Di Giovanni: no puedo mas con esto
+1/25/24, 3:32 PM - Mateo Damico: Re puto
+1/25/24, 3:40 PM - Andres: Ahí mejor el gráfico con los ejes y eso
+1/25/24, 3:41 PM - Andres: https://builtin.com/data-science/time-series-forecasting-python
+1/25/24, 3:41 PM - Andres: Todo tuyo rey
+1/25/24, 3:41 PM - Mateo Damico: yo lo se hacer
+1/25/24, 3:42 PM - Mateo Damico: en R
+1/25/24, 3:50 PM - Mateo Damico: tirate un seasonal naive forecast
+1/25/24, 4:17 PM - You changed the group description
+1/25/24, 4:23 PM - You changed this group's icon
+1/26/24, 8:04 AM - Mateo Damico: 39
+1/26/24, 9:27 AM - Mateo Damico: 40
+1/26/24, 9:55 AM - Andres: @5491161393640 hace cuanto no cagas
+1/26/24, 9:55 AM - Nicolas Di Giovanni: 55
+1/26/24, 9:55 AM - Nicolas Di Giovanni: Ahora
+1/26/24, 9:56 AM - Nicolas Di Giovanni: Estuve a full
+1/26/24, 9:56 AM - Nicolas Di Giovanni: Y no cague
+1/26/24, 9:56 AM - Nicolas Di Giovanni: No se que onda
+1/26/24, 9:56 AM - Andres: Mateo se te acerca
+1/26/24, 9:57 AM - Andres: No sé quién es el que tiene el problema igual
+1/26/24, 9:57 AM - Andres: Mateo está dibujando una exponencial
+1/26/24, 9:58 AM - Nicolas Di Giovanni: Claramente mateo
+1/26/24, 9:58 AM - Mateo Damico: broder+hace una semana estoy mal mal mal
+1/26/24, 9:58 AM - Mateo Damico: no se que onda
+1/26/24, 10:01 AM - Mateo Damico: quiero grafico
+1/26/24, 10:01 AM - Andres: Meto el mañanero y grafico
+1/26/24, 10:01 AM - Mateo Damico: te podes hacer un bot que mande le grafico cada vez que alguien manda un numero
+1/26/24, 10:01 AM - Andres: Estaría bueno
+1/26/24, 10:01 AM - Mateo Damico: tipo live action
+1/26/24, 10:02 AM - Andres: Ao vivo
+1/26/24, 10:02 AM - Andres: Pero mucho laburo creo
+1/26/24, 10:03 AM - Mateo Damico: <Media omitted>
+1/26/24, 10:03 AM - Mateo Damico: una convergencia absoluta
+1/26/24, 10:04 AM - Mateo Damico: y unos dias antes tambien
+1/26/24, 10:07 AM - Nicolas Di Giovanni: Estaria bueno graficar en otro lado horarios tipicos de cagos
+1/26/24, 10:07 AM - Mateo Damico: y tambien quiero ver este actualizado
+1/26/24, 10:07 AM - Mateo Damico: tipo histograma
+1/26/24, 10:07 AM - Mateo Damico: para ver frecuencia
+1/26/24, 10:07 AM - Nicolas Di Giovanni: Quizas seguir metrica de cuantas veces cagamos con un delta de +/- 15 min
+1/26/24, 10:07 AM - Andres: Jajajajaj
+1/26/24, 10:07 AM - Nicolas Di Giovanni: Para ver cuantos cagos compartimos
+1/26/24, 10:07 AM - Nicolas Di Giovanni: <Media omitted>
+1/26/24, 10:07 AM - Nicolas Di Giovanni: <Media omitted>
+1/26/24, 10:08 AM - Andres: Histograma en buckets de 3 horas creo que está bien
+1/26/24, 10:08 AM - Mateo Damico: los mios tardan 10´ promedio
+1/26/24, 10:08 AM - Mateo Damico: netos
+1/26/24, 10:08 AM - Mateo Damico: MIN 2´ MAX 20´
+1/26/24, 10:08 AM - Mateo Damico: 1hs
+1/26/24, 10:09 AM - Mateo Damico: son 24 segmentos
+1/26/24, 10:09 AM - Mateo Damico: esta joya
+1/26/24, 10:09 AM - Mateo Damico: para mi se distribuye como una binomial
+1/26/24, 10:10 AM - Andres: <Media omitted>
+1/26/24, 10:10 AM - Mateo Damico: perdon
+1/26/24, 10:10 AM - Mateo Damico: bimodal
+1/26/24, 10:10 AM - Mateo Damico: jajajajaj
+1/26/24, 10:11 AM - Mateo Damico: listo granulalo en 5 mins
+1/26/24, 10:15 AM - Andres: Mi curva está bastante bien
+1/26/24, 10:17 AM - Nicolas Di Giovanni: man, tiene que haber una forma mas facil de registrar los cagos
+1/26/24, 10:17 AM - Nicolas Di Giovanni: onda, poder ponerles feha
+1/26/24, 10:18 AM - Nicolas Di Giovanni: me pasa que algunos quedaron fuera por que voy entre reuniones y salgo a las corridas
+1/26/24, 10:18 AM - Nicolas Di Giovanni: ademas nos mueve la escala que computamos un monster shit igual que una caquita de conejo o las orinadas anales de mateo
+1/26/24, 10:19 AM - Andres: Estoy pensando hacer una web app
+1/26/24, 10:21 AM - Mateo Damico: y si
+1/26/24, 10:22 AM - Mateo Damico: prioridad 1
+1/26/24, 10:27 AM - Andres: 66
+1/26/24, 10:27 AM - Andres: Lpm
+1/26/24, 10:28 AM - Andres: Creo que le puse para que tenga que haber un espacio después de los números
+1/26/24, 10:28 AM - Andres: <Media omitted>
+1/26/24, 10:30 AM - Mateo Damico: Ja
+1/26/24, 12:15 PM - Nicolas Di Giovanni: 56
+1/26/24, 12:19 PM - Mateo Damico: andy
+1/26/24, 12:19 PM - Mateo Damico: dejate de joder
+1/26/24, 12:19 PM - Mateo Damico: manda el histogram
+1/26/24, 12:24 PM - Andres: Jajajajaj te hago editor del colab y escribilo en una sección abajo
+1/26/24, 12:24 PM - Andres: Como es tu mail de Google
+1/26/24, 12:24 PM - Mateo Damico: mateodamico1@gmail.com
+1/26/24, 12:24 PM - Mateo Damico: no se python pa
+1/26/24, 12:25 PM - Mateo Damico: aparte no lop uedo correr
+1/26/24, 12:25 PM - Mateo Damico: no me deja
+1/26/24, 12:26 PM - Andres: Ahí te compartí la carpeta de drive
+1/26/24, 12:26 PM - Andres: <Media omitted>
+1/26/24, 12:27 PM - Andres: Y el filepath en el colab debería encontrar el archivo
+1/26/24, 12:27 PM - Mateo Damico: estoy laburando flaco
+1/26/24, 12:28 PM - Mateo Damico: hacelo vos
+1/26/24, 12:28 PM - Andres: Porque add shortcut te debería agregar la carpeta si al drive
+1/26/24, 3:05 PM - Andres: Hay update
+1/26/24, 3:06 PM - Nicolas Di Giovanni: Che, hay que mejorar ese eje X man
+1/26/24, 3:06 PM - Nicolas Di Giovanni: Que se vea mas clara la fecha jajaja
+1/26/24, 3:06 PM - Andres: <Media omitted>
+1/26/24, 3:06 PM - Andres: <Media omitted>
+1/26/24, 3:07 PM - Andres: <Media omitted>
+1/26/24, 3:08 PM - Andres: Esta ajustado al timezone
+1/26/24, 3:08 PM - Nicolas Di Giovanni: Naaaa
+1/26/24, 3:08 PM - Nicolas Di Giovanni: Epico
+1/26/24, 3:08 PM - Nicolas Di Giovanni: Eso si da insights
+1/26/24, 3:09 PM - Andres: Igual tenemos que corregir algunos horarios del pasado
+1/26/24, 3:09 PM - Andres: Estoy tomando el horario como el del mensaje
+1/26/24, 3:10 PM - Nicolas Di Giovanni: O usar bidet
+1/26/24, 3:11 PM - Andres: No tengo acceso a ese lujo
+1/26/24, 3:12 PM - Andres: Che pregunta
+1/26/24, 3:12 PM - Andres: Sus novias saben de esto?
+1/26/24, 3:22 PM - Mateo Damico: F
+1/26/24, 3:22 PM - Mateo Damico: Bimodal
+1/26/24, 3:23 PM - Mateo Damico: Si
+1/26/24, 3:23 PM - Mateo Damico: <Media omitted>
+1/26/24, 3:23 PM - Andres: Man yo le quiero contar a todos
+1/26/24, 3:23 PM - Andres: Tengo un problema
+1/26/24, 3:47 PM - Nicolas Di Giovanni: Lo estoy hablando con un amigo jajajaja
+1/26/24, 3:47 PM - Nicolas Di Giovanni: Y clari sabe
+1/26/24, 3:49 PM - Andres: 67
+1/26/24, 7:33 PM - Mateo Damico changed this group's icon
+1/26/24, 7:33 PM - Mateo Damico: Listo
+1/26/24, 7:34 PM - Mateo Damico: Como tardamos tanto en darnos cuenta
+1/26/24, 7:34 PM - Andres: Jajajajajaj
+1/26/24, 7:35 PM - Nicolas Di Giovanni: JAJAJAJAJAJA
+1/26/24, 7:36 PM - Nicolas Di Giovanni: Es tan obvio que duele
+1/26/24, 7:45 PM - Mateo Damico: Para mu hay que cambiar las fechas del eje x por dias
+1/26/24, 7:45 PM - Mateo Damico: Tipo dia uno dia dos dia tres
+1/26/24, 7:45 PM - Andres: Ok si tenés razón
+1/26/24, 7:45 PM - Andres: Las fechas no tienen sentido
+1/26/24, 7:45 PM - Mateo Damico: (Notese que escribi los numero)
+1/26/24, 7:46 PM - Mateo Damico: Por respeto
+1/26/24, 7:46 PM - Andres: Semanas puede ser
+1/26/24, 7:46 PM - Andres: Jajajaja re paranoico
+1/26/24, 7:47 PM - Nicolas Di Giovanni: Jajajajaja
+1/26/24, 7:47 PM - Nicolas Di Giovanni: Un pensador
+1/26/24, 7:47 PM - Nicolas Di Giovanni: Con semanas alcanza
+1/26/24, 7:48 PM - Nicolas Di Giovanni: Pensando en que ya van varios dias
+1/26/24, 7:48 PM - Nicolas Di Giovanni: Cuando lleguemos a 300 se hace dificil de leer
+1/26/24, 7:53 PM - Andres: Ahí pasamos a meses
+1/26/24, 7:54 PM - Andres: Ojalá tengamos ese problema
+1/26/24, 7:54 PM - Nicolas Di Giovanni: Tal cual
+1/26/24, 8:54 PM - Andres: 68
+1/26/24, 8:54 PM - Andres: Me comi una galletita caliente de postre y me atravesó
+1/27/24, 5:54 AM - Mateo Damico: 40
+1/27/24, 6:38 AM - Nicolas Di Giovanni: A mi se me vienen dias difíciles. Vengo cagando poco y chico
+1/27/24, 11:20 AM - Nicolas Di Giovanni: 57
+1/27/24, 12:26 PM - Andres: 69 (nice)
+1/27/24, 3:59 PM - Nicolas Di Giovanni: 58
+1/27/24, 5:46 PM - Andres: 70
+1/27/24, 6:07 PM - Mateo Damico: Estoy comiendo comida china recalentada
+1/27/24, 6:07 PM - Mateo Damico: Mas tarde se enteraran
+1/27/24, 6:57 PM - Andres: <Media omitted>
+1/27/24, 6:58 PM - Nicolas Di Giovanni: Prendemos una velita por vos
+1/27/24, 6:58 PM - Nicolas Di Giovanni: Vos no prendas
+1/27/24, 6:58 PM - Nicolas Di Giovanni: No vaya a ser que explota
+1/27/24, 6:58 PM - Andres: Estaba pensando en hacer un histograma para cada uno con cantidad de cagos en ventanas (intervalos)
+1/27/24, 6:59 PM - Andres: Lo de cagar en una ventana puede ser otro gráfico
+1/27/24, 7:00 PM - Andres: Entonces podemos tener uno de
+Semana
+24hs
+3 horas
+1/27/24, 7:01 PM - Andres: Lo dije mal. Un gráfico por ventana y cada tick del eje x va a ser el récord de cada uno en ese periodo
+1/27/24, 7:01 PM - Andres: Como un podio. Creo que Mateo se lleva la de oro
+1/27/24, 7:24 PM - Mateo Damico: <Media omitted>
+1/27/24, 7:47 PM - Nicolas Di Giovanni: https://www.instagram.com/p/C19CfEBuTrP/?igsh=MW02MDRjbXl0c3B0bA==
+1/27/24, 7:47 PM - Nicolas Di Giovanni: Mateo tiene un timer en el ano
+1/27/24, 7:47 PM - Nicolas Di Giovanni: Caga siempre en el mismo horario
+1/27/24, 8:00 PM - Mateo Damico: <Media omitted>
+1/28/24, 7:42 AM - Mateo Damico: 41
+1/28/24, 9:13 AM - Mateo Damico: 42
+1/28/24, 5:25 PM - Nicolas Di Giovanni: 59
+1/28/24, 5:25 PM - Nicolas Di Giovanni: 60
+1/29/24, 7:05 AM - Mateo Damico: 43
+1/29/24, 9:29 AM - Andres: Han pasado 42 horas del último
+1/29/24, 9:29 AM - Andres: Estoy nervioso
+1/29/24, 9:31 AM - Andres: Estaba pensando también en graficar el tiempo más largo sin eventos por persona
+1/29/24, 9:32 AM - Mateo Damico: Manda actualizaciones de todo
+1/29/24, 9:33 AM - Mateo Damico: Serie de tiempo
+Serie de tiempo sin estandarizar
+Forecasts
+Histogramas
+Intervalos inactivos
+1/29/24, 9:43 AM - Andres: 71
+1/29/24, 9:44 AM - Andres: Pensé que no llegaba
+1/29/24, 9:44 AM - Andres: Ahora el 4 de febrero se cumple un mes de tu entrada al grupo y pensaba mandar un reporte del mes
+1/29/24, 9:44 AM - Andres: O quieren que mande de enero
+1/29/24, 9:44 AM - Andres: Hacemos mes calendario con sus premios
+1/29/24, 9:55 AM - Mateo Damico: manda ahora todo
+1/29/24, 9:59 AM - Andres: Para esto denle bola a los horarios
+1/29/24, 9:59 AM - Andres: Es importante
+1/29/24, 9:59 AM - Nicolas Di Giovanni: 61
+1/29/24, 9:59 AM - Nicolas Di Giovanni: 62
+1/29/24, 9:59 AM - Nicolas Di Giovanni: Que ironia
+1/29/24, 9:59 AM - Nicolas Di Giovanni: Estoy cagando y me olvide del de la mañana
+1/29/24, 9:59 AM - Nicolas Di Giovanni: Tenemos que hacer que sea posible carga con horario
+1/29/24, 10:00 AM - Nicolas Di Giovanni: Conozco varias formas de tener algo tipo form para cargarlo pero no se si les pinta
+1/29/24, 10:00 AM - Andres: Si tendría que hacer una base de datos y hostear una webapp
+1/29/24, 10:00 AM - Mateo Damico: Form no
+1/29/24, 10:00 AM - Andres: Sin form
+1/29/24, 10:01 AM - Mateo Damico: MANDA LOS GRAFICOS PORQUE NO PUEDO SEGUIR SINO
+1/29/24, 10:27 AM - Andres: 72
+1/29/24, 10:28 AM - Andres: La flecha va para atrás antes de salir para adelante
+1/29/24, 10:28 AM - Mateo Damico: .
+1/29/24, 10:30 AM - Andres: No man el del cubículo de al lado necesita ayuda urgente
+1/29/24, 10:30 AM - Nicolas Di Giovanni: Bruh
+1/29/24, 10:30 AM - Nicolas Di Giovanni: Que paja estar mal
+1/29/24, 10:31 AM - Mateo Damico: Como vas a cagar en la oficina man
+1/29/24, 10:31 AM - Andres: <Media omitted>
+1/29/24, 10:32 AM - Andres: Es mi main lugar de cago
+1/29/24, 10:32 AM - Andres: En casa un rollo de papel higiénico me duró 2 meses
+1/29/24, 10:33 AM - Andres: En realidad este plot debería ser un scatter plot (buen nombre)
+1/29/24, 10:34 AM - Mateo Damico: Usa bidet negro de mierds
+1/29/24, 10:34 AM - Andres: Y se puede plotear el trend
+1/29/24, 10:34 AM - Mateo Damico: Mandalo
+1/29/24, 10:34 AM - Mateo Damico: Me cuesta verlo como scatter
+1/29/24, 10:34 AM - Andres: Sería mucha información
+1/29/24, 10:34 AM - Nicolas Di Giovanni: no digan scatter si hablamos de defecar porga
+1/29/24, 10:34 AM - Andres: Ajajjajajajajaja
+1/29/24, 10:35 AM - Andres: Es que son eventos, no tiene sentido unirlos con una línea pero
+1/29/24, 10:40 AM - Mateo Damico: Obvio que tiene sentido unirlos
+1/29/24, 10:40 AM - Mateo Damico: Es un acc
+1/29/24, 10:41 AM - Andres: Si tenés razón
+1/29/24, 10:41 AM - Andres: Vos sos el actuario
+1/29/24, 10:44 AM - Nicolas Di Giovanni: Como consultor especialista en todo debo decir que esta fea la escala y los colores son poco claros. No está orientado en el "so what?" Ni action driven
+1/29/24, 10:44 AM - Nicolas Di Giovanni: Faltan sinergias
+1/29/24, 10:44 AM - Nicolas Di Giovanni: No vamos a llegar al maximo potencial de cada uno asi
+1/29/24, 10:45 AM - Andres: Un consultor es tipo un coach que sabe mucho de Powerpoint
+1/29/24, 10:51 AM - Mateo Damico: De word
+1/29/24, 10:51 AM - Mateo Damico: Manda los histogramas andy
+1/29/24, 10:52 AM - Andres: Están actualizados en el colab
+1/29/24, 10:59 AM - Nicolas Di Giovanni: In a nutshell
+1/29/24, 11:01 AM - Mateo Damico: <Media omitted>
+1/29/24, 11:02 AM - Andres: Uh que rompe pelotas jajajajaja
+1/29/24, 11:02 AM - Nicolas Di Giovanni: Jajajajaaja
+1/29/24, 11:03 AM - Mateo Damico: y ponelo en AM/PM
+1/29/24, 11:03 AM - Mateo Damico: yo les dije eee
+1/29/24, 11:03 AM - Mateo Damico: antes de ver los graficos
+1/29/24, 11:04 AM - Andres: Tus 10 am no falla
+1/29/24, 11:04 AM - Andres: No pongas reuniones a esa hora
+1/29/24, 11:05 AM - Mateo Damico: de 8 a 10 es zona liberada
+1/29/24, 4:16 PM - Andres: You deleted this message
+1/29/24, 4:17 PM - Andres: Hat-trick
+1/29/24, 4:17 PM - Andres: <Media omitted>
+1/29/24, 4:18 PM - Andres: Mentira
+1/29/24, 4:18 PM - Andres: Todo gas
+1/29/24, 4:18 PM - Andres: Como no salió ningún sólido, el VAR lo invalidó
+1/29/24, 4:19 PM - Andres: Pero me desinfle como un globo
+1/29/24, 4:44 PM - Nicolas Di Giovanni: Me pasan muchos de esos
+1/29/24, 4:44 PM - Nicolas Di Giovanni: De hecho, el 20% de mis idas al baño son eso
+1/29/24, 4:44 PM - Nicolas Di Giovanni: 40% en oficina
+1/29/24, 4:44 PM - Nicolas Di Giovanni: Creo que el cinturón tiene algo que ver
+1/29/24, 5:42 PM - Mateo Damico: 44
+1/29/24, 5:42 PM - Mateo Damico: Caguito pre corrida
+1/29/24, 7:12 PM - Nicolas Di Giovanni: Se viene megacago en aeropuerto
+1/29/24, 7:12 PM - Nicolas Di Giovanni: Que paja
+1/29/24, 7:27 PM - Nicolas Di Giovanni: https://www.reddit.com/r/dataisbeautiful/s/XAjxoUIZuB
+
+El potencial
+1/29/24, 7:36 PM - Andres: Agora sim filho da puta
+1/29/24, 7:36 PM - Andres: 73
+1/29/24, 7:36 PM - Andres: El hat-trick
+1/29/24, 8:15 PM - Mateo Damico: Me encanta
+1/29/24, 8:15 PM - Mateo Damico: También podemos hacer una tabla con columnas con el dia de la semana y filas con la hora
+1/29/24, 8:16 PM - Mateo Damico: Mapa de calor semanal
+1/29/24, 8:16 PM - Mateo Damico: Creo que se podria escalar a un dashboard esto
+1/29/24, 8:24 PM - Nicolas Di Giovanni: 100%
+1/30/24, 6:55 AM - Mateo Damico: 45
+1/30/24, 7:37 AM - Nicolas Di Giovanni: 63
+1/30/24, 7:41 AM - Mateo Damico: Te estoy alcanzando ee
+1/30/24, 7:58 AM - Nicolas Di Giovanni: debo reconocer que se me escapó alguno
+1/30/24, 8:04 AM - Mateo Damico: re puto
+1/30/24, 10:22 AM - Mateo Damico: Comi porotos
+1/30/24, 10:23 AM - Andres: Alguno sabe PowerBI?
+1/30/24, 10:26 AM - Mateo Damico: Tableau o looker
+1/30/24, 10:26 AM - Mateo Damico: Igual no debe ser dificil powerbi
+1/30/24, 10:31 AM - Andres: 74
+1/30/24, 11:07 AM - Nicolas Di Giovanni: <Media omitted>
+1/30/24, 11:07 AM - Nicolas Di Giovanni: yo tengo bckup de que no fui por suerte
+1/30/24, 11:07 AM - Nicolas Di Giovanni: 😎
+1/30/24, 11:24 AM - Andres: Ignacia?
+1/30/24, 11:24 AM - Andres: Que mierda
+1/30/24, 11:25 AM - Mateo Damico: se puede ser mas chileno traidor?
+1/30/24, 11:25 AM - Mateo Damico: manda los graficos andy
+1/30/24, 11:26 AM - Mateo Damico: no aguanto mas
+1/30/24, 11:26 AM - Mateo Damico: quiero ver
+1/30/24, 11:29 AM - Mateo Damico: <Media omitted>
+1/30/24, 11:30 AM - Andres: Hacela vos boludo te puse como editor
+1/30/24, 11:37 AM - Mateo Damico: ya le hice el shortcut
+1/30/24, 11:38 AM - Mateo Damico: pero no me lo lee
+1/30/24, 11:41 AM - Mateo Damico: sera porque es "mi unidad" en vez de "mydrive"
+1/30/24, 11:41 AM - Mateo Damico: #latino
+1/30/24, 11:42 AM - Andres: Jajaja a la izquierda hiciste el mount de tu drive?
+1/30/24, 11:43 AM - Mateo Damico: el que
+1/30/24, 11:43 AM - Andres: <Media omitted>
+1/30/24, 11:43 AM - Mateo Damico: aa no
+1/30/24, 11:43 AM - Andres: Es para linkear el filesystem de drive al runtime (sesión) de colab
+1/30/24, 11:44 AM - Andres: Cuando cerras se deslinkea
+1/30/24, 11:44 AM - Andres: Y obvio nadie puede acceder tu drive, solo vos
+1/30/24, 11:44 AM - Andres: Pero como tenemos el archivo linkeados con el mismo path, debería encontrarlo
+1/30/24, 11:44 AM - Mateo Damico: que toco ahora?
+1/30/24, 11:44 AM - Andres: Y como es un shared drive, yo lo actualizo y se te actualiza
+1/30/24, 11:44 AM - Andres: Lo montaste?
+1/30/24, 11:45 AM - Andres: <Media omitted>
+1/30/24, 11:45 AM - Andres: En orden
+1/30/24, 11:45 AM - Mateo Damico: MessageError: Error: credential propagation was unsuccessful
+1/30/24, 11:45 AM - Andres: Estas con tu cuenta de google en Chrome?
+1/30/24, 11:47 AM - Mateo Damico: listo pude
+1/30/24, 11:47 AM - Andres: Ah me tiro lo mismo pero me sugirió correr un cell que lo hizo
+1/30/24, 11:47 AM - Mateo Damico: pero tenes que actualizar la bbdd
+1/30/24, 11:48 AM - Andres: Exporta el chat al shared drive
+1/30/24, 11:48 AM - Andres: Listo ahí lo hice
+1/30/24, 11:48 AM - Andres: Jajaja
+1/30/24, 11:48 AM - Mateo Damico: hay dos pa
+1/30/24, 11:48 AM - Mateo Damico: borra la vieja
+1/30/24, 11:48 AM - Andres: Si no se por que no se sobrescribe
+1/30/24, 11:48 AM - Andres: Listo
+1/30/24, 11:51 AM - Mateo Damico: cuando tenga tiempo busco para hacer esto
+1/30/24, 11:51 AM - Mateo Damico: la verdad que python me cuesta
+1/30/24, 11:52 AM - Nicolas Di Giovanni: 64
+1/30/24, 11:55 AM - Andres: Bueno voy a poner una base de datos en Google cloud
+1/30/24, 11:55 AM - Andres: Se está poniendo serio esto
+1/30/24, 11:55 AM - Andres: Y si armamos una app y le pongo unos ads?
+1/30/24, 11:55 AM - Andres: Para mi se viraliza y la pego
+1/30/24, 11:57 AM - Nicolas Di Giovanni: Es que man
+1/30/24, 11:57 AM - Nicolas Di Giovanni: Armemos una base solida con varios datos
+1/30/24, 11:57 AM - Nicolas Di Giovanni: Graficos copados
+1/30/24, 11:57 AM - Nicolas Di Giovanni: Y despues vamos a Twitter, reddit con una app
+1/30/24, 11:57 AM - Nicolas Di Giovanni: La rompemos
+1/30/24, 11:57 AM - Mateo Damico: TOY
+1/30/24, 11:57 AM - Mateo Damico: que se pueda armar grupos con tus amigos
+1/30/24, 11:59 AM - Andres: Si
+1/30/24, 1:19 PM - Mateo Damico: el jueves a la tarde voy a tener 25hs de bondi hasta el sur
+1/30/24, 1:20 PM - Mateo Damico: espero no tener que reportar nada por aca durante el viaje
+1/30/24, 3:14 PM - Andres: 75
+1/30/24, 5:56 PM - Nicolas Di Giovanni: 64
+1/30/24, 7:45 PM - Mateo Damico: 46
+1/31/24, 5:47 AM - Mateo Damico: 47
+1/31/24, 9:00 AM - Andres: Antes de salir
+1/31/24, 12:40 PM - Nicolas Di Giovanni: 65
+1/31/24, 1:24 PM - Andres: 76
+1/31/24, 1:28 PM - Andres: No man estaba tapado
+1/31/24, 1:28 PM - Andres: No man
+1/31/24, 1:28 PM - Andres: Como salgo del cubículo ahora
+1/31/24, 1:28 PM - Andres: En la oficina
+1/31/24, 1:29 PM - Andres: <Media omitted>
+1/31/24, 2:02 PM - Mateo Damico: actualizame las bbdd master
+1/31/24, 4:43 PM - Mateo Damico: 48
+2/1/24, 8:01 AM - Nicolas Di Giovanni: 66
+2/1/24, 9:38 AM - Andres: 77
+2/1/24, 9:59 AM - Mateo Damico: ee
+2/1/24, 11:11 AM - Andres: 78
+2/1/24, 11:16 AM - Andres: <Media omitted>
+2/1/24, 11:20 AM - Mateo Damico: <Media omitted>
+2/1/24, 11:21 AM - Mateo Damico: aiuda
+2/1/24, 11:26 AM - Andres: Seguro tiene baño
+2/1/24, 11:26 AM - Andres: Intenta apurar el de las 20hs para justo antes de salir
+2/1/24, 11:26 AM - Andres: Full bimodal
+2/1/24, 11:26 AM - Andres: Che esto ayuda posta
+2/1/24, 11:27 AM - Mateo Damico: Sisi man
+2/1/24, 11:27 AM - Mateo Damico: A planificar
+2/1/24, 11:27 AM - Mateo Damico: Estaba pensando eso
+2/1/24, 11:27 AM - Mateo Damico: El tuyo (salvo al mediodia)
+2/1/24, 11:27 AM - Mateo Damico: Va declinando
+2/1/24, 11:28 AM - Mateo Damico: Muy raro ese comportamiento
+2/1/24, 11:28 AM - Andres: Que es eso
+2/1/24, 11:28 AM - Mateo Damico: <Media omitted>
+2/1/24, 11:28 AM - Mateo Damico: rarisimo
+2/1/24, 11:28 AM - Andres: Jajajaja
+2/1/24, 11:29 AM - Mateo Damico: como que cagas cada 23hs
+2/1/24, 11:29 AM - Mateo Damico: el ciclo se renueva y se va corriendo el horario
+2/1/24, 11:47 AM - Andres: Pero a las 14 nunca
+2/1/24, 11:47 AM - Andres: Me sorprende que no vi ninguno tipo 3am
+2/1/24, 11:48 AM - Andres: Ninguna emergencia de ese estilo
+2/1/24, 12:11 PM - Nicolas Di Giovanni: 67
+2/1/24, 12:12 PM - Nicolas Di Giovanni: Es que un outlayer a las 3am probablemente sea post salida / bar o algo asi
+2/1/24, 12:13 PM - Nicolas Di Giovanni: No tengo recuerdo de haber tenido emergencias asi de heavy
+2/1/24, 12:15 PM - Nicolas Di Giovanni: Lpm
+2/1/24, 12:16 PM - Nicolas Di Giovanni: Sin aviso estoy orinando por el ano
+2/1/24, 12:16 PM - Nicolas Di Giovanni: Se complicó
+2/1/24, 12:16 PM - Nicolas Di Giovanni: <Media omitted>
+2/1/24, 2:50 PM - Mateo Damico: 49
+2/1/24, 2:50 PM - Mateo Damico: el cincuenta sera en el sur
+2/1/24, 2:50 PM - Mateo Damico: (esperemos)
+2/1/24, 2:51 PM - Andres: Uh nunca cagaste en La Pampa?
+2/1/24, 2:51 PM - Andres: Hoy debutas
+2/1/24, 3:43 PM - Mateo Damico: Cuando vienen a arg?
+2/1/24, 3:43 PM - Mateo Damico: Yo llego el 13 a bsas
+2/1/24, 4:29 PM - Nicolas Di Giovanni: yo voy recien a fines de febrero reo
+2/1/24, 4:29 PM - Nicolas Di Giovanni: creo
+2/2/24, 12:34 PM - Nicolas Di Giovanni: 68
+2/2/24, 12:34 PM - Nicolas Di Giovanni: 69
+2/2/24, 1:47 PM - Andres: 79
+2/2/24, 2:10 PM - Mateo Damico: La envidia que les tengo
+2/2/24, 3:04 PM - Andres: Llegaron?
+2/2/24, 3:08 PM - Mateo Damico: <Media omitted>
+2/2/24, 3:09 PM - Nicolas Di Giovanni: que divertido
+2/3/24, 8:13 AM - Mateo Damico: 50
+2/3/24, 8:13 AM - Mateo Damico: Ayer a la noche
+2/3/24, 8:13 AM - Mateo Damico: Y 51 recien
+2/3/24, 11:59 AM - Nicolas Di Giovanni: 70
+2/3/24, 4:20 PM - Andres: 80
+2/3/24, 4:26 PM - Nicolas Di Giovanni: 71
+2/4/24, 7:58 AM - Mateo Damico: 52
+2/4/24, 8:02 PM - Nicolas Di Giovanni: 72
+2/4/24, 9:01 PM - Andres: Yo estoy taponado
+2/4/24, 9:14 PM - Mateo Damico: Same
+2/4/24, 9:17 PM - Nicolas Di Giovanni: Yo mas o menos
+2/4/24, 10:37 PM - Andres: 81
+2/5/24, 7:41 AM - Mateo Damico: 53
+2/5/24, 7:49 AM - Nicolas Di Giovanni: 73
+2/5/24, 11:59 AM - Nicolas Di Giovanni: 74
+2/5/24, 12:03 PM - Andres: 82
+2/5/24, 12:03 PM - Andres: Nico venís fuerte e
+2/5/24, 12:06 PM - Nicolas Di Giovanni: Empecé a comer mas lechuga
+2/5/24, 4:30 PM - Nicolas Di Giovanni: 75
+2/5/24, 4:31 PM - Nicolas Di Giovanni: Todos solido pero chiquito
+2/5/24, 5:03 PM - Andres: 83
+2/6/24, 8:20 AM - Mateo Damico: 54
+2/6/24, 8:22 AM - Nicolas Di Giovanni: 76
+2/6/24, 8:22 AM - Nicolas Di Giovanni: Estoy on fire
+2/6/24, 8:22 AM - Nicolas Di Giovanni: recomiendo muchisimo comer fibra
+2/6/24, 8:22 AM - Nicolas Di Giovanni: mi vida es otra
+2/6/24, 8:22 AM - Nicolas Di Giovanni: el sol brilla
+2/6/24, 4:39 PM - Andres: 84
+2/7/24, 7:23 AM - Mateo Damico: 55
+2/7/24, 7:26 AM - Nicolas Di Giovanni: 77
+2/7/24, 7:26 AM - Nicolas Di Giovanni: Vieron que suelen haber picos de consumo eléctrico en los medios tiempos de partidos importantes?
+2/7/24, 7:27 AM - Nicolas Di Giovanni: Por que todos se levantan a abrir la heladera y se prende el compresor
+2/7/24, 7:27 AM - Nicolas Di Giovanni: Bueno, tambien se satura la red de agua de ciudades a la mañana cuando la gente se ducha
+2/7/24, 7:27 AM - Nicolas Di Giovanni: Habrá algo similar correlacionable a cuando la gente caga mas?
+2/7/24, 2:05 PM - Nicolas Di Giovanni: 78
+2/7/24, 2:49 PM - Andres: Man en Brasil se apagó mi sistema gastrointestinal
+2/7/24, 3:09 PM - Nicolas Di Giovanni: heavy
+2/7/24, 3:17 PM - Andres: 85
+2/7/24, 3:23 PM - Andres: <Media omitted>
+2/7/24, 3:23 PM - Andres: Esta picante
+2/7/24, 3:43 PM - Nicolas Di Giovanni: si proyectas los último dias de mateo
+2/7/24, 3:44 PM - Nicolas Di Giovanni: queda bien por abajo nuestro
+2/7/24, 4:24 PM - Mateo Damico: La puta madre
+2/7/24, 4:24 PM - Mateo Damico: El sur me esta haciendo mierda
+2/7/24, 5:31 PM - Mateo Damico: 56
+2/7/24, 5:31 PM - Mateo Damico: Casi no llego
+2/7/24, 5:48 PM - Mateo Damico: Recien termino
+2/7/24, 5:48 PM - Mateo Damico: Casi 20’ duro
+2/7/24, 6:09 PM - Nicolas Di Giovanni: Rina mientras tanto durmiendo una siesta
+2/8/24, 8:06 AM - Mateo Damico: 57
+2/8/24, 8:51 AM - Andres: 86
+2/8/24, 1:29 PM - Nicolas Di Giovanni: 79
+2/8/24, 11:15 PM - Mateo Damico: No llegue todavia pero
+2/8/24, 11:15 PM - Mateo Damico: 58
+2/9/24, 7:01 AM - Nicolas Di Giovanni: Estas registrando un cago adelantado?
+2/9/24, 7:06 AM - Mateo Damico: Es que estaba en el auto pasandola mal
+2/9/24, 7:06 AM - Mateo Damico: Pero llegue a los 5min
+2/9/24, 7:36 AM - Mateo Damico: 59
+2/9/24, 8:09 AM - Andres: 87
+2/9/24, 8:09 AM - Andres: Mira que no pagamos interés
+2/9/24, 8:17 AM - Andres: Man salió negro
+2/9/24, 8:17 AM - Andres: Que onda
+2/9/24, 8:35 AM - Nicolas Di Giovanni: noman
+2/9/24, 8:36 AM - Nicolas Di Giovanni: che, voy a estar sin señal este finde
+2/9/24, 8:36 AM - Nicolas Di Giovanni: cagando en la montaña
+2/9/24, 8:36 AM - Nicolas Di Giovanni: Voy a registrar horarios pero no se como vamos a ver eso en el gráfico
+2/9/24, 8:36 AM - Nicolas Di Giovanni: igual que paja cagar en la intemperie
+2/9/24, 2:07 PM - Mateo Damico: 60
+2/9/24, 2:07 PM - Mateo Damico: F
+2/9/24, 4:15 PM - Andres: 88
+2/9/24, 6:47 PM - Nicolas Di Giovanni: Man si no cago ya
+2/9/24, 6:47 PM - Nicolas Di Giovanni: Mañana y pasado tengo que cagar en arbustos 🙃
+2/9/24, 7:01 PM - Andres: Manda el mensaje y aunque no se envie quizás queda el horario que mandaste
+2/9/24, 7:02 PM - Nicolas Di Giovanni: Dale
+2/9/24, 7:02 PM - Nicolas Di Giovanni: Vamos con eso
+2/10/24, 8:39 AM - Andres: 89
+2/10/24, 8:40 AM - Nicolas Di Giovanni: 80
+2/10/24, 8:46 AM - Mateo Damico: 61
+2/11/24, 7:51 AM - Mateo Damico: 62
+2/11/24, 8:29 AM - Andres: 90
+2/11/24, 8:30 AM - Mateo Damico: Proximo a la centena
+2/11/24, 8:30 AM - Mateo Damico: Felicitaciones
+2/11/24, 8:33 AM - Andres: null
+2/11/24, 8:44 AM - Mateo Damico: <Media omitted>
+2/11/24, 3:31 PM - Nicolas Di Giovanni: Que lindoo
+2/11/24, 5:36 PM - Andres: 91
+2/11/24, 5:36 PM - Andres: Bife de chorizo en la nelly
+2/11/24, 5:36 PM - Andres: God
+2/11/24, 5:42 PM - Nicolas Di Giovanni: 81
+2/11/24, 5:42 PM - Nicolas Di Giovanni: Inodoro despues de 2 dias en el cerro
+2/11/24, 5:42 PM - Nicolas Di Giovanni: <Media omitted>
+2/11/24, 5:59 PM - Mateo Damico: Donde
+2/11/24, 6:19 PM - Nicolas Di Giovanni: Cajon del maipo. Quebrada del loro
+2/11/24, 6:19 PM - Nicolas Di Giovanni: <Media omitted>
+2/11/24, 6:23 PM - Mateo Damico: Chileno de mierda
+2/11/24, 6:24 PM - Mateo Damico: Habla bien pelotudo
+2/11/24, 6:24 PM - Mateo Damico: Me cruzo con otro chileno y lo mato
+2/11/24, 6:24 PM - Nicolas Di Giovanni: Jajajajajaja
+2/11/24, 6:24 PM - Nicolas Di Giovanni: Pero pajero
+2/11/24, 6:24 PM - Nicolas Di Giovanni: Dije nombres jajajaja
+2/11/24, 6:25 PM - Mateo Damico: Nombres chilenos traidores
+2/12/24, 6:44 AM - Mateo Damico: 63
+2/12/24, 7:36 AM - Nicolas Di Giovanni: 82
+2/12/24, 8:46 AM - Andres: 92
+2/13/24, 7:43 AM - Nicolas Di Giovanni: 83
+2/13/24, 7:49 AM - Mateo Damico: <Media omitted>
+2/13/24, 7:49 AM - Mateo Damico: Faltan 3
+2/13/24, 7:50 AM - Andres: 93
+2/13/24, 7:51 AM - Nicolas Di Giovanni: noman
+2/13/24, 1:51 PM - Andres: 94
+2/13/24, 2:00 PM - Mateo Damico: 64
+2/13/24, 2:01 PM - Mateo Damico: Lo que disfrute
+2/13/24, 6:05 PM - Andres: 95
+2/13/24, 6:05 PM - Andres: Lpm
+2/13/24, 6:40 PM - Nicolas Di Giovanni: Man
+2/13/24, 6:40 PM - Nicolas Di Giovanni: Tranquilo
+2/13/24, 6:44 PM - Mateo Damico: Vas a llegar a la centena en arg
+2/13/24, 6:44 PM - Nicolas Di Giovanni: Poético
+2/13/24, 6:44 PM - Andres: Jajajaj no lo dudo
+2/13/24, 6:44 PM - Andres: Hoy vamos a bestia
+2/13/24, 6:44 PM - Mateo Damico: Por mil cagos
+2/13/24, 6:44 PM - Nicolas Di Giovanni: Hermoso
+2/13/24, 6:44 PM - Andres: Jajajaja
+2/13/24, 6:44 PM - Mateo Damico: Re puto
+2/13/24, 6:45 PM - Mateo Damico: Asado se come en parrilla casera
+2/13/24, 6:45 PM - Mateo Damico: En mi vida comi carne que no sea parrilla casera
+2/13/24, 6:45 PM - Nicolas Di Giovanni: Banco lo que dice mateo parcialmente
+2/13/24, 6:45 PM - Mateo Damico: En mi vida
+2/13/24, 6:45 PM - Nicolas Di Giovanni: Por que esas carnes maduradas
+2/13/24, 6:45 PM - Nicolas Di Giovanni: Mamita
+2/13/24, 6:45 PM - Nicolas Di Giovanni: Pero si, no comeria asado en la cabrera
+2/13/24, 6:45 PM - Mateo Damico: Ir a parrilla es tu puto y/o chileno
+2/13/24, 6:46 PM - Mateo Damico: Y nunca se olviden
+2/13/24, 6:46 PM - Mateo Damico: No hay nada peor que ser chileno
+2/13/24, 6:46 PM - Nicolas Di Giovanni: Dicho eso, fui a como 4 parrillas en Antofagasta pero no tenemos parrilla
+2/13/24, 6:46 PM - Nicolas Di Giovanni: Se me ocurren un par de cosas peores jajajaj
+2/13/24, 6:46 PM - Nicolas Di Giovanni: Pero si, vivir en pais tan angosto los deja mal
+2/13/24, 6:46 PM - Nicolas Di Giovanni: El miedo de caer al mar... Les daña la cabeza
+2/13/24, 6:58 PM - Andres: Esta cerrado
+2/13/24, 6:58 PM - Andres: <Media omitted>
+2/13/24, 7:01 PM - Nicolas Di Giovanni: Jajajajajaj
+2/14/24, 6:13 AM - Mateo Damico: 65
+2/14/24, 6:46 AM - Nicolas Di Giovanni: 84
+2/14/24, 7:25 AM - Mateo Damico: 66
+2/14/24, 7:25 AM - Mateo Damico: Complicada la primer mañana en baires
+2/14/24, 7:49 AM - Nicolas Di Giovanni: puede pasar
+2/14/24, 9:28 AM - Andres: 96
+2/14/24, 9:28 AM - Andres: Fue violento, me desfondé
+2/14/24, 10:25 AM - Nicolas Di Giovanni: 85
+2/14/24, 9:19 PM - Mateo Damico: <Media omitted>
+2/14/24, 9:50 PM - Nicolas Di Giovanni: Ajajajajaj
+2/14/24, 10:17 PM - Andres: 97
+2/15/24, 6:16 AM - Mateo Damico: 67
+2/15/24, 6:54 AM - Andres: Uh man se me está retorciendo la panza
+2/15/24, 6:55 AM - Nicolas Di Giovanni: null
+2/15/24, 6:57 AM - Andres: 98
+2/15/24, 7:08 AM - Mateo Damico: <Media omitted>
+2/15/24, 7:59 AM - Andres: 99
+2/15/24, 7:59 AM - Andres: Les juro que no quería llegar a la centena de esta forma
+2/15/24, 8:24 AM - Nicolas Di Giovanni: Noman
+2/15/24, 8:24 AM - Nicolas Di Giovanni: Estas mal
+2/15/24, 8:25 AM - Nicolas Di Giovanni: Acaso estás orinando por el ano?
+2/15/24, 8:30 AM - Nicolas Di Giovanni: 86
+2/15/24, 2:20 PM - Mateo Damico: ALGUIEN
+2/15/24, 2:20 PM - Mateo Damico: PUEDE
+2/15/24, 2:20 PM - Mateo Damico: MANDAR
+2/15/24, 2:20 PM - Mateo Damico: LOS
+2/15/24, 2:20 PM - Mateo Damico: GRAFICOS
+2/15/24, 2:20 PM - Mateo Damico: ACTUALIZADOS
+2/15/24, 2:20 PM - Mateo Damico: LA CONCHA DE SUS RESPESTIVAS HERMANAS
+2/15/24, 3:48 PM - Nicolas Di Giovanni: jajjjajajajja
+2/15/24, 3:48 PM - Nicolas Di Giovanni: pero aprende a buscarlos
+2/15/24, 3:48 PM - Nicolas Di Giovanni: pajabraba
+2/15/24, 3:48 PM - Mateo Damico: Ley n1
+2/15/24, 3:48 PM - Mateo Damico: Si alguien puede hacerlo por vos
+2/15/24, 3:48 PM - Mateo Damico: No lo hagas
+2/15/24, 3:51 PM - Mateo Damico: actualizame la bbdd andy pajin
+2/15/24, 3:53 PM - Mateo Damico: <Media omitted>
+2/16/24, 6:01 AM - Andres: 100
+2/16/24, 6:02 AM - Andres: The big one
+2/16/24, 6:02 AM - Nicolas Di Giovanni: Nice
+2/16/24, 6:02 AM - Nicolas Di Giovanni: Fue memorable?
+2/16/24, 7:18 AM - Mateo Damico: <Media omitted>
+2/16/24, 7:52 AM - Mateo Damico: 68
+2/16/24, 8:18 AM - Nicolas Di Giovanni: 87
+2/16/24, 8:52 AM - Mateo Damico: .
+2/16/24, 10:49 AM - Mateo Damico: 69
+2/16/24, 10:50 AM - Mateo Damico: <Media omitted>
+2/16/24, 1:26 PM - Andres: Jajjajajaka
+2/16/24, 2:11 PM - Nicolas Di Giovanni: 88
+2/17/24, 7:21 AM - Mateo Damico: 70
+2/17/24, 10:26 AM - Andres: 101
+2/17/24, 10:56 AM - Nicolas Di Giovanni: 89
+2/17/24, 8:53 PM - Nicolas Di Giovanni: 90
+2/18/24, 7:44 AM - Mateo Damico: 71
+2/18/24, 7:49 AM - Nicolas Di Giovanni: https://www.instagram.com/reel/C3QPJBUOq0e/?igsh=MTFxMnUzZnlndDI0Mg==
+2/18/24, 8:54 AM - Nicolas Di Giovanni: 91
+2/18/24, 8:55 AM - Mateo Damico: Tu algoritmo me asusta
+2/18/24, 11:08 AM - Nicolas Di Giovanni: 92
+2/18/24, 11:08 AM - Andres: 102
+2/18/24, 11:08 AM - Andres: Sync
+2/18/24, 1:54 PM - Andres: 103
+2/18/24, 1:54 PM - Andres: No man fue horrible
+2/18/24, 2:01 PM - Nicolas Di Giovanni: Puede pasar
+2/19/24, 6:05 AM - Mateo Damico: 72
+2/19/24, 6:39 AM - Andres: 104
+2/19/24, 6:39 AM - Andres: En el aeropuerto
+2/20/24, 2:28 PM - Andres: 105
+2/20/24, 2:28 PM - Andres: Que onda no cagaron?
+2/20/24, 2:54 PM - Mateo Damico: yo si
+2/20/24, 2:54 PM - Mateo Damico: sory
+2/20/24, 2:54 PM - Mateo Damico: me falto el de las 8:15am de hoy
+2/20/24, 4:52 PM - Mateo Damico: 73
+2/20/24, 4:52 PM - Mateo Damico: 74
+2/20/24, 4:52 PM - Mateo Damico: El de la mañana
+2/20/24, 4:52 PM - Mateo Damico: El de ahora
+2/20/24, 4:57 PM - Andres: 106
+2/21/24, 7:08 AM - Mateo Damico: 75
+2/21/24, 7:09 AM - Mateo Damico: ACTUALIZA LA BBDD ANDY CHILENO
+2/21/24, 7:16 AM - Nicolas Di Giovanni: man no cago hace mucho
+2/21/24, 7:16 AM - Nicolas Di Giovanni: ke problema
+2/21/24, 10:22 AM - Andres: El problema los últimos días es porque exportaba el chat desde otra zona horaria
+2/21/24, 10:22 AM - Andres: 107
+2/21/24, 10:46 AM - Nicolas Di Giovanni: 93
+2/21/24, 1:59 PM - Andres: 108
+2/21/24, 1:59 PM - Andres: <Media omitted>
+2/21/24, 1:59 PM - Andres: Che Nico en chile que hora es? No es GMT - 4?
+2/21/24, 2:01 PM - Mateo Damico: che
+2/21/24, 2:02 PM - Mateo Damico: estoy ascelerando
+2/21/24, 2:02 PM - Mateo Damico: mandate los histogramas
+2/21/24, 2:03 PM - Andres: Aaa ahora es -3
+2/21/24, 2:03 PM - Andres: <Media omitted>
+2/21/24, 2:03 PM - Andres: <Media omitted>
+2/21/24, 2:04 PM - Andres: <Media omitted>
+2/21/24, 2:04 PM - Andres: Bimodal
+2/21/24, 2:04 PM - Mateo Damico: respect
+2/21/24, 2:04 PM - Mateo Damico: habla de la importancia que le doy a cagar antes de salir de casa
+2/21/24, 2:05 PM - Mateo Damico: y del alivio que es volver a la tarde
+2/21/24, 2:05 PM - Andres: Lo forzas?
+2/21/24, 2:06 PM - Mateo Damico: jamas
+2/22/24, 6:10 AM - Mateo Damico: 76
+2/22/24, 6:11 AM - Mateo Damico: Mi meta es llegar a los cien antes de marzo
+2/22/24, 6:11 AM - Mateo Damico: Dificil si
+2/22/24, 6:11 AM - Mateo Damico: Imposible no
+2/22/24, 8:12 AM - Nicolas Di Giovanni: estyoy en una planta y me hace mierda los horarios
+2/22/24, 8:12 AM - Nicolas Di Giovanni: pensa que estoy entrando al cambio de turno a las 6:30
+2/22/24, 8:39 AM - Mateo Damico: re puto
+2/22/24, 10:56 AM - Andres: Me estoy re cagando
+2/22/24, 11:04 AM - Andres: 109
+2/22/24, 4:50 PM - Andres: 110
+2/23/24, 7:31 AM - Nicolas Di Giovanni: 94
+2/23/24, 7:31 AM - Nicolas Di Giovanni: Man
+2/23/24, 7:31 AM - Nicolas Di Giovanni: Fue heavy
+2/23/24, 7:38 AM - Mateo Damico: 77
+2/23/24, 7:38 AM - Mateo Damico: Same
+2/23/24, 7:38 AM - Mateo Damico: Same
+2/23/24, 9:15 AM - Nicolas Di Giovanni: https://www.instagram.com/reel/C2gHHvePcrH/?igsh=MTRlNWcybnN5aGR0NQ==
+2/23/24, 9:53 AM - Andres: https://www.instagram.com/reel/C3iOm6pMs8i/?igsh=MXM0bzZzbHYycmp3YQ==
+2/23/24, 9:56 AM - Nicolas Di Giovanni: noman
+2/23/24, 9:59 AM - Mateo Damico: que les pasa
+2/23/24, 11:08 AM - Andres: 111
+2/23/24, 11:09 AM - Nicolas Di Giovanni: 95
+2/23/24, 2:38 PM - Nicolas Di Giovanni: 96
+2/23/24, 2:38 PM - Nicolas Di Giovanni: Toy mal hoy
+2/23/24, 2:53 PM - Andres: No tuve mucho tiempo para hacer los informes
+2/23/24, 2:54 PM - Mateo Damico: mandalo
+2/23/24, 6:10 PM - Andres: 112
+2/23/24, 6:11 PM - Andres: Cagué tanto en la oficina que usé solo un rollo y medio de papel en 3 meses en casa
+2/23/24, 6:11 PM - Andres: Es eso o ando con el culo sucio ni idea
+2/23/24, 6:14 PM - Nicolas Di Giovanni: Bruh
+2/23/24, 8:52 PM - Andres: 113
+2/23/24, 8:52 PM - Andres: 😔
+2/24/24, 6:53 AM - Nicolas Di Giovanni: 97
+2/24/24, 6:53 AM - Nicolas Di Giovanni: Man estoy muy mal
+2/24/24, 6:53 AM - Nicolas Di Giovanni: Se ve que no cagar en el norte me dejo el sistema digestivo pa la corneta
+2/24/24, 9:21 AM - Andres: 114
+2/24/24, 9:26 AM - Mateo Damico: 78
+2/24/24, 10:37 AM - Andres: 115
+2/24/24, 10:37 AM - Andres: Ayuda
+2/24/24, 12:32 PM - Andres: 116
+2/24/24, 12:32 PM - Andres: Basta
+2/24/24, 12:32 PM - Andres: Por favor
+2/24/24, 12:32 PM - Nicolas Di Giovanni: Noman
+2/24/24, 12:33 PM - Andres: No quiero ganar
+2/24/24, 12:33 PM - Andres: Fui a ver un depto y tuve que cagar ahí
+2/24/24, 1:14 PM - Nicolas Di Giovanni: Jajajajaja
+2/24/24, 1:14 PM - Nicolas Di Giovanni: Que horror
+2/24/24, 2:10 PM - Nicolas Di Giovanni: https://www.instagram.com/reel/C1UoFUTL5c6/?igsh=dmNnZ3Bta3AydnU0
+2/24/24, 2:22 PM - Nicolas Di Giovanni: 98
+2/24/24, 2:22 PM - Nicolas Di Giovanni: This message was deleted
+2/24/24, 2:22 PM - Nicolas Di Giovanni: Cerca de la centena
+2/24/24, 4:50 PM - Andres: 117
+2/24/24, 4:50 PM - Andres: No puede ser
+2/24/24, 4:50 PM - Andres: Es mi cuarto del día
+2/25/24, 8:31 AM - Mateo Damico: 79
+2/25/24, 2:34 PM - Andres: 118
+2/25/24, 7:51 PM - Nicolas Di Giovanni: 99
+2/25/24, 7:51 PM - Nicolas Di Giovanni: null
+2/26/24, 7:20 AM - Mateo Damico: Ufff
+2/26/24, 7:20 AM - Mateo Damico: Que envidia
+2/26/24, 7:20 AM - Mateo Damico: 80
+2/26/24, 7:21 AM - Mateo Damico: Cuando llegue a la centena va a ser inolvidable
+2/26/24, 7:21 AM - Nicolas Di Giovanni: Queria llegar a la centena en argentina
+2/26/24, 7:21 AM - Nicolas Di Giovanni: Pero no llegue
+2/26/24, 7:21 AM - Nicolas Di Giovanni: 🥲
+2/26/24, 7:21 AM - Mateo Damico: Sabes porque es eso no!
+2/26/24, 7:21 AM - Mateo Damico: ?
+2/26/24, 7:22 AM - Mateo Damico: Porque sos un chileno puto y traidor
+2/26/24, 11:02 AM - Andres: 119
+2/26/24, 2:11 PM - Andres: 120
+2/26/24, 2:11 PM - Andres: Che creo que soy el outlier
+2/26/24, 2:16 PM - Nicolas Di Giovanni: 100
+2/26/24, 2:16 PM - Nicolas Di Giovanni: Aca en planta
+2/27/24, 7:28 AM - Nicolas Di Giovanni: 101
+2/27/24, 7:37 AM - Mateo Damico: 81
+2/27/24, 12:02 PM - Andres: 121
+2/27/24, 3:32 PM - Andres: 122
+2/27/24, 4:04 PM - Mateo Damico: Uff
+2/27/24, 4:04 PM - Mateo Damico: Dura esa seguidilla
+2/27/24, 4:04 PM - Mateo Damico: Yo estoy saliendo de la oficina y palpito una catastrofe cuando llegue
+2/27/24, 4:44 PM - Mateo Damico: 82
+2/27/24, 4:44 PM - Mateo Damico: Che nico estas flojo broder
+2/27/24, 4:45 PM - Mateo Damico: Te recorte una banda
+2/27/24, 4:54 PM - Andres: Flojo?
+2/27/24, 4:54 PM - Andres: Esa es la palabra apropiada?
+2/27/24, 7:55 PM - Nicolas Di Giovanni: 102
+2/27/24, 7:56 PM - Nicolas Di Giovanni: Toy solido man
+2/28/24, 5:59 AM - Mateo Damico: 83
+2/28/24, 11:43 AM - Andres: 123
+2/28/24, 3:38 PM - Nicolas Di Giovanni: 103
+2/29/24, 6:10 AM - Mateo Damico: 84
+2/29/24, 6:10 AM - Mateo Damico: Ande actualiza la bbdd
+2/29/24, 6:10 AM - Mateo Damico: Y te hable por privado pajin. Contesta
+2/29/24, 11:27 AM - Andres: 124
+2/29/24, 11:43 AM - Mateo Damico: La concha de la lora
+2/29/24, 1:49 PM - Nicolas Di Giovanni: Man no se puede cagar en esta planta
+2/29/24, 1:49 PM - Nicolas Di Giovanni: No doy abasto
+2/29/24, 2:15 PM - Andres: 125
+2/29/24, 6:48 PM - Nicolas Di Giovanni: 104
+2/29/24, 6:48 PM - Nicolas Di Giovanni: en casita
+3/1/24, 11:36 AM - Andres: 126
+3/1/24, 11:36 AM - Mateo Damico: me falto el mio
+3/1/24, 11:36 AM - Mateo Damico: 85
+3/2/24, 8:47 AM - Mateo Damico: 86
+3/2/24, 8:50 AM - Nicolas Di Giovanni: 105 me falto otro anoche
+3/2/24, 8:50 AM - Nicolas Di Giovanni: 106
+3/2/24, 11:35 AM - Andres: 127
+3/2/24, 3:17 PM - Andres: https://www.instagram.com/reel/C3qVx6AxWDB/?igsh=MWE2cWtrN3RjOTM4eA==
+3/2/24, 3:23 PM - Mateo Damico: <Media omitted>
+3/2/24, 3:23 PM - Andres: Ivan de Pineda?
+3/2/24, 3:24 PM - Mateo Damico: Brad pitt
+3/2/24, 4:26 PM - Andres: 128
+3/3/24, 1:16 PM - Andres: 129
+3/3/24, 4:50 PM - Mateo Damico: 87
+3/3/24, 5:27 PM - Nicolas Di Giovanni: 107
+3/3/24, 8:53 PM - Andres: 130
+3/4/24, 6:59 AM - Mateo Damico: 88
+3/4/24, 10:22 AM - Nicolas Di Giovanni: 108
+3/4/24, 10:55 AM - Andres: 131
+3/4/24, 12:20 PM - Andres: 132
+3/4/24, 12:20 PM - Andres: <Media omitted>
+3/4/24, 12:24 PM - Mateo Damico: ACTUALIZA LA BBDD
+3/4/24, 12:48 PM - Andres: <Media omitted>
+3/4/24, 12:49 PM - Andres: <Media omitted>
+3/4/24, 12:49 PM - Andres: <Media omitted>
+3/4/24, 12:49 PM - Andres: <Media omitted>
+3/4/24, 12:49 PM - Andres: Esta es perfecta
+3/4/24, 1:23 PM - Mateo Damico: como me cai man
+3/4/24, 1:23 PM - Mateo Damico: picaba en punta
+3/4/24, 1:23 PM - Mateo Damico: y pechie
+3/4/24, 1:24 PM - Mateo Damico: es de libro
+3/4/24, 5:21 PM - Andres: 133
+3/4/24, 5:59 PM - Nicolas Di Giovanni: Igual es medio mentirosa la cosa
+3/4/24, 5:59 PM - Nicolas Di Giovanni: Yo tuve recientemente pocos potentes
+3/4/24, 5:59 PM - Nicolas Di Giovanni: Y tuve rachas de muchos bien chicos
+3/4/24, 5:59 PM - Nicolas Di Giovanni: Es información incompleta
+3/4/24, 8:46 PM - Nicolas Di Giovanni: 109
+3/5/24, 6:19 AM - Mateo Damico: 89
+3/5/24, 12:37 PM - Andres: 134
+3/5/24, 2:02 PM - Nicolas Di Giovanni: 110
+3/5/24, 2:02 PM - Nicolas Di Giovanni: null
+3/5/24, 2:03 PM - Andres: No sé si lo quiero abrir Nico
+3/5/24, 2:04 PM - Andres: Man estás más blanco que la pared
+3/5/24, 2:08 PM - Mateo Damico: Andy
+3/5/24, 2:09 PM - Mateo Damico: Hijo de puta
+3/5/24, 2:09 PM - Andres: Que
+3/5/24, 2:09 PM - Mateo Damico: Contesta
+3/5/24, 2:09 PM - Mateo Damico: Privado
+3/5/24, 5:26 PM - Andres: 135
+3/5/24, 6:20 PM - Mateo Damico: 90
+3/5/24, 6:33 PM - Mateo Damico: 91
+3/5/24, 6:33 PM - Mateo Damico: <Media omitted>
+3/5/24, 6:34 PM - Nicolas Di Giovanni: Es la luz
+3/5/24, 8:42 PM - Andres: 136
+3/6/24, 6:05 AM - Nicolas Di Giovanni: 111
+3/6/24, 7:25 AM - Mateo Damico: 92
+3/6/24, 7:25 AM - Mateo Damico: Se viene
+3/6/24, 1:51 PM - Andres: 137
+3/6/24, 6:12 PM - Mateo Damico: 93
+3/6/24, 6:12 PM - Mateo Damico: Diarrea post tenis
+3/7/24, 5:36 AM - Mateo Damico: 94
+3/7/24, 12:13 PM - Andres: 138
+3/7/24, 1:04 PM - Andres: 139
+3/7/24, 1:05 PM - Andres: Yo creo que es el café
+3/7/24, 1:45 PM - Mateo Damico: Re puto
+3/7/24, 4:54 PM - Mateo Damico: 95
+3/7/24, 4:54 PM - Nicolas Di Giovanni: 112
+3/7/24, 6:52 PM - Andres: 140
+3/7/24, 6:52 PM - Andres: Noman
+3/7/24, 6:52 PM - Andres: Un escopetazo
+3/7/24, 6:52 PM - Nicolas Di Giovanni: que horror
+3/7/24, 6:52 PM - Nicolas Di Giovanni: yo vengo solido como nunca
+3/7/24, 6:53 PM - Nicolas Di Giovanni: bajo #, alto volumen
+3/7/24, 6:53 PM - Nicolas Di Giovanni: feliz
+3/7/24, 7:02 PM - Mateo Damico: Nico
+3/7/24, 7:02 PM - Mateo Damico: Te estoy por alcanzar
+3/7/24, 7:02 PM - Mateo Damico: Sos un cagon pero sin cagar
+3/8/24, 11:29 AM - Mateo Damico: 96
+3/8/24, 12:01 PM - Nicolas Di Giovanni: 113
+3/8/24, 12:01 PM - Nicolas Di Giovanni: 114
+3/8/24, 12:01 PM - Andres: 141
+3/8/24, 3:34 PM - Andres: 142
+3/8/24, 3:34 PM - Andres: Express
+3/9/24, 7:23 AM - Mateo Damico: 97
+3/9/24, 1:37 PM - Andres: 143
+3/9/24, 2:34 PM - Nicolas Di Giovanni: 115
+3/9/24, 2:34 PM - Nicolas Di Giovanni: Despues del gym
+3/9/24, 2:34 PM - Nicolas Di Giovanni: Mamita
+3/9/24, 5:12 PM - Andres: 144
+3/10/24, 1:48 AM - Mateo Damico: Re puto
+3/10/24, 9:54 AM - Mateo Damico: 98
+3/10/24, 9:54 AM - Mateo Damico: Se viene
+3/10/24, 9:54 AM - Mateo Damico: Falta menos
+3/10/24, 11:05 AM - Nicolas Di Giovanni: 116
+3/10/24, 11:44 AM - Andres: 145
+3/10/24, 11:44 AM - Andres: Lo forcé porque me tengo que ir
+3/10/24, 2:15 PM - Mateo Damico: 99
+3/10/24, 2:15 PM - Mateo Damico: En la puerta
+3/10/24, 6:36 PM - Mateo Damico: Andy manda los graficos con la bbdd actualizada
+3/10/24, 8:40 PM - Andres: 146
+3/11/24, 7:18 AM - Mateo Damico: <Media omitted>
+3/11/24, 7:55 AM - Mateo Damico: 100
+3/11/24, 7:55 AM - Mateo Damico: Llegue
+3/11/24, 8:03 AM - Nicolas Di Giovanni: Felicitaciones
+3/11/24, 12:53 PM - Mateo Damico: Gracias
+3/11/24, 12:53 PM - Mateo Damico: Lo estaba esperando hace mucho
+3/11/24, 12:54 PM - Mateo Damico: Ee
+3/11/24, 1:03 PM - Andres: Banca amigo la de laburar no lo conoces?
+3/11/24, 1:03 PM - Mateo Damico: estoy arriba desde las 5am
+3/11/24, 1:04 PM - Mateo Damico: hombreando bolsas en el puerto
+3/11/24, 1:04 PM - Mateo Damico: y quiero saber como mierda viene la tabla de cagos
+3/11/24, 1:50 PM - Andres: 147
+3/11/24, 1:52 PM - Andres: <Media omitted>
+3/11/24, 1:54 PM - Andres: <Media omitted>
+3/11/24, 1:54 PM - Andres: <Media omitted>
+3/11/24, 1:54 PM - Andres: <Media omitted>
+3/11/24, 2:05 PM - Mateo Damico: gracias
+3/11/24, 3:25 PM - Nicolas Di Giovanni: Haganse revisar man
+3/11/24, 3:26 PM - Nicolas Di Giovanni: Tan cagando como recien nacido
+3/11/24, 5:10 PM - Andres: 148
+3/11/24, 6:58 PM - Mateo Damico: Me asuste un poco la sincronizacion en los cagos
+3/11/24, 6:58 PM - Mateo Damico: Estamos iguales andy
+3/11/24, 7:01 PM - Andres: Jajajajja sí ese overlap
+3/12/24, 7:26 AM - Mateo Damico: 101
+3/12/24, 10:48 AM - Nicolas Di Giovanni: 117
+3/12/24, 11:03 AM - Andres: 149
+3/12/24, 6:52 PM - Mateo Damico: 102
+3/12/24, 10:16 PM - Andres: 150
+3/13/24, 10:42 AM - Mateo Damico: 103
+3/13/24, 10:43 AM - Mateo Damico: Andy pasate el grafico dela serie de tiempo pero con fechas. Sin estar estandarizado
+3/13/24, 10:44 AM - Nicolas Di Giovanni: no se puede hacer un envio automático?
+3/13/24, 10:45 AM - Nicolas Di Giovanni: siento que le estamos hinchando las pelotas a andy cada 2 por 3 jajajaja
+3/13/24, 10:45 AM - Mateo Damico: es que depende de la DDBB de su whatsapp
+3/13/24, 10:45 AM - Mateo Damico: aparte
+3/13/24, 10:45 AM - Mateo Damico: que la chupe
+3/13/24, 10:46 AM - Andres: Edita el código rey
+3/13/24, 10:47 AM - Nicolas Di Giovanni: yo de código se tanto como ustedes de quimica asi que chupenla
+3/13/24, 10:47 AM - Nicolas Di Giovanni: jajaja
+3/13/24, 10:47 AM - Mateo Damico: null
+3/13/24, 10:48 AM - Andres: Flaco no pongas números
+3/13/24, 10:48 AM - Andres: Jajajaja
+3/13/24, 10:48 AM - Mateo Damico: a listo
+3/13/24, 10:49 AM - Mateo Damico: no hay libertad de expresion aca
+3/13/24, 10:49 AM - Mateo Damico: me censuran
+3/13/24, 10:49 AM - Andres: Jajajajajaja
+3/13/24, 10:49 AM - Nicolas Di Giovanni: jaajajajajajaj
+3/13/24, 10:49 AM - Andres: Como sin estar estandarizado?
+3/13/24, 10:49 AM - Mateo Damico: desde la fecha que arranco cada uno
+3/13/24, 11:04 AM - Andres: Uh tenía un bug
+3/13/24, 11:04 AM - Andres: WhatsApp exporta las fechas con dos dígitos por año
+3/13/24, 11:04 AM - Andres: Y yo la mandaba a un formato de 4
+3/13/24, 11:04 AM - Andres: Entonces estábamos en el año 24
+3/13/24, 11:04 AM - Andres: Jesús estaba vivo
+3/13/24, 11:05 AM - Andres: Igual no cambiaba nada pero cuando quise filtrar por el mes de febrero me daba todo vacío
+3/13/24, 11:19 AM - Andres: <Media omitted>
+3/13/24, 11:20 AM - Andres: <Media omitted>
+3/13/24, 11:23 AM - Andres: <Media omitted>
+3/13/24, 11:23 AM - Andres: Mira como te pasó Mateo
+3/13/24, 11:29 AM - Nicolas Di Giovanni: tan hechos mierda
+3/13/24, 11:29 AM - Nicolas Di Giovanni: lit
+3/13/24, 12:02 PM - Andres: 151
+3/13/24, 1:33 PM - Mateo Damico: 104
+3/13/24, 1:33 PM - Mateo Damico: <Media omitted>
+3/13/24, 1:33 PM - Mateo Damico: Segundo. Re puto
+3/13/24, 1:34 PM - Mateo Damico: Aca quise decir
+3/13/24, 1:35 PM - Mateo Damico: Como pechie en febrero
+3/13/24, 1:54 PM - Andres: Pero vos querés ganar?
+3/13/24, 2:24 PM - Mateo Damico: por supuesto
+3/13/24, 3:20 PM - Nicolas Di Giovanni: 118
+3/13/24, 5:08 PM - Mateo Damico: 105
+3/13/24, 5:08 PM - Mateo Damico: Dia complicado
+3/13/24, 8:46 PM - Andres: 152
+3/14/24, 6:58 AM - Mateo Damico: 106
+3/14/24, 5:36 PM - Andres: <Media omitted>
+3/14/24, 5:36 PM - Andres: La googlee y resulta que es un laxante natural
+3/14/24, 5:36 PM - Andres: <Media omitted>
+3/14/24, 5:36 PM - Andres: Cuenta como dopaje?
+3/14/24, 5:48 PM - Mateo Damico: 107
+3/14/24, 5:48 PM - Mateo Damico: Si
+3/14/24, 5:58 PM - Nicolas Di Giovanni: 119
+3/14/24, 6:48 PM - Andres: 153
+3/15/24, 6:19 AM - Mateo Damico: 108
+3/15/24, 7:24 AM - Nicolas Di Giovanni: 120
+3/15/24, 7:24 AM - Nicolas Di Giovanni: Man en el norte me esta costando cagar
+3/15/24, 7:25 AM - Nicolas Di Giovanni: Pero cuando cago mamita
+3/15/24, 12:07 PM - Andres: 154
+3/15/24, 12:24 PM - Mateo Damico: bro
+3/15/24, 12:24 PM - Mateo Damico: metiste un cambio e pendiente terrible
+3/15/24, 12:24 PM - Mateo Damico: hacete ver
+3/15/24, 12:24 PM - Mateo Damico: debe ser el agua de nyc
+3/15/24, 1:49 PM - Andres: Tomo agua de la canilla ahora que lo mencionas
+3/15/24, 2:58 PM - Nicolas Di Giovanni: 121
+3/16/24, 9:13 AM - Mateo Damico: 109
+3/16/24, 2:34 PM - Andres: 155
+3/16/24, 4:38 PM - Andres: 156
+3/16/24, 4:38 PM - Nicolas Di Giovanni: 122
+3/16/24, 4:38 PM - Nicolas Di Giovanni: Post gym
+3/17/24, 9:21 AM - Mateo Damico: 110
+3/17/24, 2:38 PM - Andres: 157
+3/17/24, 7:34 PM - Andres: 158
+3/17/24, 7:34 PM - Andres: Tome fernet anoche
+3/17/24, 11:03 PM - Mateo Damico: Re puto
+3/18/24, 7:06 AM - Mateo Damico: 111
+3/18/24, 10:23 AM - Nicolas Di Giovanni: 123
+3/18/24, 11:44 AM - Andres: 159
+3/18/24, 4:40 PM - Andres: 160
+3/18/24, 4:40 PM - Andres: Son microcagos
+3/18/24, 4:46 PM - Mateo Damico: Manda los graficos
+3/19/24, 7:32 AM - Mateo Damico: 112
+3/19/24, 8:07 AM - Nicolas Di Giovanni: 124
+3/19/24, 8:08 AM - Nicolas Di Giovanni: Claro, y yo que estoy cagando un brazo aprox quedo atras en cantidad
+3/19/24, 8:08 AM - Nicolas Di Giovanni: Que paja
+3/19/24, 10:41 AM - Andres: 161
+3/19/24, 11:05 AM - Mateo Damico: un cago es un cago
+3/19/24, 11:05 AM - Mateo Damico: asi es el reglamento
+3/19/24, 11:06 AM - Andres: Gol es gol
+3/19/24, 6:09 PM - Andres: 162
+3/19/24, 6:16 PM - Mateo Damico: Che cuando vienen los dos a ARG?
+3/19/24, 6:36 PM - Nicolas Di Giovanni: This message was deleted
+3/19/24, 6:36 PM - Nicolas Di Giovanni: This message was deleted
+3/19/24, 6:36 PM - Nicolas Di Giovanni: 125
+3/19/24, 6:37 PM - Nicolas Di Giovanni: Yo vuelvo en cuatro o cinco semanas
+3/19/24, 7:33 PM - Mateo Damico: Avisa
+3/19/24, 7:34 PM - Mateo Damico: Vos andy cabeza de pitochico
+3/20/24, 6:12 AM - Mateo Damico: 113
+3/20/24, 2:24 PM - Andres: 163
+3/21/24, 7:32 AM - Mateo Damico: 114
+3/21/24, 9:59 AM - Andres: @5491161393640 no cagaste ayer?
+3/21/24, 10:01 AM - Nicolas Di Giovanni: 124
+3/21/24, 10:01 AM - Nicolas Di Giovanni: 125
+3/21/24, 10:01 AM - Nicolas Di Giovanni: man estoy hasta la pija en esta planta de mierda
+3/21/24, 10:01 AM - Nicolas Di Giovanni: ta explotando todo
+3/22/24, 8:07 AM - Mateo Damico: 115
+3/22/24, 8:56 AM - Andres: Estas sólido en ese horario
+3/22/24, 8:57 AM - Andres: Yo ayer no cagué man no sé qué pasa
+3/22/24, 9:01 AM - Nicolas Di Giovanni: 126
+3/22/24, 10:42 AM - Andres: 164
+3/22/24, 11:48 AM - Mateo Damico: y si
+3/22/24, 3:55 PM - Andres: 165
+3/22/24, 3:55 PM - Andres: We are back
+3/22/24, 4:37 PM - Nicolas Di Giovanni: 127
+3/22/24, 4:37 PM - Nicolas Di Giovanni: Se viene un mal finde 😕
+3/22/24, 4:37 PM - Nicolas Di Giovanni: Salio bien malo
+3/23/24, 9:21 AM - Mateo Damico: 116
+3/23/24, 10:17 AM - Nicolas Di Giovanni: 128
+3/23/24, 12:23 PM - Andres: 166
+3/23/24, 3:34 PM - Nicolas Di Giovanni: 129
+3/23/24, 3:35 PM - Nicolas Di Giovanni: Post gym
+3/23/24, 3:35 PM - Nicolas Di Giovanni: Costo sacarlo
+3/23/24, 6:18 PM - Andres: 167
+3/24/24, 3:46 PM - Mateo Damico: 117
+3/24/24, 3:46 PM - Mateo Damico: Le tuve que pedir perdon al inodoro
+3/24/24, 3:50 PM - Nicolas Di Giovanni: yo estoy que me cago hace horas
+3/24/24, 3:50 PM - Nicolas Di Giovanni: fui al gym
+3/24/24, 3:50 PM - Nicolas Di Giovanni: volvi
+3/24/24, 3:50 PM - Nicolas Di Giovanni: apunto de cagarme
+3/24/24, 3:50 PM - Nicolas Di Giovanni: y me llamo clari
+3/24/24, 3:50 PM - Nicolas Di Giovanni: no aguanto mas
+3/25/24, 7:57 AM - Mateo Damico: 118
+3/25/24, 7:57 AM - Mateo Damico: Estoy tapado
+3/25/24, 7:58 AM - Mateo Damico: Andy venite cuando viene nico
+3/25/24, 7:58 AM - Nicolas Di Giovanni: 130
+3/25/24, 7:58 AM - Nicolas Di Giovanni: 131
+3/25/24, 1:26 PM - Nicolas Di Giovanni: 132
+3/25/24, 2:22 PM - Andres: Yo también, ahí lo bajo con un café
+3/25/24, 2:22 PM - Andres: No sé, estuve ahí recién pero Nico no quiso venir
+3/25/24, 3:52 PM - Nicolas Di Giovanni: no seas chupapija
+3/25/24, 3:52 PM - Nicolas Di Giovanni: fuiste en fechas rarisimas
+3/25/24, 3:52 PM - Nicolas Di Giovanni: tenia que tomarme 10 dias para aprovechar 2 prox
+3/25/24, 3:52 PM - Nicolas Di Giovanni: aprox
+3/25/24, 3:54 PM - Andres: Y bueno era lo único posible
+3/26/24, 7:26 AM - Mateo Damico: 119
+3/26/24, 7:27 AM - Mateo Damico: Bueno me chupa las dos pindongas
+3/26/24, 7:27 AM - Mateo Damico: Venganse unos dias
+3/26/24, 8:01 AM - Nicolas Di Giovanni: jajajajaja
+3/26/24, 10:54 AM - Nicolas Di Giovanni: 133
+3/26/24, 11:46 AM - Andres: Che
+3/26/24, 11:46 AM - Andres: Ayuda
+3/26/24, 11:46 AM - Andres: Todavía nada
+3/26/24, 12:49 PM - Mateo Damico: Jodete
+3/26/24, 1:20 PM - Andres: 168
+3/26/24, 1:21 PM - Andres: <Media omitted>
+3/26/24, 5:11 PM - Andres: 169
+3/26/24, 6:03 PM - Mateo Damico: <Media omitted>
+3/26/24, 6:15 PM - Mateo Damico: 120
+3/27/24, 7:45 AM - Mateo Damico: 121
+3/27/24, 8:12 AM - Nicolas Di Giovanni: 134
+3/27/24, 11:30 AM - Andres: 170
+3/27/24, 4:28 PM - Andres: 171
+3/27/24, 5:02 PM - Mateo Damico: bue
+3/28/24, 11:44 AM - Andres: 172
+3/28/24, 11:44 AM - Andres: Mañana difícil?
+3/28/24, 2:19 PM - Mateo Damico: 122
+3/28/24, 2:19 PM - Mateo Damico: Si
+3/28/24, 3:15 PM - Andres: 173
+3/28/24, 4:42 PM - Nicolas Di Giovanni: 135
+3/28/24, 4:42 PM - Mateo Damico: Jajaja same
+3/28/24, 4:42 PM - Mateo Damico: Ahora mismo
+3/28/24, 4:42 PM - Mateo Damico: 123
+3/28/24, 7:05 PM - Andres: 174
+3/28/24, 7:06 PM - Andres: <Media omitted>
+3/29/24, 9:10 AM - Mateo Damico: 124
+3/29/24, 1:02 PM - Andres: 175
+3/29/24, 1:13 PM - Mateo Damico: Andy
+3/29/24, 1:13 PM - Mateo Damico: Manda los graficos
+3/29/24, 1:13 PM - Mateo Damico: Hace seis meses estoy esperando
+3/29/24, 1:17 PM - Andres: Bue jsjsjs
+3/29/24, 6:47 PM - Nicolas Di Giovanni: 135
+3/30/24, 8:58 AM - Mateo Damico: 125
+3/30/24, 10:36 AM - Nicolas Di Giovanni: 136
+3/30/24, 10:36 AM - Nicolas Di Giovanni: 137
+3/30/24, 11:07 AM - Andres: 176
+3/30/24, 1:01 PM - Mateo Damico: Rarisimo esto
+3/30/24, 1:02 PM - Andres: Si mal
+3/30/24, 1:35 PM - Andres: 177
+3/30/24, 3:03 PM - Nicolas Di Giovanni: 138
+3/30/24, 3:03 PM - Nicolas Di Giovanni: Man viene heavy mi sabado
+3/31/24, 10:20 AM - Mateo Damico: 126
+3/31/24, 12:30 PM - Andres: 178
+3/31/24, 3:21 PM - Mateo Damico: 127
+3/31/24, 10:01 PM - Andres: 179
+3/31/24, 10:28 PM - Mateo Damico: En que momento me sacaste cincuenta y dos cagos man
+3/31/24, 10:28 PM - Mateo Damico: Chorro
+4/1/24, 1:12 PM - Nicolas Di Giovanni: *139*
+4/1/24, 1:12 PM - Nicolas Di Giovanni: This message was deleted
+4/1/24, 1:13 PM - Mateo Damico: Me falto el de hoy a la mañana
+4/1/24, 1:13 PM - Mateo Damico: 128
+4/1/24, 2:54 PM - Andres: 180
+4/1/24, 11:45 PM - Andres: 181
+4/1/24, 11:45 PM - Andres: En el nuevo depto
+4/2/24, 12:30 AM - Mateo Damico: Respect
+4/2/24, 12:30 AM - Mateo Damico: Manda foto
+4/2/24, 12:31 AM - Mateo Damico: Del depto
+4/2/24, 12:31 AM - Mateo Damico: No de la caca
+4/2/24, 12:31 AM - Andres: <Media omitted>
+4/2/24, 12:31 AM - Mateo Damico: Lenda
+4/2/24, 9:50 AM - Andres: 182
+4/2/24, 9:53 AM - Nicolas Di Giovanni: 140
+4/2/24, 4:00 PM - Mateo Damico: Che hoy no cague
+4/2/24, 4:00 PM - Mateo Damico: Ya me tome un cafe y un termo de mate
+4/2/24, 5:31 PM - Mateo Damico: 129
+4/2/24, 5:31 PM - Mateo Damico: <Media omitted>
+4/2/24, 8:43 PM - Andres: 183
+4/3/24, 8:06 AM - Mateo Damico: 130
+4/3/24, 8:17 AM - Nicolas Di Giovanni: Me cago
+4/3/24, 4:29 PM - Andres: 184
+4/3/24, 4:29 PM - Andres: Mentira fue un pedo
+4/3/24, 4:30 PM - Andres: Ah no ahí salio
+4/3/24, 4:32 PM - Nicolas Di Giovanni: 141
+4/3/24, 10:12 PM - Mateo Damico: 131
+4/3/24, 10:12 PM - Mateo Damico: LNS
+4/3/24, 10:13 PM - Mateo Damico: late night shit
+4/3/24, 11:07 PM - Nicolas Di Giovanni: Man, recien llego al hotel
+4/3/24, 11:07 PM - Nicolas Di Giovanni: Desde la planta
+4/3/24, 11:07 PM - Nicolas Di Giovanni: Me cago en mi vida jajajaja
+4/3/24, 11:07 PM - Nicolas Di Giovanni: <Media omitted>
+4/4/24, 7:28 AM - Mateo Damico: 132
+4/4/24, 2:40 PM - Andres: 185
+4/4/24, 2:41 PM - Mateo Damico: manda los graficos chabon
+4/5/24, 9:20 AM - Mateo Damico: 133
+4/5/24, 9:20 AM - Mateo Damico: Eu
+4/5/24, 9:20 AM - Mateo Damico: Desde principios de marzo que no veo un puto grafico
+4/5/24, 9:20 AM - Mateo Damico: Estoy ciego
+4/5/24, 3:31 PM - Andres: 186
+4/5/24, 3:35 PM - Mateo Damico: bro
+4/5/24, 3:35 PM - Mateo Damico: mandalo
+4/5/24, 3:38 PM - Andres: <Media omitted>
+4/5/24, 3:39 PM - Andres: <Media omitted>
+4/5/24, 3:39 PM - Mateo Damico: la concha de la lora
+4/5/24, 3:39 PM - Andres: <Media omitted>
+4/5/24, 3:39 PM - Mateo Damico: que bien venia
+4/5/24, 3:39 PM - Andres: <Media omitted>
+4/5/24, 3:39 PM - Andres: Man es perfecta
+4/5/24, 3:39 PM - Mateo Damico: lo es
+4/5/24, 3:40 PM - Mateo Damico: <Media omitted>
+4/5/24, 3:41 PM - Mateo Damico: metiste un cambio de pendiente hermoso
+4/5/24, 3:45 PM - Andres: <Media omitted>
+4/5/24, 3:47 PM - Mateo Damico: quien es el verde?
+4/5/24, 3:47 PM - Mateo Damico: soy yo?
+4/5/24, 3:48 PM - Mateo Damico: no puedo ser mas puto
+4/5/24, 3:49 PM - Andres: Sisi
+4/5/24, 3:49 PM - Andres: Me faltó la leyenda
+4/5/24, 3:50 PM - Mateo Damico: no puede ser man
+4/5/24, 3:50 PM - Mateo Damico: caido
+4/5/24, 3:50 PM - Andres: En en febrero pecheaste
+4/5/24, 3:51 PM - Andres: Venías bien
+4/5/24, 3:51 PM - Mateo Damico: me cago el sur
+4/5/24, 3:52 PM - Mateo Damico: <Media omitted>
+4/5/24, 3:58 PM - Nicolas Di Giovanni: 142
+4/5/24, 4:12 PM - Mateo Damico: eu
+4/5/24, 4:12 PM - Mateo Damico: vengan en junio
+4/5/24, 4:12 PM - Mateo Damico: o julio
+4/5/24, 7:13 PM - Mateo Damico: 134
+4/6/24, 8:18 AM - Mateo Damico: 135
+4/6/24, 9:37 AM - Nicolas Di Giovanni: 143
+4/6/24, 11:51 AM - Andres: 187
+4/7/24, 12:07 PM - Andres: 188
+4/7/24, 12:55 PM - Mateo Damico: 136
+4/7/24, 2:23 PM - Nicolas Di Giovanni: 144
+4/7/24, 2:23 PM - Nicolas Di Giovanni: Andy, tenes problemas
+4/7/24, 2:24 PM - Nicolas Di Giovanni: Igual fuera de joda la planta me hace tener que aguantar y cagar mas espaciado
+4/7/24, 2:28 PM - Mateo Damico: Tas cagado porque en cualquier momento te paso
+4/7/24, 2:35 PM - Nicolas Di Giovanni: nono
+4/7/24, 2:35 PM - Nicolas Di Giovanni: orgulloso de que me pasen
+4/7/24, 2:35 PM - Nicolas Di Giovanni: se que eso implica (por balance de materia) que mis cagos son mas potentes
+4/7/24, 2:36 PM - Nicolas Di Giovanni: y que andy caga como un conejo
+4/8/24, 7:23 AM - Mateo Damico: 137
+4/8/24, 11:52 AM - Andres: 189
+4/8/24, 11:52 AM - Andres: Vengo a razón de uno por día
+4/8/24, 12:02 PM - Nicolas Di Giovanni: 145
+4/8/24, 12:02 PM - Nicolas Di Giovanni: 146
+4/8/24, 12:50 PM - Mateo Damico: Raaaaroo
+4/8/24, 6:35 PM - Mateo Damico: 138
+4/9/24, 7:06 AM - Mateo Damico: 139
+4/9/24, 7:06 AM - Mateo Damico: Estoy podrido
+4/9/24, 8:41 AM - Nicolas Di Giovanni: 147 chiquito
+4/9/24, 10:42 AM - Andres: 190
+4/9/24, 8:04 PM - Mateo Damico: 140
+4/10/24, 7:44 AM - Mateo Damico: 141
+4/10/24, 2:14 PM - Andres: 191
+4/10/24, 2:14 PM - Andres: Che estoy mejor
+4/10/24, 3:29 PM - Nicolas Di Giovanni: 148
+4/10/24, 4:53 PM - Mateo Damico: 142
+4/10/24, 6:31 PM - Mateo Damico: Che
+4/10/24, 6:31 PM - Mateo Damico: 143
+4/10/24, 6:32 PM - Mateo Damico: <Media omitted>
+4/10/24, 8:40 PM - Andres: La quemé
+4/10/24, 8:40 PM - Andres: 192
+4/10/24, 9:00 PM - Mateo Damico: Yo estoy hecho ~pija~ mierda
+4/10/24, 9:35 PM - Nicolas Di Giovanni: jjajajajajajaj
+4/11/24, 7:28 AM - Mateo Damico: 144
+4/11/24, 9:55 AM - Andres: 193
+4/11/24, 8:52 PM - Andres: 194
+4/11/24, 8:52 PM - Andres: 😔
+4/11/24, 10:23 PM - Mateo Damico: Casi bicentenario
+4/12/24, 7:01 AM - Mateo Damico: 145
+4/12/24, 8:38 AM - Mateo Damico: 146
+4/12/24, 8:38 AM - Mateo Damico: <Media omitted>
+4/12/24, 8:38 AM - Andres: Jajajajja
+4/12/24, 10:04 AM - Nicolas Di Giovanni: *149*
+4/12/24, 10:05 AM - Andres: Thicc?
+4/12/24, 10:05 AM - Nicolas Di Giovanni: Acabo de conocer en carne propia lo que se siente un proceso de parto
+4/12/24, 6:50 PM - Andres: 195
+4/12/24, 6:53 PM - Nicolas Di Giovanni: 150
+4/13/24, 11:05 AM - Andres: 196
+4/13/24, 11:24 AM - Mateo Damico: 147
+4/14/24, 10:27 AM - Andres: 197
+4/14/24, 10:59 AM - Mateo Damico: 148
+4/14/24, 2:00 PM - Nicolas Di Giovanni: *151*
+4/15/24, 6:11 AM - Mateo Damico: 149
+4/15/24, 4:03 PM - Andres: 198
+4/16/24, 7:25 AM - Mateo Damico: 150
+4/16/24, 10:04 AM - Nicolas Di Giovanni: 152
+4/16/24, 12:31 PM - Andres: 199
+4/16/24, 12:31 PM - Andres: <Media omitted>
+4/16/24, 12:32 PM - Mateo Damico: joeputa
+4/16/24, 12:32 PM - Mateo Damico: envidia
+4/16/24, 12:32 PM - Andres: Noman
+4/16/24, 12:33 PM - Mateo Damico: Bicentenario
+4/16/24, 12:33 PM - Mateo Damico: eu nico te como eee
+4/16/24, 12:33 PM - Andres: <Media omitted>
+4/16/24, 12:34 PM - Mateo Damico: No puede ser eso
+4/16/24, 12:34 PM - Mateo Damico: Estoy a dos de nico
+4/16/24, 12:35 PM - Andres: <Media omitted>
+4/16/24, 12:36 PM - Andres: No se, habría que revisar si está contando bien
+4/16/24, 12:36 PM - Andres: <Media omitted>
+4/16/24, 12:37 PM - Andres: Porque habíamos arrancado por nuestro chat privado
+4/16/24, 12:37 PM - Mateo Damico: Sos el indec man
+4/16/24, 12:37 PM - Mateo Damico: La concha de tu madre
+4/16/24, 12:37 PM - Andres: Jajajajaja
+4/16/24, 12:37 PM - Nicolas Di Giovanni: jjajaajajajaja
+4/16/24, 12:38 PM - Andres: null
+4/16/24, 12:45 PM - Mateo Damico: Respect
+4/16/24, 4:42 PM - Andres: 200
+4/16/24, 4:42 PM - Andres: <Media omitted>
+4/16/24, 5:05 PM - Mateo Damico: Que orto
+4/17/24, 7:09 AM - Mateo Damico: 151
+4/17/24, 10:24 AM - Andres: 201
+4/17/24, 7:58 PM - Mateo Damico: 152
+4/17/24, 7:58 PM - Mateo Damico: Te pase chileno de mierda
+4/18/24, 7:13 AM - Mateo Damico: 153
+4/18/24, 10:44 AM - Andres: null
+4/18/24, 10:44 AM - Andres: 202
+4/18/24, 11:36 AM - Mateo Damico: Lenda
+4/18/24, 1:48 PM - Andres: 203
+4/18/24, 4:22 PM - Mateo Damico: Manda gráficos
+4/18/24, 4:22 PM - Mateo Damico: Bien hechos
+4/18/24, 4:22 PM - Mateo Damico: Porque ya lo pase al chilote
+4/18/24, 4:24 PM - Andres: Che Nico dale no cagaste?
+4/18/24, 4:27 PM - Nicolas Di Giovanni: Man, estoy hasta la pija pero los tengo contados
+4/19/24, 7:55 AM - Mateo Damico: 154
+4/19/24, 8:17 AM - Nicolas Di Giovanni: puta madre me atrasé en mis registros pero va un estimado
+4/19/24, 8:18 AM - Nicolas Di Giovanni: This message was deleted
+4/19/24, 8:18 AM - Nicolas Di Giovanni: tenemos que habilitar carga retroactiva
+4/19/24, 8:20 AM - Mateo Damico: nonononoono
+4/19/24, 8:20 AM - Mateo Damico: es la chileneada mas chilena que vi en mi vida
+4/19/24, 8:20 AM - Mateo Damico: ni en malvinas vi algo asi
+4/19/24, 8:20 AM - Nicolas Di Giovanni: jjajajajaja
+4/19/24, 8:20 AM - Nicolas Di Giovanni: lo lamento
+4/19/24, 8:22 AM - Mateo Damico: @16507853821 aparte mira como manda el numero del viernes
+4/19/24, 8:22 AM - Mateo Damico: todo muy raro
+4/19/24, 8:44 AM - Mateo Damico: 155
+4/19/24, 8:44 AM - Mateo Damico: mañana movida
+4/19/24, 8:48 AM - Nicolas Di Giovanni: Uy
+4/19/24, 8:48 AM - Nicolas Di Giovanni: null
+4/19/24, 8:48 AM - Nicolas Di Giovanni: Corregido
+4/19/24, 9:04 AM - Andres: No sirve así
+4/19/24, 9:25 AM - Mateo Damico: e
+4/19/24, 10:27 AM - Andres: En el aeropuerto
+4/19/24, 10:27 AM - Andres: 204
+4/19/24, 10:28 AM - Andres: Manda un mensaje por cada uno y borra ese
+4/19/24, 10:28 AM - Andres: La paja es que en el gráfico va a aparecer como un línea vertical
+4/19/24, 10:28 AM - Andres: Pero bueno
+4/19/24, 10:56 AM - Nicolas Di Giovanni: 153
+4/19/24, 10:56 AM - Nicolas Di Giovanni: 154
+4/19/24, 10:56 AM - Nicolas Di Giovanni: 155
+4/19/24, 10:56 AM - Nicolas Di Giovanni: This message was deleted
+4/19/24, 10:56 AM - Nicolas Di Giovanni: 156
+4/19/24, 10:56 AM - Nicolas Di Giovanni: 157
+4/19/24, 11:10 AM - Mateo Damico: que hijo de puta
+4/20/24, 8:01 AM - Mateo Damico: 156
+4/20/24, 8:38 AM - Nicolas Di Giovanni: 158
+4/20/24, 2:08 PM - Nicolas Di Giovanni: 159
+4/20/24, 9:38 PM - Andres: Yo no voy hace rato man
+4/21/24, 8:36 AM - Mateo Damico: 157
+4/21/24, 10:28 AM - Andres: Todavía estoy sin ganas rip
+4/21/24, 11:18 AM - Nicolas Di Giovanni: Yo estoy tratando desde hoy a la mañana sin exito
+4/21/24, 12:22 PM - Mateo Damico: 158
+4/21/24, 12:22 PM - Mateo Damico: Mucho mate hoy
+4/21/24, 12:28 PM - Andres: The big one, después de 48 horas
+4/21/24, 12:28 PM - Andres: 205
+4/21/24, 12:35 PM - Nicolas Di Giovanni: Resend en bold si fue asi
+4/22/24, 8:23 AM - Mateo Damico: 159
+4/22/24, 9:11 AM - Mateo Damico: Che
+4/22/24, 9:11 AM - Mateo Damico: 160
+4/22/24, 9:11 AM - Mateo Damico: Arranca complicada la semana
+4/22/24, 10:22 AM - Nicolas Di Giovanni: 160
+4/22/24, 10:32 AM - Andres: 206
+4/22/24, 11:30 AM - Mateo Damico: ALGUIEN
+4/22/24, 11:30 AM - Mateo Damico: PUEDE
+4/22/24, 11:30 AM - Mateo Damico: MANDAR
+4/22/24, 11:30 AM - Mateo Damico: LOS
+4/22/24, 11:30 AM - Mateo Damico: GRAFICOS
+4/22/24, 11:34 AM - Andres: Jajajaja para
+4/22/24, 11:34 AM - Andres: Ahora sospecho que mi código no cuenta los * de Nico
+4/22/24, 11:40 AM - Nicolas Di Giovanni: *fuck*
+4/23/24, 6:43 AM - Mateo Damico: 161
+4/23/24, 7:35 AM - Mateo Damico: Voy a empezar a ponerle queso al cafe
+4/23/24, 7:35 AM - Mateo Damico: 162
+4/23/24, 12:08 PM - Andres: 207
+4/23/24, 12:08 PM - Nicolas Di Giovanni: 161
+4/23/24, 12:08 PM - Nicolas Di Giovanni: puta madre me cuesta cargar en hora
+4/23/24, 12:14 PM - Mateo Damico: E
+4/23/24, 5:31 PM - Mateo Damico: 163
+4/23/24, 5:31 PM - Mateo Damico: Mal dia
+4/23/24, 6:47 PM - Nicolas Di Giovanni: 162
+4/23/24, 7:06 PM - Mateo Damico: Te pase puto
+4/24/24, 5:10 AM - Mateo Damico: 164
+4/24/24, 9:06 AM - Mateo Damico: 165
+4/24/24, 10:33 AM - Andres: 208
+4/24/24, 10:49 AM - Mateo Damico: e
+4/24/24, 5:03 PM - Nicolas Di Giovanni: 163
+4/25/24, 7:33 AM - Mateo Damico: 166
+4/25/24, 7:33 AM - Mateo Damico: Andres la puta madre
+4/25/24, 7:33 AM - Mateo Damico: Me siento completamente ciego
+4/25/24, 7:36 AM - Nicolas Di Giovanni: 164
+4/26/24, 8:41 AM - Mateo Damico: 167
+4/26/24, 8:46 AM - Andres: Me estoy quedando re atrás
+4/26/24, 8:47 AM - Andres: Ayer no cagué
+4/26/24, 8:58 AM - Mateo Damico: Andy
+4/26/24, 8:59 AM - Mateo Damico: Por favor
+4/26/24, 8:59 AM - Mateo Damico: Pasa los graficos
+4/26/24, 10:13 AM - Andres: 209
+4/26/24, 10:26 AM - Mateo Damico: Repu
+4/27/24, 8:24 AM - Andres: 210
+4/27/24, 9:36 AM - Mateo Damico: 168
+4/27/24, 9:36 AM - Mateo Damico: Este esta peludisimo
+4/27/24, 9:36 AM - Nicolas Di Giovanni: 165
+4/27/24, 9:59 AM - Andres: 211
+4/27/24, 11:16 AM - Mateo Damico: 169
+4/28/24, 8:57 AM - Andres: 212
+4/28/24, 8:57 AM - Andres: Chiquito pero más duro que el holocausto
+4/28/24, 9:51 AM - Nicolas Di Giovanni: bruh
+4/28/24, 9:51 AM - Mateo Damico: Andy
+4/28/24, 9:51 AM - Mateo Damico: Manda
+4/28/24, 9:51 AM - Mateo Damico: Los
+4/28/24, 9:51 AM - Mateo Damico: Graficps
+4/28/24, 11:23 AM - Andres: 👆es antisemita
+4/28/24, 11:42 AM - Nicolas Di Giovanni: 166
+4/28/24, 12:06 PM - Andres: 213
+4/28/24, 1:43 PM - Mateo Damico: 170
+4/29/24, 7:26 AM - Mateo Damico: 171
+4/29/24, 8:12 AM - Andres: 214
+4/29/24, 9:07 AM - Nicolas Di Giovanni: This message was deleted
+4/29/24, 9:08 AM - Nicolas Di Giovanni: 167
+4/30/24, 10:55 AM - Andres: 215
+4/30/24, 11:06 AM - Mateo Damico: 172
+4/30/24, 11:07 AM - Mateo Damico: Un outlayer
+5/1/24, 8:16 AM - Nicolas Di Giovanni: 168
+5/1/24, 9:14 AM - Andres: 216
+5/1/24, 9:31 AM - Mateo Damico: 173
+5/1/24, 9:31 AM - Mateo Damico: Andy
+5/1/24, 9:31 AM - Mateo Damico: Manda los numeros de abril
+5/1/24, 9:31 AM - Mateo Damico: El consolidado
+5/1/24, 9:31 AM - Mateo Damico: Y los histogramas
+5/1/24, 9:32 AM - Andres: Ok
+5/1/24, 10:05 AM - Andres: 217
+5/1/24, 10:05 AM - Andres: Mañana dura
+5/1/24, 10:05 AM - Andres: De dura no tiene nada
+5/1/24, 11:08 AM - Mateo Damico: Eu
+5/1/24, 4:17 PM - Nicolas Di Giovanni: 169
+5/2/24, 1:43 PM - Andres: 218
+5/2/24, 3:05 PM - Mateo Damico: No cago desde ayer a la mañana
+5/2/24, 3:24 PM - Nicolas Di Giovanni: 170
+5/2/24, 3:24 PM - Nicolas Di Giovanni: 171
+5/2/24, 3:24 PM - Nicolas Di Giovanni: 172
+5/2/24, 3:24 PM - Nicolas Di Giovanni: Man
+5/2/24, 3:24 PM - Nicolas Di Giovanni: Dia dificil
+5/2/24, 3:24 PM - Nicolas Di Giovanni: Puta madre la hora
+5/2/24, 3:33 PM - Andres: Na bueno
+5/2/24, 3:38 PM - Mateo Damico: nananananan
+5/2/24, 3:38 PM - Mateo Damico: no
+5/2/24, 3:38 PM - Mateo Damico: me niego
+5/2/24, 3:39 PM - Mateo Damico: banneado
+5/2/24, 6:04 PM - Mateo Damico: 174
+5/2/24, 6:04 PM - Mateo Damico: Casi no llego
+5/2/24, 6:31 PM - Nicolas Di Giovanni: Es que man
+5/2/24, 6:31 PM - Nicolas Di Giovanni: Posta no me da para cargarlos en planta
+5/2/24, 6:31 PM - Nicolas Di Giovanni: Tengo que cagar en un lugar que queda en la concha de la lora y es un asco
+5/2/24, 6:31 PM - Nicolas Di Giovanni: Salgo corriendo
+5/2/24, 6:39 PM - Andres: No tenes celular?
+5/2/24, 7:48 PM - Mateo Damico: Claro
+5/2/24, 10:56 PM - Nicolas Di Giovanni: Si, pero muy mala señal en el baño de planta. Buena en el de gerencia pero no siempre tengo esa suerte
+5/2/24, 11:26 PM - Andres: No tiene que haber señal jeton
+5/2/24, 11:27 PM - Andres: Solo deja el mensaje y que se mande cuando se mande
+5/3/24, 8:04 AM - Nicolas Di Giovanni: 173
+5/3/24, 8:04 AM - Nicolas Di Giovanni: Casi no llego
+5/3/24, 8:30 AM - Mateo Damico: 175
+5/3/24, 8:30 AM - Mateo Damico: Andy no te lo digo mas
+5/3/24, 8:31 AM - Mateo Damico: Manda los graficos
+5/3/24, 10:22 AM - Andres: 219
+5/3/24, 10:22 AM - Andres: Bueno va Abril
+5/3/24, 2:47 PM - Nicolas Di Giovanni: 174
+5/3/24, 4:26 PM - Andres: 220
+5/3/24, 5:25 PM - Mateo Damico: Eeeeeee
+5/4/24, 7:35 AM - Mateo Damico: 176
+5/4/24, 7:39 AM - Mateo Damico: Me esta saliendo agua del culo
+5/4/24, 9:17 AM - Andres: 221
+5/4/24, 9:17 AM - Andres: Para que encontré un bug en mi código
+5/4/24, 9:17 AM - Andres: Jajajaja
+5/4/24, 9:50 AM - Mateo Damico: Ayer hice pizza de chipa
+5/4/24, 9:50 AM - Mateo Damico: Sin tacc
+5/4/24, 9:51 AM - Mateo Damico: Y me salio media cruda
+5/4/24, 9:51 AM - Mateo Damico: Baje tres kg ya <This message was edited>
+5/4/24, 9:51 AM - Nicolas Di Giovanni: jajajajajaja
+5/4/24, 9:51 AM - Nicolas Di Giovanni: Que paka
+5/4/24, 10:23 AM - Andres: Jajajajajaja
+5/4/24, 10:28 AM - Mateo Damico: 177
+5/4/24, 10:28 AM - Mateo Damico: El mate no ayuda tampoco
+5/4/24, 11:11 AM - Nicolas Di Giovanni: 175
+5/4/24, 1:25 PM - Andres: 222
+5/4/24, 1:25 PM - Andres: Verde
+5/4/24, 4:22 PM - Nicolas Di Giovanni: Man no llego
+5/4/24, 4:22 PM - Nicolas Di Giovanni: Fui a comer ramen
+5/4/24, 4:22 PM - Nicolas Di Giovanni: Me acabo de tirar un pedo peligroso
+5/4/24, 4:22 PM - Nicolas Di Giovanni: <Media omitted>
+5/4/24, 4:23 PM - Nicolas Di Giovanni: Pregunta hipotetica
+5/4/24, 4:23 PM - Nicolas Di Giovanni: This message was deleted
+5/4/24, 4:23 PM - Nicolas Di Giovanni: Si alguien se tira un pedo y sale con regalito
+5/4/24, 4:24 PM - Nicolas Di Giovanni: Cuenta como un cago para sumar?
+5/4/24, 4:46 PM - Nicolas Di Giovanni: 176
+5/4/24, 5:32 PM - Mateo Damico: Como vas a comer ramen chileno
+5/5/24, 9:01 AM - Mateo Damico: 178
+5/5/24, 9:22 AM - Andres: 223
+5/5/24, 12:19 PM - Nicolas Di Giovanni: 177
+5/5/24, 12:51 PM - Mateo Damico: Eeee
+5/5/24, 10:21 PM - Mateo Damico: 179
+5/6/24, 8:13 AM - Mateo Damico: 180
+5/6/24, 10:17 AM - Andres: 224
+5/6/24, 10:18 AM - Andres: No man nunca olió tan mal
+5/6/24, 11:16 AM - Mateo Damico: andy
+5/6/24, 11:16 AM - Mateo Damico: manda los graficos man
+5/6/24, 3:34 PM - Andres: No debería haber almorzado ese tikka masala
+5/6/24, 3:34 PM - Andres: 225
+5/6/24, 4:48 PM - Nicolas Di Giovanni: 178
+5/7/24, 7:35 AM - Mateo Damico: 181
+5/7/24, 10:12 AM - Andres: 226
+5/7/24, 10:12 AM - Nicolas Di Giovanni: 179
+5/7/24, 1:47 PM - Nicolas Di Giovanni: 180
+5/7/24, 5:46 PM - Mateo Damico: 182
+5/8/24, 7:31 AM - Mateo Damico: 183
+5/8/24, 9:16 AM - Nicolas Di Giovanni: 181
+5/8/24, 9:23 AM - Andres: 227
+5/8/24, 2:49 PM - Andres: 228
+5/8/24, 2:58 PM - Mateo Damico: 184
+5/9/24, 8:31 AM - Nicolas Di Giovanni: 182
+5/9/24, 9:07 AM - Mateo Damico: 185
+5/9/24, 9:07 AM - Mateo Damico: Andy la puta madre man
+5/9/24, 9:07 AM - Mateo Damico: Estoy literalmente ciego
+5/9/24, 9:07 AM - Mateo Damico: Necesito ver mi progreso
+5/9/24, 11:09 AM - Andres: 229
+5/9/24, 6:42 PM - Andres: You deleted this message
+5/9/24, 6:47 PM - Andres: Ah para encontre el problema
+5/9/24, 6:54 PM - Andres: <Media omitted>
+5/9/24, 6:55 PM - Andres: <Media omitted>
+5/9/24, 6:55 PM - Andres: Felicitaciones Mate
+5/9/24, 6:58 PM - Andres: <Media omitted>
+5/9/24, 6:58 PM - Andres: Me estas pisando los talones
+5/9/24, 7:09 PM - Mateo Damico: Nice
+5/9/24, 7:09 PM - Mateo Damico: Nice^2
+5/9/24, 7:09 PM - Mateo Damico: Nice^3
+5/9/24, 7:10 PM - Mateo Damico: La azul esta mas rara que perro verde
+5/9/24, 7:10 PM - Andres: <Media omitted>
+5/9/24, 7:30 PM - Mateo Damico: Y los histogramas?
+5/10/24, 8:12 AM - Mateo Damico: 186
+5/10/24, 11:01 AM - Andres: 230
+5/11/24, 12:10 AM - Nicolas Di Giovanni: 183
+5/11/24, 12:26 AM - Andres: Horario rero
+5/11/24, 12:27 AM - Andres: Raro
+5/11/24, 9:18 AM - Andres: 231
+5/11/24, 9:18 AM - Andres: Podridisimo
+5/11/24, 11:13 AM - Mateo Damico: O fue una emergencia
+5/11/24, 11:13 AM - Mateo Damico: O fue un aftersex shit
+5/11/24, 11:14 AM - Mateo Damico: 187
+5/11/24, 1:35 PM - Nicolas Di Giovanni: 184
+5/11/24, 1:35 PM - Nicolas Di Giovanni: Sali a correr a la noche
+5/11/24, 1:35 PM - Nicolas Di Giovanni: Y volvi medio crítico
+5/11/24, 6:26 PM - Nicolas Di Giovanni: 185
+5/12/24, 10:06 AM - Nicolas Di Giovanni: 186
+5/12/24, 10:06 AM - Nicolas Di Giovanni: Man llegue de casualidad
+5/12/24, 10:20 AM - Mateo Damico: 188
+5/12/24, 1:09 PM - Nicolas Di Giovanni: 187
+5/12/24, 1:09 PM - Nicolas Di Giovanni: Dia dificil
+5/12/24, 2:58 PM - Andres: 232
+5/13/24, 8:54 AM - Mateo Damico: 189
+5/13/24, 8:55 AM - Mateo Damico: Si mando foto se les rompe el telefono
+5/13/24, 8:40 PM - Andres: 233
+5/13/24, 8:43 PM - Mateo Damico: Estas bajando el promedio diario
+5/13/24, 8:54 PM - Nicolas Di Giovanni: triste
+5/14/24, 7:31 AM - Mateo Damico: 190
+5/14/24, 7:31 AM - Mateo Damico: Recta final para el tan ansiado bicentenario
+5/14/24, 9:45 AM - Andres: 234
+5/14/24, 9:45 AM - Andres: Suelto
+5/14/24, 12:23 PM - Nicolas Di Giovanni: 188
+5/14/24, 3:56 PM - Andres: 235
+5/14/24, 3:56 PM - Andres: <Media omitted>
+5/15/24, 6:22 AM - Mateo Damico: 191
+5/15/24, 7:01 AM - Nicolas Di Giovanni: 189
+5/15/24, 11:00 AM - Andres: 236
+5/15/24, 11:50 AM - Mateo Damico: <Media omitted>
+5/15/24, 11:57 AM - Andres: Jajajajajajajaajaaka
+5/15/24, 5:26 PM - Mateo Damico: 192
+5/16/24, 6:01 PM - Mateo Damico: 193
+5/16/24, 6:01 PM - Nicolas Di Giovanni: 190
+5/17/24, 8:29 AM - Nicolas Di Giovanni: 191
+5/17/24, 8:42 AM - Nicolas Di Giovanni: Man, no se va
+5/17/24, 8:42 AM - Nicolas Di Giovanni: Tire la cadena 3 veces
+5/17/24, 8:43 AM - Nicolas Di Giovanni: Es tan duro que no pasa por el sifón
+5/17/24, 8:43 AM - Nicolas Di Giovanni: Tengo que dejar de comer queso
+5/17/24, 9:33 PM - Nicolas Di Giovanni: 192
+5/17/24, 9:33 PM - Mateo Damico: No bro
+5/17/24, 9:33 PM - Mateo Damico: Nsync
+5/17/24, 9:34 PM - Mateo Damico: 194
+5/17/24, 9:34 PM - Mateo Damico: Roght now
+5/17/24, 9:34 PM - Nicolas Di Giovanni: Tremendo
+5/17/24, 9:34 PM - Mateo Damico: Me acabo de sentar
+5/17/24, 9:34 PM - Nicolas Di Giovanni: Yo también
+5/17/24, 9:34 PM - Nicolas Di Giovanni: Yo me estoy levantando
+5/17/24, 9:34 PM - Nicolas Di Giovanni: Pero fue uno rapido
+5/17/24, 9:34 PM - Nicolas Di Giovanni: Rock solid, clean wipe
+5/17/24, 9:34 PM - Nicolas Di Giovanni: The dream
+5/17/24, 9:34 PM - Nicolas Di Giovanni: La vida aveces te sonríe
+5/17/24, 9:34 PM - Mateo Damico: Usa bidet chileno de mierda <This message was edited>
+5/17/24, 9:35 PM - Nicolas Di Giovanni: Este realmente no hizo falta
+5/17/24, 9:35 PM - Nicolas Di Giovanni: Una hermosura
+5/17/24, 9:35 PM - Mateo Damico: Que chileno de mierda
+5/17/24, 9:35 PM - Nicolas Di Giovanni: Igual es cierto que perdi la costumbre
+5/17/24, 9:35 PM - Nicolas Di Giovanni: En casa cuando cago y viene dificil
+5/17/24, 9:35 PM - Nicolas Di Giovanni: Me ducho
+5/17/24, 9:36 PM - Nicolas Di Giovanni: Corta la bocha
+5/17/24, 9:36 PM - Nicolas Di Giovanni: Es una cagada no tener bidet
+5/17/24, 10:24 PM - Andres: Yo no cagué hoy
+5/18/24, 8:02 AM - Mateo Damico: 195
+5/18/24, 9:04 AM - Andres: https://www.instagram.com/reel/C7Cno0Wo00z/?igsh=MW12ZWl5dTVxOWJ5dw==
+5/18/24, 9:07 AM - Andres: 237
+5/18/24, 9:07 AM - Andres: Mate me debe estar alcanzando ya
+5/18/24, 10:47 AM - Nicolas Di Giovanni: Jajajajajajaaj
+5/18/24, 10:47 AM - Nicolas Di Giovanni: Ojo los números ahi
+5/18/24, 11:03 AM - Nicolas Di Giovanni: 193
+5/18/24, 1:02 PM - Mateo Damico: 196
+5/18/24, 6:17 PM - Mateo Damico: 197
+5/18/24, 6:17 PM - Mateo Damico: Estoy mal
+5/18/24, 6:17 PM - Mateo Damico: JAJAJAJAJ
+5/19/24, 9:52 AM - Andres: 238
+5/19/24, 10:30 AM - Nicolas Di Giovanni: Man estoy en lo de clari
+5/19/24, 10:30 AM - Nicolas Di Giovanni: Lo que me cuesta cagar aca
+5/19/24, 10:31 AM - Nicolas Di Giovanni: Debo pesar dos kg mas de lo normal
+5/19/24, 11:12 AM - Nicolas Di Giovanni: 194
+5/19/24, 3:08 PM - Nicolas Di Giovanni: https://www.instagram.com/reel/C5mdex4PDqV/?igsh=cmgyMG5kdGI1a3Z0
+5/19/24, 3:09 PM - Nicolas Di Giovanni: 195
+5/20/24, 9:11 AM - Mateo Damico: 198
+5/20/24, 9:12 AM - Mateo Damico: Desde el sabado no cagaba
+5/20/24, 9:24 AM - Andres: Me estoy quedando atrás
+5/20/24, 10:14 AM - Andres: 239
+5/20/24, 10:15 AM - Andres: Y si cambiamos los números para que estemos todos parejos?
+5/20/24, 10:15 AM - Andres: Así tenemos alguna idea de que está pasando
+5/20/24, 10:15 AM - Andres: Mate se queda igual y yo vuelvo a 239 - lo que tenía cuando entró mate
+5/20/24, 12:10 PM - Mateo Damico: banco
+5/20/24, 12:10 PM - Mateo Damico: hace un BC y AD
+5/20/24, 12:11 PM - Nicolas Di Giovanni: Osea, se puede ver progreso del mes todos partimos en cero
+5/20/24, 12:11 PM - Nicolas Di Giovanni: Y despues acumulado anual
+5/20/24, 12:11 PM - Nicolas Di Giovanni: Podria ser acumulado anal
+5/20/24, 12:11 PM - Nicolas Di Giovanni: Pues es cagos
+5/20/24, 12:11 PM - Nicolas Di Giovanni: Dios que horror
+5/20/24, 12:12 PM - Mateo Damico: me gustaria una tabla que diga algo asi:
+5/20/24, 12:13 PM - Mateo Damico: <Media omitted>
+5/20/24, 12:13 PM - Mateo Damico: y otra que sea por hora en lugar de mes
+5/20/24, 1:49 PM - Nicolas Di Giovanni: 196
+5/20/24, 1:50 PM - Nicolas Di Giovanni: Cuidado con este mensaje
+5/20/24, 2:00 PM - Mateo Damico: manda actualizado andy
+5/20/24, 2:00 PM - Mateo Damico: y esto
+5/20/24, 6:09 PM - Mateo Damico: 199
+5/20/24, 6:09 PM - Mateo Damico: Ya casi estoy
+5/20/24, 6:16 PM - Nicolas Di Giovanni: 197
+5/20/24, 6:16 PM - Nicolas Di Giovanni: Fui a mear y me cagué
+5/21/24, 7:20 AM - Mateo Damico: El momento para esperado
+5/21/24, 7:21 AM - Mateo Damico: 200
+5/21/24, 7:21 AM - Mateo Damico: <Media omitted>
+5/21/24, 7:26 AM - Nicolas Di Giovanni: God
+5/21/24, 10:26 AM - Andres: Te felicito
+5/21/24, 10:27 AM - Andres: Mas tarde paso los números actualizados para que sigamos de ahí
+5/21/24, 10:41 AM - Andres: 240
+5/21/24, 10:50 AM - Mateo Damico: aprox estas 30 arriba mio no?
+5/21/24, 10:50 AM - Mateo Damico: desde que arranque
+5/21/24, 11:01 AM - Andres: Mi 30 fue el día anterior
+5/21/24, 11:01 AM - Andres: Jajaja el primero tuyo no te lo contó
+5/21/24, 11:16 AM - Nicolas Di Giovanni: 198
+5/21/24, 11:21 AM - Andres: <Media omitted>
+5/21/24, 11:21 AM - Andres: Ah la mierda
+5/21/24, 12:35 PM - Mateo Damico: A cuanto estoy??
+5/21/24, 12:36 PM - Mateo Damico: Si hace falta me intoxico
+5/22/24, 8:35 AM - Nicolas Di Giovanni: 199
+5/22/24, 9:10 AM - Mateo Damico: nico sos literalmente gay
+5/22/24, 9:12 AM - Nicolas Di Giovanni: me sorprende el nivel de problemas gastricos que tienen
+5/22/24, 9:53 AM - Andres: 241
+5/22/24, 11:18 AM - Andres: 242
+5/22/24, 11:27 AM - Mateo Damico: bue
+5/22/24, 11:36 AM - Andres: Chiquito pero cuenta
+5/22/24, 11:49 AM - Nicolas Di Giovanni: nadie nunca me respondio
+5/22/24, 11:49 AM - Nicolas Di Giovanni: que pasa con un pedo que sale mal
+5/22/24, 11:54 AM - Mateo Damico: +uno <This message was edited>
+5/22/24, 11:54 AM - Mateo Damico: Caca es caca
+5/22/24, 11:54 AM - Mateo Damico: 201
+5/22/24, 2:49 PM - Andres: Noman
+5/22/24, 2:50 PM - Andres: Creo que a mi cuerpo no le gusta el whey
+5/22/24, 2:50 PM - Andres: <Media omitted>
+5/22/24, 2:55 PM - Andres: 243
+5/22/24, 3:01 PM - Nicolas Di Giovanni: 200
+5/22/24, 3:01 PM - Nicolas Di Giovanni: Saludos
+5/22/24, 3:01 PM - Andres: <Media omitted>
+5/22/24, 3:03 PM - Mateo Damico: Cheers
+5/22/24, 3:03 PM - Nicolas Di Giovanni: Gracias muchachoa
+5/22/24, 3:03 PM - Nicolas Di Giovanni: Un honor estar en este lugar
+5/22/24, 3:03 PM - Nicolas Di Giovanni: Igual, endiablado este cago
+5/22/24, 3:03 PM - Nicolas Di Giovanni: La pase mal
+5/22/24, 3:03 PM - Nicolas Di Giovanni: Fue un frictionless whipe
+5/22/24, 3:04 PM - Nicolas Di Giovanni: Wipe
+5/22/24, 3:12 PM - Andres: You deleted this message
+5/22/24, 11:12 PM - Nicolas Di Giovanni: 201
+5/22/24, 11:16 PM - Mateo Damico: Hijo de puta
+5/23/24, 6:57 AM - Mateo Damico: 202
+5/23/24, 6:58 AM - Mateo Damico: Basicamente estoy podrido
+5/23/24, 7:20 AM - Nicolas Di Giovanni: Toy cerca de eso mism
+5/23/24, 7:20 AM - Nicolas Di Giovanni: @16507853821 , cuidado con esto
+5/23/24, 9:09 AM - Andres: Uh tenés razón
+5/23/24, 9:09 AM - Andres: Gracias
+5/23/24, 9:30 AM - Andres: 244
+5/23/24, 11:17 AM - Andres: 245
+5/23/24, 11:17 AM - Andres: No prueben
+5/23/24, 11:17 AM - Andres: No prueben los tortellinis de espinaca de trader joes
+5/23/24, 11:24 AM - Mateo Damico: repu
+5/23/24, 4:39 PM - Andres: Noman
+5/23/24, 4:39 PM - Andres: 246
+5/23/24, 6:08 PM - Nicolas Di Giovanni: Man no pude cagar
+5/23/24, 6:08 PM - Nicolas Di Giovanni: Van dos horas de vuelo
+5/23/24, 6:08 PM - Nicolas Di Giovanni: Estoy aterrizando
+5/23/24, 6:08 PM - Nicolas Di Giovanni: A 2 minutos de cagarme encima fuera de joda
+5/24/24, 8:18 AM - Mateo Damico: 203
+5/24/24, 8:21 AM - Nicolas Di Giovanni: 202
+5/24/24, 8:22 AM - Nicolas Di Giovanni: Lo anote tarde, fue anoche
+5/24/24, 8:23 AM - Mateo Damico: esto asi no va
+5/24/24, 8:23 AM - Nicolas Di Giovanni: En mi defensa, fue venenoso
+5/24/24, 8:23 AM - Mateo Damico: hay que hacer algo
+5/24/24, 8:24 AM - Mateo Damico: porque con nico vamos los mismos cagos pero el arranco antes
+5/24/24, 8:24 AM - Mateo Damico: estandaricemos los mensajes
+5/24/24, 8:24 AM - Mateo Damico: asi tengo nocion
+5/24/24, 8:28 AM - Nicolas Di Giovanni: Podriamos resetear cada mes
+5/24/24, 8:28 AM - Nicolas Di Giovanni: Asi competimos con mismo número
+5/24/24, 8:28 AM - Nicolas Di Giovanni: Y vemos el ranking acumulado en grafico
+5/24/24, 8:28 AM - Nicolas Di Giovanni: Podemos tener ganadores por mes
+5/24/24, 8:29 AM - Nicolas Di Giovanni: En 10 años quizas vemos que mateo arrasa los meses de invierno, andy es un hombre mas de cagos veraniles y yo entre temporadas
+5/24/24, 8:29 AM - Nicolas Di Giovanni: O algo asi
+5/24/24, 8:29 AM - Mateo Damico: necesito mas material de analisis andy
+5/24/24, 8:30 AM - Nicolas Di Giovanni: Pero con esto podemos ver mejor el dia a dia
+5/24/24, 8:30 AM - Nicolas Di Giovanni: El cago a cago
+5/24/24, 8:30 AM - Nicolas Di Giovanni: Un embole ver a andy 200 cagos mas arriba que nosotros por unas diarreas brutales al inicio
+5/24/24, 8:59 AM - Andres: Ustedes realmente quieren cagar más?
+5/24/24, 9:15 AM - Nicolas Di Giovanni: no jajaj
+5/24/24, 9:15 AM - Nicolas Di Giovanni: yo feliz siendo el, mas lento
+5/24/24, 10:24 AM - Andres: 247
+5/24/24, 12:10 PM - Mateo Damico: si
+5/25/24, 8:38 AM - Mateo Damico: 204
+5/25/24, 1:48 PM - Andres: 248
+5/25/24, 1:56 PM - Nicolas Di Giovanni: 203
+5/25/24, 4:59 PM - Nicolas Di Giovanni: 204
+5/25/24, 6:50 PM - Nicolas Di Giovanni: 205
+5/25/24, 6:50 PM - Nicolas Di Giovanni: Dia difícil
+5/25/24, 8:24 PM - Mateo Damico: Na bue
+5/25/24, 8:24 PM - Mateo Damico: De la nada me paso
+5/25/24, 8:24 PM - Mateo Damico: Esto es muy raro
+5/26/24, 7:59 AM - Mateo Damico: 205
+5/26/24, 9:23 AM - Andres: 249
+5/26/24, 5:37 PM - Andres: 250
+5/26/24, 5:37 PM - Andres: Una escopeta recortada
+5/26/24, 6:59 PM - Mateo Damico: 206
+5/26/24, 8:40 PM - Nicolas Di Giovanni: 206
+5/27/24, 8:53 AM - Mateo Damico: No llego
+5/27/24, 8:53 AM - Mateo Damico: Estoy jugadisimo
+5/27/24, 9:04 AM - Mateo Damico: 207
+5/27/24, 9:04 AM - Mateo Damico: Un peugeot
+5/27/24, 9:04 AM - Mateo Damico: Literal
+5/27/24, 10:40 AM - Nicolas Di Giovanni: 207
+5/28/24, 7:26 AM - Mateo Damico: 208
+5/28/24, 8:59 AM - Nicolas Di Giovanni: 208
+5/28/24, 11:33 AM - Andres: 251
+5/28/24, 11:33 AM - Andres: Che mateo me está alcanzando
+5/28/24, 11:33 AM - Andres: Creo que está 248
+5/28/24, 11:34 AM - Andres: <Media omitted>
+5/28/24, 11:39 AM - Mateo Damico: Que??
+5/28/24, 11:39 AM - Mateo Damico: Como?
+5/28/24, 11:39 AM - Mateo Damico: Imposible
+5/28/24, 11:39 AM - Mateo Damico: Yo voy esto
+5/28/24, 11:39 AM - Andres: Pero cuando vos entraste yo iba 40
+5/28/24, 11:40 AM - Andres: Osea yo estoy 211 en realidad jajaja
+5/28/24, 11:40 AM - Mateo Damico: Ufff
+5/28/24, 11:40 AM - Mateo Damico: Hermoso
+5/28/24, 11:40 AM - Mateo Damico: Estas +tres
+5/28/24, 11:40 AM - Andres: Dejame ver bien que números nos asigno a Nico y a mi
+5/28/24, 11:41 AM - Andres: Para el próximo
+5/28/24, 11:41 AM - Mateo Damico: Manda graficos
+5/28/24, 11:41 AM - Mateo Damico: ESTOY CIEGO
+5/28/24, 11:47 AM - Andres: <Media omitted>
+5/28/24, 11:47 AM - Andres: Cualquier cosa
+5/28/24, 11:49 AM - Andres: <Media omitted>
+5/28/24, 11:49 AM - Mateo Damico: Hermoso
+5/28/24, 11:50 AM - Andres: Tomemos el 5 de enero entonces
+5/28/24, 11:50 AM - Andres: Yo iba 26
+Nico también
+5/28/24, 11:50 AM - Andres: Fua
+5/28/24, 11:51 AM - Andres: Entonces yo voy 225, mi próximo es 226
+5/28/24, 11:52 AM - Andres: Nico vos vas 182, tu próximo es 183
+5/28/24, 11:52 AM - Mateo Damico: Vamos con eso entonces??
+5/28/24, 11:52 AM - Mateo Damico: Vos como lo limpias en las bbdd
+5/28/24, 11:54 AM - Andres: No importa el número del mensaje, importa el acumulado
+5/28/24, 11:54 AM - Andres: <Media omitted>
+5/28/24, 11:54 AM - Andres: ya borre el mensaje para mi
+5/28/24, 11:55 AM - Andres: Vos mate estás desfasado por uno
+5/28/24, 11:56 AM - Andres: Este no lo contó, el 4 de enero
+5/28/24, 11:56 AM - Andres: Como arrancamos del 5, restale 1 a tus números, en la bdd va a quedar igual
+5/28/24, 11:56 AM - Andres: Así nuestros números tienen el mismo valor que lo que se grafica
+5/28/24, 12:01 PM - Andres: <Media omitted>
+5/28/24, 12:06 PM - Mateo Damico: Hermoso
+5/28/24, 12:07 PM - Mateo Damico: Gracias
+5/28/24, 12:07 PM - Mateo Damico: Nico es literalmente gay
+5/28/24, 10:33 PM - Nicolas Di Giovanni: 183
+5/29/24, 8:06 AM - Mateo Damico: Pero para
+5/29/24, 8:06 AM - Mateo Damico: Ustedes van a decir estos numeros ahora??
+5/29/24, 8:07 AM - Mateo Damico: 209
+5/29/24, 8:07 AM - Andres: Sí
+5/29/24, 8:07 AM - Andres: Porque vamos esos cagos desde el 5 de enero
+5/29/24, 8:07 AM - Mateo Damico: Oka oka
+5/29/24, 8:08 AM - Andres: Y vos vas 208 hora
+5/29/24, 8:08 AM - Mateo Damico: Repito el proximo y listo
+5/29/24, 8:08 AM - Andres: Porque el de 4 enero no te lo contó
+5/29/24, 8:08 AM - Andres: Ok
+5/29/24, 8:27 AM - Nicolas Di Giovanni: 184
+5/29/24, 8:27 AM - Nicolas Di Giovanni: Que paja, me dejaron re atras
+5/29/24, 8:34 AM - Andres: Son los factos
+5/29/24, 8:35 AM - Andres: Si quieren reseteamos todos los meses
+5/29/24, 8:35 AM - Andres: El número no importa, en el código ajusto parámetros y filtros y listo
+5/29/24, 9:10 AM - Nicolas Di Giovanni: todos los meses es medio paja
+5/29/24, 9:10 AM - Nicolas Di Giovanni: podemos probar 1H
+5/29/24, 9:10 AM - Nicolas Di Giovanni: y hacemos 2H todos partiendo en 0
+5/29/24, 9:10 AM - Nicolas Di Giovanni: el registro queda
+5/29/24, 9:34 AM - Andres: 226
+5/29/24, 2:50 PM - Andres: 227
+5/29/24, 2:52 PM - Nicolas Di Giovanni: Estoy literalmente sentado cagando
+5/29/24, 2:53 PM - Nicolas Di Giovanni: 185
+5/30/24, 7:24 AM - Mateo Damico: 209
+5/30/24, 7:24 AM - Mateo Damico: Ahi repeti el ultimo
+5/30/24, 7:24 AM - Mateo Damico: Si reseteamos cada x tiempo quedaria el acumulado tambien??
+5/30/24, 7:32 AM - Andres: Sisi
+5/30/24, 11:05 AM - Andres: 228
+5/30/24, 11:06 AM - Andres: A mi código le re chupa un huevo que número pongan jajaja
+5/30/24, 11:15 AM - Mateo Damico: joya
+5/30/24, 11:15 AM - Mateo Damico: osea si mandamos un "uno" siempre es lo mismo
+5/30/24, 11:15 AM - Nicolas Di Giovanni: 186
+5/30/24, 11:15 AM - Mateo Damico: creo que prefiero eso
+5/30/24, 11:19 AM - Andres: Si o un .
+5/30/24, 11:20 AM - Mateo Damico: para mi
+5/30/24, 11:20 AM - Mateo Damico: de ahora en mas solo se mandan "unos"
+5/30/24, 11:20 AM - Mateo Damico: para que nadie tenga referencia
+5/30/24, 11:20 AM - Mateo Damico: igualdad de condiciones
+5/30/24, 11:21 AM - Andres: Me gusta
+5/30/24, 11:23 AM - Mateo Damico: listo
+5/30/24, 11:23 AM - Mateo Damico: hay quorum por mayoria
+5/30/24, 11:25 AM - Andres: Prefiero el .
+5/30/24, 11:32 AM - Mateo Damico: pero para flaco
+5/30/24, 11:32 AM - Mateo Damico: ya mandaste dos puntos
+5/30/24, 11:33 AM - Mateo Damico: tramposo
+5/30/24, 11:33 AM - Mateo Damico: aparte yo re uso el punto en las oraciones
+5/30/24, 11:33 AM - Mateo Damico: prefiero el uno
+5/30/24, 11:34 AM - Andres: Tiene que ser al principio del mensaje nomás jajajaj
+5/30/24, 11:34 AM - Andres: Podes hacer . . . . . .
+5/30/24, 11:34 AM - Andres: O 1 1 1
+5/30/24, 11:35 AM - Mateo Damico: aa sos pillo ee
+5/30/24, 11:35 AM - Mateo Damico: bueno
+5/30/24, 11:35 AM - Mateo Damico: solo 1 de ahora en mas
+5/30/24, 11:41 AM - Andres: No boludo, puntos.
+5/30/24, 11:43 AM - Mateo Damico: chupapija
+5/30/24, 7:13 PM - Nicolas Di Giovanni: 187
+5/30/24, 7:15 PM - Mateo Damico: Comprension de texto flaco
+5/30/24, 7:33 PM - Nicolas Di Giovanni: What
+5/30/24, 7:33 PM - Nicolas Di Giovanni: No lei nada sorry
+5/31/24, 8:35 AM - Mateo Damico: 1
+5/31/24, 9:12 AM - Nicolas Di Giovanni: No entiendo nada
+5/31/24, 9:12 AM - Nicolas Di Giovanni: 188
+5/31/24, 9:12 AM - Nicolas Di Giovanni: Es con puntos o 1 al final?
+5/31/24, 9:21 AM - Mateo Damico: Solo 1
+5/31/24, 2:39 PM - Mateo Damico: 1
+5/31/24, 3:10 PM - Nicolas Di Giovanni: 1
+5/31/24, 3:10 PM - Mateo Damico: Nice
+5/31/24, 9:37 PM - Nicolas Di Giovanni: 1
+6/1/24, 8:19 AM - Mateo Damico: Andy estas en la b
+6/1/24, 8:29 AM - Andres: Sip, van casi 48 horas
+6/1/24, 8:29 AM - Andres: <Media omitted>
+6/1/24, 8:48 AM - Mateo Damico: 1
+6/1/24, 9:12 AM - Andres: Noman
+6/1/24, 9:12 AM - Andres: .
+6/1/24, 4:26 PM - Nicolas Di Giovanni: .
+6/1/24, 4:27 PM - Nicolas Di Giovanni: Man, da lo mismo punto o 1?
+6/1/24, 4:28 PM - Andres: Si pero el boludo ese prefiere el 1
+6/1/24, 4:55 PM - Mateo Damico: Se hace con 1s
+6/1/24, 5:10 PM - Andres: .
+6/1/24, 6:56 PM - Nicolas Di Giovanni: .
+6/1/24, 7:01 PM - Mateo Damico: Repu
+6/2/24, 10:20 AM - Mateo Damico: 1
+6/2/24, 12:14 PM - Andres: .
+6/2/24, 4:03 PM - Nicolas Di Giovanni: .
+6/2/24, 4:53 PM - Mateo Damico: Reputos
+6/2/24, 6:17 PM - Mateo Damico: 1
+6/3/24, 9:14 AM - Mateo Damico: 1
+6/3/24, 9:18 AM - Nicolas Di Giovanni: .
+6/3/24, 9:41 AM - Mateo Damico: Se hace con 1s carajo
+6/3/24, 9:41 AM - Andres: <Media omitted>
+6/3/24, 9:50 AM - Nicolas Di Giovanni: jajajajajajaja
+6/3/24, 9:52 AM - Mateo Damico: MANDA LOS GRAFICOS ANDRES LA PUTA MADRE
+6/3/24, 10:00 AM - Andres: Estoy en el tren, a la tarde mando
+6/3/24, 10:01 AM - Mateo Damico: si sos bueno desarrollando lo mandas ahora
+6/3/24, 10:01 AM - Andres: Jajajajja
+6/3/24, 10:02 AM - Andres: Es que ahora whatsapp exporta un zip con el txt adentro y tengo que extraerlo
+6/3/24, 11:07 AM - Andres: .
+6/3/24, 11:30 AM - Andres: Uh la Mina del smoothie me puso 2 cucharadas de Whey
+6/3/24, 11:30 AM - Andres: Señoras y señores, es de mi agrado informarles que hoy se caga
+6/3/24, 12:25 PM - Mateo Damico: <Media omitted>
+6/3/24, 3:52 PM - Andres: .
+6/3/24, 3:50 PM - Mateo Damico: 1
+6/3/24, 3:51 PM - Nicolas Di Giovanni: .
+6/3/24, 3:55 PM - Andres: Que?
+6/3/24, 3:56 PM - Andres: Jajajaj
+6/3/24, 3:56 PM - Mateo Damico: a ver
+6/3/24, 3:56 PM - Mateo Damico: imbeciles
+6/3/24, 3:56 PM - Mateo Damico: es con 1
+6/3/24, 3:56 PM - Andres: <Media omitted>
+6/4/24, 7:24 AM - Mateo Damico: 1
+6/4/24, 8:03 AM - Nicolas Di Giovanni: .
+6/4/24, 10:32 AM - Andres: .
+6/4/24, 10:38 AM - Nicolas Di Giovanni: .
+6/4/24, 10:38 AM - Nicolas Di Giovanni: Lit cagamos al mismo tiempo
+6/4/24, 10:38 AM - Nicolas Di Giovanni: Yo recien termino
+6/4/24, 10:38 AM - Nicolas Di Giovanni: Me sente exactamente cuando mandaste esto
+6/4/24, 10:40 AM - Andres: You deleted this message
+6/4/24, 10:41 AM - Andres: Seis minutos cagando?
+6/4/24, 11:17 AM - Nicolas Di Giovanni: si
+6/4/24, 11:17 AM - Nicolas Di Giovanni: lit
+6/4/24, 11:17 AM - Nicolas Di Giovanni: fue durpo
+6/4/24, 11:17 AM - Nicolas Di Giovanni: duro
+6/4/24, 11:17 AM - Nicolas Di Giovanni: y tuve que conectarme a una reu a las 7 am
+6/4/24, 11:17 AM - Nicolas Di Giovanni: me merecia mi descanswo
+6/5/24, 8:05 AM - Mateo Damico: 1
+6/5/24, 8:43 AM - Nicolas Di Giovanni: .
+6/5/24, 8:58 AM - Andres: .
+6/5/24, 9:05 AM - Mateo Damico: recontrareputazos
+6/5/24, 9:06 AM - Mateo Damico: manda los graficos andy
+6/5/24, 5:39 PM - Andres: .
+6/5/24, 6:18 PM - Nicolas Di Giovanni: .
+6/6/24, 11:43 AM - Andres: .
+6/6/24, 11:43 AM - Nicolas Di Giovanni: .
+6/6/24, 3:47 PM - Nicolas Di Giovanni: .
+6/6/24, 3:55 PM - Mateo Damico: No cague hoy
+6/6/24, 3:55 PM - Mateo Damico: <Media omitted>
+6/6/24, 5:43 PM - Mateo Damico: 1
+6/6/24, 5:43 PM - Mateo Damico: <Media omitted>
+6/7/24, 7:29 AM - Mateo Damico: 1
+6/7/24, 8:25 AM - Mateo Damico: 1
+6/7/24, 8:26 AM - Mateo Damico: Mañana complicada
+6/7/24, 9:29 AM - Nicolas Di Giovanni: .
+6/7/24, 10:06 AM - Andres: .
+6/7/24, 2:27 PM - Nicolas Di Giovanni: .
+6/8/24, 8:34 AM - Mateo Damico: 1
+6/8/24, 8:59 AM - Nicolas Di Giovanni: .
+6/8/24, 9:32 AM - Andres: .
+6/8/24, 6:49 PM - Andres: .
+6/9/24, 8:16 AM - Mateo Damico: 1
+6/9/24, 10:47 AM - Andres: .
+6/9/24, 10:47 AM - Nicolas Di Giovanni: .
+6/9/24, 10:25 PM - Mateo Damico: 1
+6/9/24, 10:25 PM - Andres: Outlier mal
+6/9/24, 10:25 PM - Mateo Damico: Me cayo medio mal la hamburguesa de recien
+6/9/24, 10:26 PM - Mateo Damico: Manda graficos man
+6/9/24, 10:26 PM - Mateo Damico: Estoy ciego
+6/10/24, 6:38 AM - Mateo Damico: Es gravisimo esto
+6/10/24, 6:38 AM - Mateo Damico: 1
+6/10/24, 6:44 AM - Nicolas Di Giovanni: Rup
+6/10/24, 6:44 AM - Nicolas Di Giovanni: Rip
+6/10/24, 9:43 AM - Andres: .
+6/10/24, 9:50 AM - Mateo Damico: eu
+6/10/24, 3:05 PM - Mateo Damico: 1
