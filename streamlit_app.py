@@ -7,14 +7,14 @@ from datetime import datetime
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-    page_title='GDP Boenas',
-    page_icon=':earth_americas:', # This is an emoji shortcode. Could be a URL too.
+    page_title='Boenas',
+    page_icon=':poop:', # This is an emoji shortcode. Could be a URL too.
 )
 
 # -----------------------------------------------------------------------------
-# Declare some useful functions.
+# Data loading
 
-#@st.cache_data
+@st.cache_data
 def get_msg_data():
     return parse_file()
 
@@ -25,18 +25,13 @@ df = get_msg_data()
 
 # Set the title that appears at the top of the page.
 '''
-# :earth_americas: GDP Dashboard
-
-Browse GDP data from the [World Bank Open Data](https://data.worldbank.org/) website. As you'll
-notice, the data only goes to 2022 right now, and datapoints for certain years are often missing.
-But it's otherwise a great (and did I mention _free_?) source of data.
+# :poop: Ayudame loco
 '''
 
 # Add some spacing
 ''
 ''
 
-'''Select a date interval: '''
 from_datetime, to_datetime = st.date_input("Select a date interval", (df['datetime'].min(), df['datetime'].max()))
 from_datetime = datetime(from_datetime.year, from_datetime.month, from_datetime.day)
 to_datetime = datetime(to_datetime.year, to_datetime.month, to_datetime.day)
@@ -54,7 +49,6 @@ selected_users = st.multiselect(
 ''
 ''
 ''
-print(df)
 
 # Filter the data
 filtered_df = df[
@@ -68,48 +62,13 @@ st.header('Time series', divider='gray')
 ''
 ''
 
-print(filtered_df)
+line_chart = None
 
-st.line_chart(
-    filtered_df,
-    x='datetime',
-    y='accum',
-    color='sender',
-)
+for sender in selected_users:
+    filtered_sender_df = filtered_df[filtered_df.sender == sender]
+    filtered_sender_df['accum'] = filtered_sender_df.reset_index().index
+    if not line_chart:
+        line_chart = st.line_chart(filtered_sender_df, x='datetime', y='accum', color='sender')
+    else:
+        line_chart.add_rows(filtered_sender_df)
 
-''
-''
-
-''
-''
-
-
-# first_year = gdp_df[gdp_df['Year'] == from_year]
-# last_year = gdp_df[gdp_df['Year'] == to_year]
-
-# st.header(f'GDP in {to_year}', divider='gray')
-
-# ''
-
-# cols = st.columns(4)
-
-# for i, country in enumerate(selected_countries):
-#     col = cols[i % len(cols)]
-
-#     with col:
-#         first_gdp = first_year[gdp_df['Country Code'] == country]['GDP'].iat[0] / 1000000000
-#         last_gdp = last_year[gdp_df['Country Code'] == country]['GDP'].iat[0] / 1000000000
-
-#         if math.isnan(first_gdp):
-#             growth = 'n/a'
-#             delta_color = 'off'
-#         else:
-#             growth = f'{last_gdp / first_gdp:,.2f}x'
-#             delta_color = 'normal'
-
-#         st.metric(
-#             label=f'{country} GDP',
-#             value=f'{last_gdp:,.0f}B',
-#             delta=growth,
-#             delta_color=delta_color
-#         )

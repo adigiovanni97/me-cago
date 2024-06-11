@@ -32,23 +32,16 @@ def _parse_datetime(date_message):
 
 def parse_file(filename=DATA_PATH):
     events = []
-    senders_accum = {}
     with open(DATA_PATH, 'r') as file:  # 'r' for read mode
         for line in file:
             match = re.match(MESSAGE_RE, line)
             if match:
-                sender = match.group("sender")
-
                 event = {
                     "datetime": _parse_datetime(match.group("datetime")),
-                    "sender": sender,
+                    "sender": match.group("sender"),
                     "message": match.group("message")
                 }
 
                 if re.search(r"^\*?\d+\*?(\s.*)?$", event["message"]) or re.search(r"^\.$", event["message"]):
-                    if sender not in senders_accum:
-                        senders_accum[sender] = 0
-                    senders_accum[sender] += 1
-                    event["accum"] = senders_accum[sender]
                     events.append(event)
-    return pd.DataFrame(events, columns=['datetime', 'sender', 'message', 'accum'])
+    return pd.DataFrame(events, columns=['datetime', 'sender', 'message'])
