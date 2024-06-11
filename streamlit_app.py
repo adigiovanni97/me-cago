@@ -32,7 +32,7 @@ df = get_msg_data()
 ''
 ''
 
-from_datetime, to_datetime = st.date_input("Select a date interval", (df['datetime'].min(), df['datetime'].max()))
+from_datetime, to_datetime = st.date_input("Select a date interval", (datetime(2024, 1, 5), df['datetime'].max()))
 from_datetime = datetime(from_datetime.year, from_datetime.month, from_datetime.day)
 to_datetime = datetime(to_datetime.year, to_datetime.month, to_datetime.day)
 
