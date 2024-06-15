@@ -3,6 +3,7 @@ import pandas as pd
 import math
 from pathlib import Path
 from txt_parser import parse_file
+from analytics.analytics import compute_average_per_day
 from datetime import datetime
 
 # Set the title and favicon that appear in the Browser's tab bar.
@@ -72,3 +73,15 @@ for sender in selected_users:
     else:
         line_chart.add_rows(filtered_sender_df)
 
+cols = st.columns(3)
+
+for i, user in enumerate(selected_users):
+    col = cols[i % len(cols)]
+
+    filtered_sender_df = filtered_df[filtered_df.sender == user]
+    avg = compute_average_per_day(filtered_sender_df)
+    with col:
+        st.metric(
+            label=f'{user} daily avg',
+            value=f'{avg:.2f}',
+        )
