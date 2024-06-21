@@ -3,7 +3,7 @@
 12/15/23, 3:53 PM - Andres: 5
 12/15/23, 3:54 PM - Andres: Vos 3
 12/16/23, 9:49 AM - Andres: 6
-12/16/23, 10:47 AM - Nicolas Di Giovanni: 4
+12/16/23, 10:46 AM - Nicolas Di Giovanni: 4
 12/17/23, 11:33 AM - Andres: 7
 12/17/23, 11:38 AM - Nicolas Di Giovanni: 5
 12/18/23, 7:01 AM - Nicolas Di Giovanni: 6
@@ -19,7 +19,7 @@
 12/20/23, 1:32 PM - Nicolas Di Giovanni: 11
 12/21/23, 12:34 PM - Nicolas Di Giovanni: 12
 12/21/23, 1:23 PM - Nicolas Di Giovanni: 13
-12/21/23, 2:58 PM - Andres: Man que comiste
+12/21/23, 2:57 PM - Andres: Man que comiste
 12/22/23, 7:31 AM - Andres: 12
 12/22/23, 7:31 AM - Andres: Casi 48 horas man estoy preocupado de lo que vaya a salir
 12/22/23, 10:26 AM - Andres: 13
@@ -143,7 +143,7 @@
 1/11/24, 12:36 PM - Nicolas Di Giovanni: *38*
 1/11/24, 12:36 PM - Nicolas Di Giovanni: Man este cuenta por 3 cagos
 1/11/24, 12:36 PM - Andres: 🪵?
-1/11/24, 12:37 PM - Nicolas Di Giovanni: Lit
+1/11/24, 12:36 PM - Nicolas Di Giovanni: Lit
 1/11/24, 12:37 PM - Andres: Lamentablemente, la junta acordó que todos los goles valen uno
 1/11/24, 12:39 PM - Mateo Damico: cuando arrancaron a contar
 1/11/24, 12:39 PM - Mateo Damico: estoy en promedio 2 por dia
@@ -251,7 +251,7 @@
 1/21/24, 9:35 PM - Mateo Damico: Son horas complicadas
 1/21/24, 9:35 PM - Mateo Damico: Es 100% liquido
 1/21/24, 9:35 PM - Nicolas Di Giovanni: Noman
-1/21/24, 9:36 PM - Nicolas Di Giovanni: Tas en la B
+1/21/24, 9:35 PM - Nicolas Di Giovanni: Tas en la B
 1/22/24, 7:01 AM - Mateo Damico: 29
 1/22/24, 7:28 AM - Mateo Damico: che estoy hecho garcha
 1/22/24, 7:39 AM - Nicolas Di Giovanni: diria mas bien hecho mierda
@@ -265,7 +265,7 @@
 1/22/24, 9:56 AM - Andres: Hacete ver
 1/22/24, 2:34 PM - Andres: En la oficina tienen un bloqueador de señal en el baño son unos forros
 1/22/24, 2:34 PM - Andres: 60
-1/22/24, 2:35 PM - Nicolas Di Giovanni: 52
+1/22/24, 2:34 PM - Nicolas Di Giovanni: 52
 1/22/24, 2:35 PM - Nicolas Di Giovanni: tremendo!
 1/22/24, 2:39 PM - Andres: Man quiero ver esto en el gráfico
 1/22/24, 2:39 PM - Andres: Si tenés más granularidad en el horario, mejor
@@ -284,7 +284,7 @@
 1/23/24, 12:49 PM - Mateo Damico: Nunca se olviden de mear sentados
 1/23/24, 1:00 PM - Andres: Noman
 1/23/24, 1:01 PM - Andres: Te relajaste mucho?
-1/23/24, 1:06 PM - Mateo Damico: <Media omitted>
+1/23/24, 1:05 PM - Mateo Damico: <Media omitted>
 1/23/24, 1:09 PM - Andres: De nuevo, yo no sé quién gana esto
 1/23/24, 1:19 PM - Mateo Damico: manda la tabla
 1/23/24, 1:19 PM - Mateo Damico: o el grafico
@@ -331,7 +331,7 @@
 1/24/24, 1:28 PM - Nicolas Di Giovanni: JAJAJAJAJAJAAJ
 1/24/24, 1:28 PM - Nicolas Di Giovanni: man son unos enfermos
 1/24/24, 1:28 PM - Nicolas Di Giovanni: como caganb tanto?
-1/24/24, 1:35 PM - Andres: <Media omitted>
+1/24/24, 1:34 PM - Andres: <Media omitted>
 1/24/24, 1:36 PM - Mateo Damico: <Media omitted>
 1/24/24, 1:37 PM - Andres: Jajajajajajajajajaj
 1/24/24, 1:37 PM - Mateo Damico: copiame bien el grafico
@@ -400,7 +400,7 @@
 1/25/24, 12:07 PM - Mateo Damico: Un forecast simple
 1/25/24, 2:38 PM - Andres: Jajajajajajajj la puta madre me sigo riendo
 1/25/24, 2:41 PM - Mateo Damico: jjajajaa
-1/25/24, 2:42 PM - Mateo Damico: fue una mañana movida hoy
+1/25/24, 2:41 PM - Mateo Damico: fue una mañana movida hoy
 1/25/24, 2:42 PM - Mateo Damico: ee
 1/25/24, 2:53 PM - Andres: 65
 1/25/24, 3:19 PM - Mateo Damico: 38
@@ -414,7 +414,7 @@
 1/25/24, 3:40 PM - Andres: Ahí mejor el gráfico con los ejes y eso
 1/25/24, 3:41 PM - Andres: https://builtin.com/data-science/time-series-forecasting-python
 1/25/24, 3:41 PM - Andres: Todo tuyo rey
-1/25/24, 3:42 PM - Mateo Damico: yo lo se hacer
+1/25/24, 3:41 PM - Mateo Damico: yo lo se hacer
 1/25/24, 3:42 PM - Mateo Damico: en R
 1/25/24, 3:50 PM - Mateo Damico: tirate un seasonal naive forecast
 1/25/24, 4:17 PM - You changed the group description
@@ -538,7 +538,7 @@
 1/26/24, 7:47 PM - Nicolas Di Giovanni: Con semanas alcanza
 1/26/24, 7:48 PM - Nicolas Di Giovanni: Pensando en que ya van varios dias
 1/26/24, 7:48 PM - Nicolas Di Giovanni: Cuando lleguemos a 300 se hace dificil de leer
-1/26/24, 7:54 PM - Andres: Ahí pasamos a meses
+1/26/24, 7:53 PM - Andres: Ahí pasamos a meses
 1/26/24, 7:54 PM - Andres: Ojalá tengamos ese problema
 1/26/24, 7:54 PM - Nicolas Di Giovanni: Tal cual
 1/26/24, 8:54 PM - Andres: 68
@@ -620,7 +620,7 @@ Intervalos inactivos
 1/29/24, 10:34 AM - Andres: Ajajjajajajajaja
 1/29/24, 10:35 AM - Andres: Es que son eventos, no tiene sentido unirlos con una línea pero
 1/29/24, 10:40 AM - Mateo Damico: Obvio que tiene sentido unirlos
-1/29/24, 10:41 AM - Mateo Damico: Es un acc
+1/29/24, 10:40 AM - Mateo Damico: Es un acc
 1/29/24, 10:41 AM - Andres: Si tenés razón
 1/29/24, 10:41 AM - Andres: Vos sos el actuario
 1/29/24, 10:44 AM - Nicolas Di Giovanni: Como consultor especialista en todo debo decir que esta fea la escala y los colores son poco claros. No está orientado en el "so what?" Ni action driven
@@ -682,7 +682,7 @@ El potencial
 1/30/24, 11:24 AM - Andres: Ignacia?
 1/30/24, 11:24 AM - Andres: Que mierda
 1/30/24, 11:25 AM - Mateo Damico: se puede ser mas chileno traidor?
-1/30/24, 11:26 AM - Mateo Damico: manda los graficos andy
+1/30/24, 11:25 AM - Mateo Damico: manda los graficos andy
 1/30/24, 11:26 AM - Mateo Damico: no aguanto mas
 1/30/24, 11:26 AM - Mateo Damico: quiero ver
 1/30/24, 11:29 AM - Mateo Damico: <Media omitted>
@@ -701,11 +701,11 @@ El potencial
 1/30/24, 11:44 AM - Andres: Pero como tenemos el archivo linkeados con el mismo path, debería encontrarlo
 1/30/24, 11:44 AM - Mateo Damico: que toco ahora?
 1/30/24, 11:44 AM - Andres: Y como es un shared drive, yo lo actualizo y se te actualiza
-1/30/24, 11:45 AM - Andres: Lo montaste?
+1/30/24, 11:44 AM - Andres: Lo montaste?
 1/30/24, 11:45 AM - Andres: <Media omitted>
 1/30/24, 11:45 AM - Andres: En orden
 1/30/24, 11:45 AM - Mateo Damico: MessageError: Error: credential propagation was unsuccessful
-1/30/24, 11:46 AM - Andres: Estas con tu cuenta de google en Chrome?
+1/30/24, 11:45 AM - Andres: Estas con tu cuenta de google en Chrome?
 1/30/24, 11:47 AM - Mateo Damico: listo pude
 1/30/24, 11:47 AM - Andres: Ah me tiro lo mismo pero me sugirió correr un cell que lo hizo
 1/30/24, 11:47 AM - Mateo Damico: pero tenes que actualizar la bbdd
@@ -788,7 +788,7 @@ El potencial
 2/1/24, 3:43 PM - Mateo Damico: Cuando vienen a arg?
 2/1/24, 3:43 PM - Mateo Damico: Yo llego el 13 a bsas
 2/1/24, 4:29 PM - Nicolas Di Giovanni: yo voy recien a fines de febrero reo
-2/1/24, 4:30 PM - Nicolas Di Giovanni: creo
+2/1/24, 4:29 PM - Nicolas Di Giovanni: creo
 2/2/24, 12:34 PM - Nicolas Di Giovanni: 68
 2/2/24, 12:34 PM - Nicolas Di Giovanni: 69
 2/2/24, 1:47 PM - Andres: 79
@@ -836,7 +836,7 @@ El potencial
 2/7/24, 3:17 PM - Andres: 85
 2/7/24, 3:23 PM - Andres: <Media omitted>
 2/7/24, 3:23 PM - Andres: Esta picante
-2/7/24, 3:44 PM - Nicolas Di Giovanni: si proyectas los último dias de mateo
+2/7/24, 3:43 PM - Nicolas Di Giovanni: si proyectas los último dias de mateo
 2/7/24, 3:44 PM - Nicolas Di Giovanni: queda bien por abajo nuestro
 2/7/24, 4:24 PM - Mateo Damico: La puta madre
 2/7/24, 4:24 PM - Mateo Damico: El sur me esta haciendo mierda
@@ -902,7 +902,7 @@ El potencial
 2/12/24, 8:46 AM - Andres: 92
 2/13/24, 7:43 AM - Nicolas Di Giovanni: 83
 2/13/24, 7:49 AM - Mateo Damico: <Media omitted>
-2/13/24, 7:50 AM - Mateo Damico: Faltan 3
+2/13/24, 7:49 AM - Mateo Damico: Faltan 3
 2/13/24, 7:50 AM - Andres: 93
 2/13/24, 7:51 AM - Nicolas Di Giovanni: noman
 2/13/24, 1:51 PM - Andres: 94
@@ -974,7 +974,7 @@ El potencial
 2/15/24, 3:48 PM - Mateo Damico: No lo hagas
 2/15/24, 3:51 PM - Mateo Damico: actualizame la bbdd andy pajin
 2/15/24, 3:53 PM - Mateo Damico: <Media omitted>
-2/16/24, 6:02 AM - Andres: 100
+2/16/24, 6:01 AM - Andres: 100
 2/16/24, 6:02 AM - Andres: The big one
 2/16/24, 6:02 AM - Nicolas Di Giovanni: Nice
 2/16/24, 6:02 AM - Nicolas Di Giovanni: Fue memorable?
@@ -1110,7 +1110,7 @@ El potencial
 2/26/24, 2:16 PM - Nicolas Di Giovanni: 100
 2/26/24, 2:16 PM - Nicolas Di Giovanni: Aca en planta
 2/27/24, 7:28 AM - Nicolas Di Giovanni: 101
-2/27/24, 7:38 AM - Mateo Damico: 81
+2/27/24, 7:37 AM - Mateo Damico: 81
 2/27/24, 12:02 PM - Andres: 121
 2/27/24, 3:32 PM - Andres: 122
 2/27/24, 4:04 PM - Mateo Damico: Uff
@@ -1179,7 +1179,7 @@ El potencial
 3/5/24, 2:02 PM - Nicolas Di Giovanni: null
 3/5/24, 2:03 PM - Andres: No sé si lo quiero abrir Nico
 3/5/24, 2:04 PM - Andres: Man estás más blanco que la pared
-3/5/24, 2:09 PM - Mateo Damico: Andy
+3/5/24, 2:08 PM - Mateo Damico: Andy
 3/5/24, 2:09 PM - Mateo Damico: Hijo de puta
 3/5/24, 2:09 PM - Andres: Que
 3/5/24, 2:09 PM - Mateo Damico: Contesta
@@ -1369,7 +1369,7 @@ El potencial
 3/21/24, 10:01 AM - Nicolas Di Giovanni: man estoy hasta la pija en esta planta de mierda
 3/21/24, 10:01 AM - Nicolas Di Giovanni: ta explotando todo
 3/22/24, 8:07 AM - Mateo Damico: 115
-3/22/24, 8:57 AM - Andres: Estas sólido en ese horario
+3/22/24, 8:56 AM - Andres: Estas sólido en ese horario
 3/22/24, 8:57 AM - Andres: Yo ayer no cagué man no sé qué pasa
 3/22/24, 9:01 AM - Nicolas Di Giovanni: 126
 3/22/24, 10:42 AM - Andres: 164
@@ -1382,7 +1382,7 @@ El potencial
 3/23/24, 9:21 AM - Mateo Damico: 116
 3/23/24, 10:17 AM - Nicolas Di Giovanni: 128
 3/23/24, 12:23 PM - Andres: 166
-3/23/24, 3:35 PM - Nicolas Di Giovanni: 129
+3/23/24, 3:34 PM - Nicolas Di Giovanni: 129
 3/23/24, 3:35 PM - Nicolas Di Giovanni: Post gym
 3/23/24, 3:35 PM - Nicolas Di Giovanni: Costo sacarlo
 3/23/24, 6:18 PM - Andres: 167
@@ -1395,7 +1395,7 @@ El potencial
 3/24/24, 3:50 PM - Nicolas Di Giovanni: y me llamo clari
 3/24/24, 3:50 PM - Nicolas Di Giovanni: no aguanto mas
 3/25/24, 7:57 AM - Mateo Damico: 118
-3/25/24, 7:58 AM - Mateo Damico: Estoy tapado
+3/25/24, 7:57 AM - Mateo Damico: Estoy tapado
 3/25/24, 7:58 AM - Mateo Damico: Andy venite cuando viene nico
 3/25/24, 7:58 AM - Nicolas Di Giovanni: 130
 3/25/24, 7:58 AM - Nicolas Di Giovanni: 131
@@ -1414,7 +1414,7 @@ El potencial
 3/26/24, 10:54 AM - Nicolas Di Giovanni: 133
 3/26/24, 11:46 AM - Andres: Che
 3/26/24, 11:46 AM - Andres: Ayuda
-3/26/24, 11:47 AM - Andres: Todavía nada
+3/26/24, 11:46 AM - Andres: Todavía nada
 3/26/24, 12:49 PM - Mateo Damico: Jodete
 3/26/24, 1:20 PM - Andres: 168
 3/26/24, 1:21 PM - Andres: <Media omitted>
@@ -1467,7 +1467,7 @@ El potencial
 4/1/24, 11:45 PM - Andres: 181
 4/1/24, 11:45 PM - Andres: En el nuevo depto
 4/2/24, 12:30 AM - Mateo Damico: Respect
-4/2/24, 12:31 AM - Mateo Damico: Manda foto
+4/2/24, 12:30 AM - Mateo Damico: Manda foto
 4/2/24, 12:31 AM - Mateo Damico: Del depto
 4/2/24, 12:31 AM - Mateo Damico: No de la caca
 4/2/24, 12:31 AM - Andres: <Media omitted>
@@ -1520,7 +1520,7 @@ El potencial
 4/5/24, 3:49 PM - Andres: Me faltó la leyenda
 4/5/24, 3:50 PM - Mateo Damico: no puede ser man
 4/5/24, 3:50 PM - Mateo Damico: caido
-4/5/24, 3:51 PM - Andres: En en febrero pecheaste
+4/5/24, 3:50 PM - Andres: En en febrero pecheaste
 4/5/24, 3:51 PM - Andres: Venías bien
 4/5/24, 3:51 PM - Mateo Damico: me cago el sur
 4/5/24, 3:52 PM - Mateo Damico: <Media omitted>
@@ -1553,14 +1553,14 @@ El potencial
 4/9/24, 7:06 AM - Mateo Damico: Estoy podrido
 4/9/24, 8:41 AM - Nicolas Di Giovanni: 147 chiquito
 4/9/24, 10:42 AM - Andres: 190
-4/9/24, 8:05 PM - Mateo Damico: 140
+4/9/24, 8:04 PM - Mateo Damico: 140
 4/10/24, 7:44 AM - Mateo Damico: 141
 4/10/24, 2:14 PM - Andres: 191
 4/10/24, 2:14 PM - Andres: Che estoy mejor
 4/10/24, 3:29 PM - Nicolas Di Giovanni: 148
 4/10/24, 4:53 PM - Mateo Damico: 142
 4/10/24, 6:31 PM - Mateo Damico: Che
-4/10/24, 6:32 PM - Mateo Damico: 143
+4/10/24, 6:31 PM - Mateo Damico: 143
 4/10/24, 6:32 PM - Mateo Damico: <Media omitted>
 4/10/24, 8:40 PM - Andres: La quemé
 4/10/24, 8:40 PM - Andres: 192
@@ -1582,7 +1582,7 @@ El potencial
 4/12/24, 6:53 PM - Nicolas Di Giovanni: 150
 4/13/24, 11:05 AM - Andres: 196
 4/13/24, 11:24 AM - Mateo Damico: 147
-4/14/24, 10:28 AM - Andres: 197
+4/14/24, 10:27 AM - Andres: 197
 4/14/24, 10:59 AM - Mateo Damico: 148
 4/14/24, 2:00 PM - Nicolas Di Giovanni: *151*
 4/15/24, 6:11 AM - Mateo Damico: 149
@@ -1645,7 +1645,7 @@ El potencial
 4/19/24, 9:04 AM - Andres: No sirve así
 4/19/24, 9:25 AM - Mateo Damico: e
 4/19/24, 10:27 AM - Andres: En el aeropuerto
-4/19/24, 10:28 AM - Andres: 204
+4/19/24, 10:27 AM - Andres: 204
 4/19/24, 10:28 AM - Andres: Manda un mensaje por cada uno y borra ese
 4/19/24, 10:28 AM - Andres: La paja es que en el gráfico va a aparecer como un línea vertical
 4/19/24, 10:28 AM - Andres: Pero bueno
@@ -1705,7 +1705,7 @@ El potencial
 4/26/24, 8:41 AM - Mateo Damico: 167
 4/26/24, 8:46 AM - Andres: Me estoy quedando re atrás
 4/26/24, 8:47 AM - Andres: Ayer no cagué
-4/26/24, 8:59 AM - Mateo Damico: Andy
+4/26/24, 8:58 AM - Mateo Damico: Andy
 4/26/24, 8:59 AM - Mateo Damico: Por favor
 4/26/24, 8:59 AM - Mateo Damico: Pasa los graficos
 4/26/24, 10:13 AM - Andres: 209
@@ -1807,17 +1807,17 @@ El potencial
 5/4/24, 4:23 PM - Nicolas Di Giovanni: Si alguien se tira un pedo y sale con regalito
 5/4/24, 4:24 PM - Nicolas Di Giovanni: Cuenta como un cago para sumar?
 5/4/24, 4:46 PM - Nicolas Di Giovanni: 176
-5/4/24, 5:33 PM - Mateo Damico: Como vas a comer ramen chileno
+5/4/24, 5:32 PM - Mateo Damico: Como vas a comer ramen chileno
 5/5/24, 9:01 AM - Mateo Damico: 178
 5/5/24, 9:22 AM - Andres: 223
 5/5/24, 12:19 PM - Nicolas Di Giovanni: 177
 5/5/24, 12:51 PM - Mateo Damico: Eeee
 5/5/24, 10:21 PM - Mateo Damico: 179
 5/6/24, 8:13 AM - Mateo Damico: 180
-5/6/24, 10:18 AM - Andres: 224
+5/6/24, 10:17 AM - Andres: 224
 5/6/24, 10:18 AM - Andres: No man nunca olió tan mal
 5/6/24, 11:16 AM - Mateo Damico: andy
-5/6/24, 11:17 AM - Mateo Damico: manda los graficos man
+5/6/24, 11:16 AM - Mateo Damico: manda los graficos man
 5/6/24, 3:34 PM - Andres: No debería haber almorzado ese tikka masala
 5/6/24, 3:34 PM - Andres: 225
 5/6/24, 4:48 PM - Nicolas Di Giovanni: 178
@@ -1846,7 +1846,7 @@ El potencial
 5/9/24, 6:58 PM - Andres: Me estas pisando los talones
 5/9/24, 7:09 PM - Mateo Damico: Nice
 5/9/24, 7:09 PM - Mateo Damico: Nice^2
-5/9/24, 7:10 PM - Mateo Damico: Nice^3
+5/9/24, 7:09 PM - Mateo Damico: Nice^3
 5/9/24, 7:10 PM - Mateo Damico: La azul esta mas rara que perro verde
 5/9/24, 7:10 PM - Andres: <Media omitted>
 5/9/24, 7:30 PM - Mateo Damico: Y los histogramas?
@@ -1897,7 +1897,7 @@ El potencial
 5/17/24, 8:43 AM - Nicolas Di Giovanni: Tengo que dejar de comer queso
 5/17/24, 9:33 PM - Nicolas Di Giovanni: 192
 5/17/24, 9:33 PM - Mateo Damico: No bro
-5/17/24, 9:34 PM - Mateo Damico: Nsync
+5/17/24, 9:33 PM - Mateo Damico: Nsync
 5/17/24, 9:34 PM - Mateo Damico: 194
 5/17/24, 9:34 PM - Mateo Damico: Roght now
 5/17/24, 9:34 PM - Nicolas Di Giovanni: Tremendo
@@ -2001,7 +2001,7 @@ El potencial
 5/22/24, 3:03 PM - Nicolas Di Giovanni: Un honor estar en este lugar
 5/22/24, 3:03 PM - Nicolas Di Giovanni: Igual, endiablado este cago
 5/22/24, 3:03 PM - Nicolas Di Giovanni: La pase mal
-5/22/24, 3:04 PM - Nicolas Di Giovanni: Fue un frictionless whipe
+5/22/24, 3:03 PM - Nicolas Di Giovanni: Fue un frictionless whipe
 5/22/24, 3:04 PM - Nicolas Di Giovanni: Wipe
 5/22/24, 3:12 PM - Andres: You deleted this message
 5/22/24, 11:12 PM - Nicolas Di Giovanni: 201
@@ -2041,7 +2041,7 @@ El potencial
 5/24/24, 8:29 AM - Mateo Damico: necesito mas material de analisis andy
 5/24/24, 8:30 AM - Nicolas Di Giovanni: Pero con esto podemos ver mejor el dia a dia
 5/24/24, 8:30 AM - Nicolas Di Giovanni: El cago a cago
-5/24/24, 8:31 AM - Nicolas Di Giovanni: Un embole ver a andy 200 cagos mas arriba que nosotros por unas diarreas brutales al inicio
+5/24/24, 8:30 AM - Nicolas Di Giovanni: Un embole ver a andy 200 cagos mas arriba que nosotros por unas diarreas brutales al inicio
 5/24/24, 8:59 AM - Andres: Ustedes realmente quieren cagar más?
 5/24/24, 9:15 AM - Nicolas Di Giovanni: no jajaj
 5/24/24, 9:15 AM - Nicolas Di Giovanni: yo feliz siendo el, mas lento
@@ -2083,7 +2083,7 @@ El potencial
 5/28/24, 11:40 AM - Mateo Damico: Ufff
 5/28/24, 11:40 AM - Mateo Damico: Hermoso
 5/28/24, 11:40 AM - Mateo Damico: Estas +tres
-5/28/24, 11:41 AM - Andres: Dejame ver bien que números nos asigno a Nico y a mi
+5/28/24, 11:40 AM - Andres: Dejame ver bien que números nos asigno a Nico y a mi
 5/28/24, 11:41 AM - Andres: Para el próximo
 5/28/24, 11:41 AM - Mateo Damico: Manda graficos
 5/28/24, 11:41 AM - Mateo Damico: ESTOY CIEGO
@@ -2112,7 +2112,7 @@ Nico también
 5/28/24, 12:07 PM - Mateo Damico: Nico es literalmente gay
 5/28/24, 10:33 PM - Nicolas Di Giovanni: 183
 5/29/24, 8:06 AM - Mateo Damico: Pero para
-5/29/24, 8:07 AM - Mateo Damico: Ustedes van a decir estos numeros ahora??
+5/29/24, 8:06 AM - Mateo Damico: Ustedes van a decir estos numeros ahora??
 5/29/24, 8:07 AM - Mateo Damico: 209
 5/29/24, 8:07 AM - Andres: Sí
 5/29/24, 8:07 AM - Andres: Porque vamos esos cagos desde el 5 de enero
@@ -2132,7 +2132,7 @@ Nico también
 5/29/24, 9:10 AM - Nicolas Di Giovanni: el registro queda
 5/29/24, 9:34 AM - Andres: 226
 5/29/24, 2:50 PM - Andres: 227
-5/29/24, 2:53 PM - Nicolas Di Giovanni: Estoy literalmente sentado cagando
+5/29/24, 2:52 PM - Nicolas Di Giovanni: Estoy literalmente sentado cagando
 5/29/24, 2:53 PM - Nicolas Di Giovanni: 185
 5/30/24, 7:24 AM - Mateo Damico: 209
 5/30/24, 7:24 AM - Mateo Damico: Ahi repeti el ultimo
@@ -2154,7 +2154,7 @@ Nico también
 5/30/24, 11:23 AM - Mateo Damico: hay quorum por mayoria
 5/30/24, 11:25 AM - Andres: Prefiero el .
 5/30/24, 11:32 AM - Mateo Damico: pero para flaco
-5/30/24, 11:33 AM - Mateo Damico: ya mandaste dos puntos
+5/30/24, 11:32 AM - Mateo Damico: ya mandaste dos puntos
 5/30/24, 11:33 AM - Mateo Damico: tramposo
 5/30/24, 11:33 AM - Mateo Damico: aparte yo re uso el punto en las oraciones
 5/30/24, 11:33 AM - Mateo Damico: prefiero el uno
@@ -2194,7 +2194,7 @@ Nico también
 6/1/24, 7:01 PM - Mateo Damico: Repu
 6/2/24, 10:20 AM - Mateo Damico: 1
 6/2/24, 12:14 PM - Andres: .
-6/2/24, 4:04 PM - Nicolas Di Giovanni: .
+6/2/24, 4:03 PM - Nicolas Di Giovanni: .
 6/2/24, 4:53 PM - Mateo Damico: Reputos
 6/2/24, 6:17 PM - Mateo Damico: 1
 6/3/24, 9:14 AM - Mateo Damico: 1
@@ -2237,7 +2237,7 @@ Nico también
 6/4/24, 11:17 AM - Nicolas Di Giovanni: me merecia mi descanswo
 6/5/24, 8:05 AM - Mateo Damico: 1
 6/5/24, 8:43 AM - Nicolas Di Giovanni: .
-6/5/24, 8:59 AM - Andres: .
+6/5/24, 8:58 AM - Andres: .
 6/5/24, 9:05 AM - Mateo Damico: recontrareputazos
 6/5/24, 9:06 AM - Mateo Damico: manda los graficos andy
 6/5/24, 5:39 PM - Andres: .
@@ -2355,7 +2355,7 @@ Uno = dificil pero nada grave
 6/11/24, 11:25 AM - Mateo Damico: habria que homologar. y la verdad que no estoy para eso
 6/11/24, 11:25 AM - Cristobal Marcucci: El módulo es 💩
 6/11/24, 11:25 AM - Cristobal Marcucci: Entonces definimos una escala en base a 💩
-6/11/24, 11:26 AM - Cristobal Marcucci: Que va de 💩 a 💩💩💩💩💩
+6/11/24, 11:25 AM - Cristobal Marcucci: Que va de 💩 a 💩💩💩💩💩
 6/11/24, 11:26 AM - Andres: Osea si quieren háganlo, si después usamos esa dimensión o no, no importa
 6/11/24, 11:27 AM - Andres: Como mierda hago que el string matchee un emoji? se aprende algo nuevo todos los dias
 6/11/24, 11:27 AM - Cristobal Marcucci: No entiendo de que hablan yo solo hago planos. Pero el nombre de esta App tiene que ser “cagadapp”
@@ -2390,7 +2390,7 @@ Uno = dificil pero nada grave
 6/12/24, 3:16 PM - Cristobal Marcucci: Sigo seco
 6/12/24, 3:16 PM - Cristobal Marcucci: Lo intento pero no hay caso
 6/12/24, 3:16 PM - Cristobal Marcucci: Hoy me reviento esa bondiola braseada que tengo en el freezer hace dos meses
-6/12/24, 3:17 PM - Cristobal Marcucci: Si con eso no cago ya no se
+6/12/24, 3:16 PM - Cristobal Marcucci: Si con eso no cago ya no se
 6/12/24, 3:43 PM - Nicolas Di Giovanni: 1
 6/12/24, 3:43 PM - Nicolas Di Giovanni: 1
 6/12/24, 3:43 PM - Nicolas Di Giovanni: tuve dos cagos en menos de 30 minutos
@@ -2429,3 +2429,77 @@ Uno = dificil pero nada grave
 6/14/24, 10:52 AM - Cristobal Marcucci: Hoy voy por los 3
 6/14/24, 2:40 PM - Nicolas Di Giovanni: .
 6/15/24, 8:52 AM - Andres: .
+6/15/24, 10:48 AM - Andres: Hay update https://me-cago.streamlit.app
+6/15/24, 10:48 AM - Andres: Patch notes:
+- updated database
+- computed daily avg metrics
+6/15/24, 10:48 AM - You changed the group description
+6/15/24, 11:09 AM - Mateo Damico: Mobile no funca
+6/15/24, 11:09 AM - Andres: null
+6/15/24, 11:10 AM - Mateo Damico: No me funca
+6/15/24, 11:10 AM - Cristobal Marcucci: En iPhone no anda
+6/15/24, 11:10 AM - Cristobal Marcucci: En ios
+6/15/24, 11:10 AM - Cristobal Marcucci: En móvil high class
+6/15/24, 11:11 AM - Mateo Damico: claro
+6/15/24, 11:11 AM - Mateo Damico: no se porque me relaciono con gente que no tiene iphone
+6/15/24, 11:12 AM - Andres: No te abre una página bobito
+6/15/24, 11:12 AM - Mateo Damico: <Media omitted>
+6/15/24, 11:12 AM - Andres: Jajajajaj es un problema ese
+6/15/24, 11:13 AM - Andres: Fueron 5 en 3 días pero la cuenta da mal. Se va a estabilizar en un rato
+6/15/24, 11:14 AM - Mateo Damico: bueno pero igual 1.66 es muy superior al resto
+6/15/24, 11:14 AM - Mateo Damico: nico es basicamente gay
+6/15/24, 11:14 AM - Cristobal Marcucci: No algo paso
+6/15/24, 11:14 AM - Andres: Si
+6/15/24, 11:14 AM - Cristobal Marcucci: Ojalá cargara tanto
+6/15/24, 11:15 AM - Andres: Próximo patch voy a sacar un delta del avg en la última ventana de 2 semanas
+6/15/24, 11:15 AM - Andres: A ver cómo viene el trend 📈
+6/15/24, 11:16 AM - Mateo Damico: next steps:
+- medallero
+- freq por dia de la semana & hora
+- histogramas
+6/15/24, 11:17 AM - Andres: También puedo calcular el avg en ventanas de 1 semana y graficar un time series de eso
+6/15/24, 11:18 AM - Andres: Aprendete la librería pandas de Python
+6/15/24, 11:18 AM - Cristobal Marcucci: Puedo imprimir en 3d la copa sorete de oro <This message was edited>
+6/15/24, 11:18 AM - Andres: https://github.com/adigiovanni97/me-cago/blob/main/streamlit_app.py
+6/15/24, 11:18 AM - Cristobal Marcucci: Ese es mi aporte
+6/15/24, 11:19 AM - Cristobal Marcucci: Envíos por dhl
+6/15/24, 11:20 AM - Andres: <Media omitted>
+6/15/24, 11:20 AM - Andres: Data analytics @ me-cago App
+6/15/24, 11:25 AM - Mateo Damico: dale
+6/15/24, 2:49 PM - Andres: Que onda hoy no cagaron o se olvidaron
+6/15/24, 2:50 PM - Cristobal Marcucci: Aún no cague
+6/15/24, 2:54 PM - Andres: .
+6/15/24, 4:14 PM - Nicolas Di Giovanni: Yo aun no cague
+6/15/24, 4:42 PM - Mateo Damico: 1
+6/15/24, 4:42 PM - Mateo Damico: Recien ahora
+6/15/24, 5:08 PM - Cristobal Marcucci: En breve me toca
+6/15/24, 5:08 PM - Cristobal Marcucci: Mi panza me aviso
+6/15/24, 5:13 PM - Cristobal Marcucci: 1
+6/15/24, 5:13 PM - Cristobal Marcucci: null
+6/16/24, 2:16 PM - Mateo Damico: 1
+6/16/24, 4:14 PM - Nicolas Di Giovanni: .
+6/16/24, 6:44 PM - Andres: .
+6/16/24, 6:45 PM - Nicolas Di Giovanni: .
+6/16/24, 8:58 PM - Cristobal Marcucci: .
+6/17/24, 10:24 AM - Andres: .
+6/17/24, 10:52 AM - Mateo Damico: 1
+6/17/24, 5:16 PM - Cristobal Marcucci: 1
+6/17/24, 5:51 PM - Nicolas Di Giovanni: .
+6/17/24, 5:51 PM - Nicolas Di Giovanni: Un miedo abrir esto man
+6/17/24, 7:16 PM - Mateo Damico: 1
+6/18/24, 7:25 AM - Mateo Damico: 1
+6/18/24, 10:07 AM - Andres: .
+6/18/24, 10:25 AM - Nicolas Di Giovanni: .
+6/18/24, 4:31 PM - Cristobal Marcucci: 1
+6/18/24, 5:00 PM - Mateo Damico: 1
+6/18/24, 5:16 PM - Nicolas Di Giovanni: .
+6/19/24, 8:05 AM - Mateo Damico: 1
+6/19/24, 10:01 AM - Andres: .
+6/19/24, 10:41 AM - Nicolas Di Giovanni: .
+6/19/24, 10:49 AM - Cristobal Marcucci: 1
+6/19/24, 12:46 PM - Mateo Damico: 1
+6/20/24, 8:35 AM - Mateo Damico: 1
+6/20/24, 9:07 AM - Cristobal Marcucci: 1
+6/20/24, 9:51 AM - Andres: .
+6/20/24, 6:36 PM - Nicolas Di Giovanni: .
+6/21/24, 8:18 AM - Mateo Damico: 1
