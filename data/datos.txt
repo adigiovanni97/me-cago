@@ -44,7 +44,7 @@
 12/29/23, 8:45 AM - Nicolas Di Giovanni: 20
 12/29/23, 4:35 PM - Andres: 23
 12/30/23, 7:39 AM - Nicolas Di Giovanni: 21
-12/30/23, 10:50 AM - Andres: 24
+12/30/23, 10:49 AM - Andres: 24
 12/30/23, 1:02 PM - Nicolas Di Giovanni: 22
 12/31/23, 7:17 AM - Andres: 25
 12/31/23, 7:31 AM - Nicolas Di Giovanni: 23
@@ -386,7 +386,7 @@
 1/25/24, 12:00 PM - Andres: **numero** también
 1/25/24, 12:00 PM - Mateo Damico: No
 1/25/24, 12:00 PM - Mateo Damico: No me borres ese mensaje <This message was edited>
-1/25/24, 12:01 PM - Andres: Querés que borre el 33 de arriba?
+1/25/24, 12:00 PM - Andres: Querés que borre el 33 de arriba?
 1/25/24, 12:01 PM - Mateo Damico: Si
 1/25/24, 12:01 PM - Andres: Ok
 1/25/24, 12:02 PM - Andres: El mensaje tiene que empezar con número y después lo que quieran
@@ -701,7 +701,7 @@ El potencial
 1/30/24, 11:44 AM - Andres: Pero como tenemos el archivo linkeados con el mismo path, debería encontrarlo
 1/30/24, 11:44 AM - Mateo Damico: que toco ahora?
 1/30/24, 11:44 AM - Andres: Y como es un shared drive, yo lo actualizo y se te actualiza
-1/30/24, 11:45 AM - Andres: Lo montaste?
+1/30/24, 11:44 AM - Andres: Lo montaste?
 1/30/24, 11:45 AM - Andres: <Media omitted>
 1/30/24, 11:45 AM - Andres: En orden
 1/30/24, 11:45 AM - Mateo Damico: MessageError: Error: credential propagation was unsuccessful
@@ -1853,7 +1853,7 @@ El potencial
 5/10/24, 8:12 AM - Mateo Damico: 186
 5/10/24, 11:01 AM - Andres: 230
 5/11/24, 12:10 AM - Nicolas Di Giovanni: 183
-5/11/24, 12:27 AM - Andres: Horario rero
+5/11/24, 12:26 AM - Andres: Horario rero
 5/11/24, 12:27 AM - Andres: Raro
 5/11/24, 9:18 AM - Andres: 231
 5/11/24, 9:18 AM - Andres: Podridisimo
@@ -2786,3 +2786,154 @@ Uno = dificil pero nada grave
 7/24/24, 8:07 AM - Mateo Damico: 1
 7/24/24, 8:07 AM - Mateo Damico: Fue el ultimo. Re gay
 7/24/24, 10:48 AM - Andres: .
+7/24/24, 11:56 AM - Andres: Base de datos actualizada
+7/24/24, 11:56 AM - Nicolas Di Giovanni: .
+7/24/24, 12:25 PM - Mateo Damico: te recorte. ahora estoy a 4
+7/24/24, 12:26 PM - Mateo Damico: felicitaciones @5491158412607 por llegar a los 50
+7/24/24, 12:56 PM - Cristobal Marcucci: Gracias es un honor
+7/24/24, 12:56 PM - Cristobal Marcucci: Aunque mi intestino no está cooperando
+7/25/24, 7:19 AM - Mateo Damico: 1
+7/25/24, 10:38 AM - Andres: .
+7/25/24, 11:02 AM - Cristobal Marcucci: 1
+7/25/24, 11:01 PM - Mateo Damico: 1
+7/26/24, 8:26 AM - Nicolas Di Giovanni: .
+7/26/24, 9:02 AM - Cristobal Marcucci: 1
+7/26/24, 10:59 AM - Andres: .
+7/26/24, 1:04 PM - Mateo Damico: 1
+7/26/24, 1:49 PM - Nicolas Di Giovanni: .
+7/26/24, 8:42 PM - Andres: .
+7/27/24, 8:41 AM - Nicolas Di Giovanni: .
+7/27/24, 8:59 AM - Mateo Damico: 1
+7/27/24, 12:04 PM - Cristobal Marcucci: 1
+7/27/24, 3:23 PM - Mateo Damico: 1
+7/27/24, 7:09 PM - Cristobal Marcucci: 1
+7/28/24, 8:50 AM - Cristobal Marcucci: 1
+7/28/24, 8:50 AM - Cristobal Marcucci: buen dia
+7/28/24, 11:29 AM - Andres: .
+7/28/24, 11:29 AM - Andres: <Media omitted>
+7/28/24, 9:35 PM - Mateo Damico: 1
+7/29/24, 8:08 AM - Mateo Damico: 1
+7/29/24, 10:42 AM - Andres: .
+7/29/24, 1:30 PM - Cristobal Marcucci: 1
+7/29/24, 2:52 PM - Nicolas Di Giovanni: .
+7/29/24, 9:37 PM - Mateo Damico: 1
+7/30/24, 6:59 AM - Mateo Damico: 1
+7/30/24, 12:59 PM - Andres: No prometo nada pero hoy voy a trabajar en unos updates
+7/30/24, 1:00 PM - Cristobal Marcucci: 1
+7/30/24, 1:00 PM - Cristobal Marcucci: Casi me olvido
+7/30/24, 1:29 PM - Mateo Damico: actualiza la bbdd
+7/30/24, 1:29 PM - Mateo Damico: ya te recorte 2 creo
+7/30/24, 1:30 PM - Nicolas Di Giovanni: .
+7/30/24, 7:39 PM - Andres: .
+7/31/24, 8:18 AM - Mateo Damico: 1
+7/31/24, 8:26 AM - Nicolas Di Giovanni: .
+7/31/24, 10:28 AM - Cristobal Marcucci: 1
+7/31/24, 11:18 AM - Andres: .
+7/31/24, 2:34 PM - Andres: .
+7/31/24, 2:37 PM - Nicolas Di Giovanni: .
+7/31/24, 11:17 PM - Nicolas Di Giovanni: .
+8/1/24, 8:49 AM - Mateo Damico: 1
+8/1/24, 8:49 AM - Nicolas Di Giovanni: .
+8/1/24, 10:22 AM - Cristobal Marcucci: 1
+8/1/24, 11:53 AM - Cristobal Marcucci: 1
+8/1/24, 11:53 AM - Cristobal Marcucci: Agárrense
+8/1/24, 12:46 PM - Andres: .
+8/1/24, 6:46 PM - Mateo Damico: 1
+8/2/24, 9:08 AM - Mateo Damico: 1
+8/2/24, 9:13 AM - Cristobal Marcucci: 1
+8/2/24, 11:56 AM - Andres: .
+8/2/24, 12:19 PM - Nicolas Di Giovanni: .
+8/2/24, 6:22 PM - Mateo Damico: 1
+8/2/24, 6:32 PM - Nicolas Di Giovanni: .
+8/3/24, 8:30 AM - Mateo Damico: Fc chileno traidor
+8/3/24, 8:30 AM - Mateo Damico: No hay nada peor que ser chileno
+8/3/24, 9:22 AM - Nicolas Di Giovanni: .
+8/3/24, 9:22 AM - Nicolas Di Giovanni: Jajajaajaj
+8/3/24, 9:22 AM - Nicolas Di Giovanni: Gracias mateo
+8/3/24, 9:22 AM - Nicolas Di Giovanni: Un agrado que me lo recuerden
+8/3/24, 9:47 AM - Mateo Damico: 1
+8/3/24, 12:55 PM - Andres: .
+8/3/24, 5:33 PM - Andres: .
+8/4/24, 9:36 AM - Mateo Damico: 1
+8/4/24, 11:45 AM - Andres: .
+8/4/24, 4:08 PM - Cristobal Marcucci: 1
+8/4/24, 4:08 PM - Nicolas Di Giovanni: .
+8/5/24, 7:19 AM - Mateo Damico: 1
+8/5/24, 9:44 AM - Nicolas Di Giovanni: .
+8/5/24, 3:00 PM - Nicolas Di Giovanni: .
+8/5/24, 5:20 PM - Nicolas Di Giovanni: .
+8/5/24, 5:20 PM - Nicolas Di Giovanni: Tuve un dia complicado
+8/5/24, 7:06 PM - Mateo Damico: 1
+8/5/24, 8:20 PM - Andres: .
+8/5/24, 8:40 PM - Mateo Damico: Actualiza la bbdd
+8/6/24, 7:49 AM - Mateo Damico: 1
+8/6/24, 8:53 AM - Andres: Hoy a la noche
+8/6/24, 11:16 AM - Andres: .
+8/6/24, 11:16 AM - Cristobal Marcucci: 1
+8/6/24, 11:16 AM - Cristobal Marcucci: Casi se me pasa
+8/6/24, 11:17 AM - Andres: Ya me extrañaba, venías casi 48hs sin
+8/6/24, 11:17 AM - Cristobal Marcucci: Sorry día complicado ayer
+8/6/24, 11:17 AM - Cristobal Marcucci: Debo comprometerme con el research
+8/6/24, 12:44 PM - Cristobal Marcucci: 1
+8/6/24, 12:44 PM - Cristobal Marcucci: Consulta el pedo líquido como cuenta ?
+8/7/24, 8:09 AM - Mateo Damico: 1
+8/7/24, 10:11 AM - Andres: .
+8/7/24, 10:13 AM - Nicolas Di Giovanni: .
+8/7/24, 4:15 PM - Nicolas Di Giovanni: .
+8/7/24, 4:15 PM - Nicolas Di Giovanni: Fui a mear y me cagué
+8/7/24, 4:15 PM - Nicolas Di Giovanni: Rarisimo
+8/7/24, 4:16 PM - Mateo Damico: Re puto
+8/7/24, 4:16 PM - Cristobal Marcucci: 1
+8/7/24, 9:07 PM - Andres: .
+8/8/24, 6:45 AM - Mateo Damico: 1
+8/8/24, 3:53 PM - Andres: .
+8/9/24, 8:08 AM - Mateo Damico: 1
+8/9/24, 6:19 PM - Nicolas Di Giovanni: .
+8/9/24, 6:19 PM - Nicolas Di Giovanni: Me desinfle
+8/9/24, 6:45 PM - Mateo Damico: 1
+8/10/24, 7:26 AM - Mateo Damico: 1
+8/10/24, 10:16 AM - Nicolas Di Giovanni: .
+8/10/24, 10:30 AM - Andres: .
+8/10/24, 10:30 AM - Andres: Finalmente
+8/11/24, 11:08 AM - Mateo Damico: 1
+8/11/24, 11:08 AM - Mateo Damico: Actualiza que estoy ciego
+8/11/24, 11:36 AM - Andres: .
+8/11/24, 8:35 PM - Nicolas Di Giovanni: .
+8/12/24, 10:43 AM - Andres: .
+8/12/24, 10:43 AM - Mateo Damico: 1
+8/12/24, 1:10 PM - Nicolas Di Giovanni: .
+8/12/24, 4:57 PM - Mateo Damico: 1
+8/12/24, 4:57 PM - Cristobal Marcucci: amigo
+8/12/24, 4:57 PM - Mateo Damico: Me asusta la inactividad de @5491158412607
+8/12/24, 4:57 PM - Cristobal Marcucci: estoy seguro que no cago desde el jueves
+8/12/24, 4:57 PM - Mateo Damico: Jajajajaj
+8/12/24, 4:58 PM - Cristobal Marcucci: a mi tambien
+8/12/24, 4:58 PM - Cristobal Marcucci: pero no recuerdo posta haber ido
+8/12/24, 4:58 PM - Cristobal Marcucci: es grave
+8/12/24, 4:58 PM - Cristobal Marcucci: GRAVEEEEE
+8/12/24, 5:08 PM - Nicolas Di Giovanni: .
+8/12/24, 5:08 PM - Cristobal Marcucci: voy a automatizar mi inodoro
+8/12/24, 5:08 PM - Nicolas Di Giovanni: es como de mal gusto cagar justo cuando hablas sobre no poder cagar
+8/12/24, 5:08 PM - Cristobal Marcucci: y cada vez que me siente y tire la cadena mnade la notificación
+8/12/24, 5:08 PM - Nicolas Di Giovanni: heavy
+8/12/24, 5:09 PM - Cristobal Marcucci: <Media omitted>
+8/12/24, 5:09 PM - Cristobal Marcucci: <Media omitted>
+8/12/24, 5:09 PM - Andres: En que contexto te sentas y no tiras la cadena
+8/12/24, 5:10 PM - Cristobal Marcucci: no te explico
+8/12/24, 5:10 PM - Cristobal Marcucci: si solo fuera al tirar la cadena si voy a mear manda el mensaje
+8/12/24, 5:10 PM - Cristobal Marcucci: entonces necesito las dos condiciones
+8/12/24, 5:10 PM - Cristobal Marcucci: cachai
+8/12/24, 5:10 PM - Cristobal Marcucci: soy programador sin saberlo
+8/12/24, 5:10 PM - Cristobal Marcucci: igual yo lo hago toco a base de contactores
+8/12/24, 5:10 PM - Cristobal Marcucci: no me gusta programar
+8/12/24, 5:11 PM - Andres: Jajajaja la verdad es que tenés razón
+8/12/24, 5:11 PM - Andres: if !meoSentado
+8/12/24, 5:11 PM - Cristobal Marcucci: de hecho podes poner un sensor laser
+8/12/24, 5:11 PM - Cristobal Marcucci: y medis el tiempo de caída
+8/12/24, 5:12 PM - Cristobal Marcucci: lo analógico gobernara el mundo cunado se caigan las telecomunicaciones
+8/12/24, 5:12 PM - Cristobal Marcucci: acordate
+8/12/24, 5:15 PM - Cristobal Marcucci: uy esta pasando
+8/12/24, 5:15 PM - Cristobal Marcucci: que emoción
+8/12/24, 5:15 PM - Cristobal Marcucci: el café funciono
+8/12/24, 5:21 PM - Cristobal Marcucci: 1
+8/12/24, 5:49 PM - Andres: .
