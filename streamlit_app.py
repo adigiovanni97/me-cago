@@ -72,9 +72,9 @@ for sender in selected_users:
     else:
         line_chart.add_rows(filtered_sender_df)
 
-st.header(f'Analytics per user (for selected interval)')
+st.header(f'Analytics per user (for selected interval)', divider='gray')
 
-st.subheader('Daily avg (with last 2 week trend)')
+st.subheader('Daily avg (with last 2 week trend)', divider = 'gray')
 
 cols = st.columns(2)
 
