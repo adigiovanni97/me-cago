@@ -74,7 +74,7 @@ for sender in selected_users:
 
 st.header(f'Analytics per user (for selected interval)', divider='gray')
 
-st.subheader('Daily avg (with last week trend)', divider = 'gray')
+st.subheader('Daily avg (with last 2 week trend)', divider = 'gray')
 
 cols = st.columns(2)
 
