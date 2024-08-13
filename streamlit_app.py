@@ -57,7 +57,7 @@ filtered_df = df[
     & (from_datetime <= df['datetime'])
 ]
 
-st.header('Time series', divider='gray')
+st.header('Time series')
 
 ''
 ''
@@ -72,9 +72,9 @@ for sender in selected_users:
     else:
         line_chart.add_rows(filtered_sender_df)
 
-st.header(f'Analytics per user (for selected interval)', divider='gray')
+st.header(f'Analytics per user (for selected interval)')
 
-st.subheader('Daily avg (with last 2 week trend)', divider = 'gray')
+st.subheader('Daily avg (with last 2 week trend)')
 
 cols = st.columns(2)
 
