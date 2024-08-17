@@ -3,8 +3,8 @@ import pandas as pd
 import math
 from pathlib import Path
 from txt_parser import parse_file
-from analytics.analytics import compute_average_per_day
-from datetime import datetime, timedelta
+from analytics.analytics import compute_average_per_day, filter_between_dates, compute_rolling_window
+from datetime import datetime, timedelta, date
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
@@ -14,11 +14,12 @@ st.set_page_config(
 
 # -----------------------------------------------------------------------------
 # Data loading
-
+@st.cache_data
 def get_msg_data():
     return parse_file()
 
 df = get_msg_data()
+df['date'] = df.apply(lambda x: x['datetime'].date(), axis=1)
 
 # -----------------------------------------------------------------------------
 # Draw the actual page
@@ -32,9 +33,9 @@ df = get_msg_data()
 ''
 ''
 
-from_datetime, to_datetime = st.date_input("Select a date interval", (datetime(2024, 1, 5), df['datetime'].max()))
-from_datetime = datetime(from_datetime.year, from_datetime.month, from_datetime.day) - timedelta(days=1)
-to_datetime = datetime(to_datetime.year, to_datetime.month, to_datetime.day) + timedelta(days=1)
+from_date, to_date = st.date_input("Select a date interval", (date(2024, 1, 5), df['date'].max()))
+from_date = from_date - timedelta(days=1)
+to_date = to_date + timedelta(days=1)
 
 users = df['sender'].unique()
 
@@ -51,26 +52,41 @@ selected_users = st.multiselect(
 ''
 
 # Filter the data
-filtered_df = df[
-    (df['sender'].isin(selected_users))
-    & (df['datetime'] <= to_datetime)
-    & (from_datetime <= df['datetime'])
-]
+filtered_df = df[(df['sender'].isin(selected_users))]
+filtered_df = filter_between_dates(filtered_df, from_date, to_date)
 
-st.header('Time series')
+
+st.header('Time series', divider='gray')
 
 ''
 ''
+
+st.subheader(':poop: count', divider = 'gray')
 
 line_chart = None
 
 for sender in selected_users:
-    filtered_sender_df = filtered_df[filtered_df.sender == sender]
-    filtered_sender_df['accum'] = filtered_sender_df.reset_index().index
+    fsdf = filtered_df[filtered_df.sender == sender]
+    fsdf['accum'] = fsdf.reset_index().index
     if not line_chart:
-        line_chart = st.line_chart(filtered_sender_df, x='datetime', y='accum', color='sender')
+        line_chart = st.line_chart(fsdf, x='datetime', y='accum', color='sender')
     else:
-        line_chart.add_rows(filtered_sender_df)
+        line_chart.add_rows(fsdf)
+
+
+st.subheader(':poop: count in a 2 week rolling window', divider = 'gray')
+
+rolling_window_chart = None
+
+for sender in selected_users:
+    fsdf = filtered_df[filtered_df.sender == sender]
+    fsdf = compute_rolling_window(fsdf, timedelta(days=14))
+    fsdf = filter_between_dates(fsdf, fsdf['date'].min() + timedelta(days=14), fsdf['date'].max())
+    if not rolling_window_chart:
+        rolling_window_chart = st.line_chart(fsdf, x='datetime', y='window', color='sender')
+    else:
+        rolling_window_chart.add_rows(fsdf)
+
 
 st.header(f'Analytics per user (for selected interval)', divider='gray')
 
