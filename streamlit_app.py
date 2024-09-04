@@ -74,16 +74,18 @@ for sender in selected_users:
         line_chart.add_rows(fsdf)
 
 
-st.subheader(':poop: count in a 2 week rolling window', divider = 'gray')
+st.subheader(':poop: daily avg in a 2 week rolling window', divider = 'gray')
 
 rolling_window_chart = None
 
 for sender in selected_users:
+    days = 14
     fsdf = filtered_df[filtered_df.sender == sender]
-    fsdf = compute_rolling_window(fsdf, timedelta(days=14))
+    fsdf = compute_rolling_window(fsdf, timedelta(days=days))
+    fsdf['window_avg'] = fsdf.apply(lambda x: round(x['window']/days, 2), axis=1)
     fsdf = filter_between_dates(fsdf, fsdf['date'].min() + timedelta(days=14), fsdf['date'].max())
     if not rolling_window_chart:
-        rolling_window_chart = st.line_chart(fsdf, x='datetime', y='window', color='sender')
+        rolling_window_chart = st.line_chart(fsdf, x='datetime', y='window_avg', color='sender')
     else:
         rolling_window_chart.add_rows(fsdf)
 
