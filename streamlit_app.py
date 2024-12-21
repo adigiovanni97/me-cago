@@ -14,7 +14,7 @@ st.set_page_config(
 
 # -----------------------------------------------------------------------------
 # Data loading
-#@st.cache_data
+@st.cache_data
 def get_msg_data():
     return parse_file()
 
