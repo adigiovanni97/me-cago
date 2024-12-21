@@ -34,7 +34,7 @@ def _parse_datetime(date_message):
 def parse_file(filenames=[DATA_PATH, EXTRA_DATA_PATH]):
     events = []
     for file in filenames:
-        with open(DATA_PATH, 'r') as file:  # 'r' for read mode
+        with open(file, 'r') as file:  # 'r' for read mode
             for line in file:
                 match = re.match(MESSAGE_RE, line)
                 if match:
