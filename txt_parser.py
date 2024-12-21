@@ -8,6 +8,7 @@ DATETIME_RE = r"(?P<month>\d{1,2})/(?P<day>\d{1,2})/(?P<year>\d{2}), (?P<hour>\d
 
 MESSAGE_RE = r"(?P<datetime>\d+\/\d+\/\d{2}, \d+:\d{2}\s[A|P]M) - (?P<sender>[\w|\s]+): (?P<message>.+)"
 DATA_PATH = Path(__file__).parent/'data/datos.txt'
+EXTRA_DATA_PATH = Path(__file__).parent/'data/extra_data.txt'
 
 def _parse_datetime(date_message):
   match = re.match(DATETIME_RE, date_message)
@@ -30,18 +31,20 @@ def _parse_datetime(date_message):
     return parsed_datetime
 
 
-def parse_file(filename=DATA_PATH):
+def parse_file(filenames=[DATA_PATH, EXTRA_DATA_PATH]):
     events = []
-    with open(DATA_PATH, 'r') as file:  # 'r' for read mode
-        for line in file:
-            match = re.match(MESSAGE_RE, line)
-            if match:
-                event = {
-                    "datetime": _parse_datetime(match.group("datetime")),
-                    "sender": match.group("sender"),
-                    "message": match.group("message")
-                }
+    for file in filenames:
+        with open(DATA_PATH, 'r') as file:  # 'r' for read mode
+            for line in file:
+                match = re.match(MESSAGE_RE, line)
+                if match:
+                    event = {
+                        "datetime": _parse_datetime(match.group("datetime")),
+                        "sender": match.group("sender"),
+                        "message": match.group("message")
+                    }
 
-                if re.search(r"^\*?\d+\*?(\s.*)?$", event["message"]) or re.search(r"^\.$", event["message"]):
-                    events.append(event)
-    return pd.DataFrame(events, columns=['datetime', 'sender', 'message'])
+                    if re.search(r"^\*?\d+\*?(\s.*)?$", event["message"]) or re.search(r"^\.$", event["message"]):
+                        events.append(event)
+    df = pd.DataFrame(events, columns=['datetime', 'sender', 'message'])
+    return df.sort_values(by='datetime')
